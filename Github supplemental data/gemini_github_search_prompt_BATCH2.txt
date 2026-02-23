@@ -1,0 +1,180 @@
+TASK: Find GitHub (or GitLab) repository URLs for the following companies.
+
+CONTEXT: I am researching digital platform developer portals for my dissertation. I have a list of 140 companies that have developer portals but I have NOT yet identified their GitHub or GitLab presence. A prior batch of 112 companies has already been completed — these are NEW companies not yet searched. Many are banks/financial institutions with Open Banking developer portals (CC prefix = Credit Card/Banking industry).
+
+INSTRUCTIONS:
+1. For each company below, search for their GitHub organization page (github.com/companyname) or any official GitHub repositories they maintain for developers.
+2. Also check for GitLab presence if no GitHub is found.
+3. Only return URLs for OFFICIAL company-owned GitHub/GitLab accounts — not third-party repos, community forks, or unofficial mirrors.
+4. The URL should be to their GitHub ORGANIZATION page (e.g., https://github.com/microsoft) or a specific primary developer SDK/API repository (e.g., https://github.com/microsoft/Xbox-GDK).
+5. If you cannot find an official GitHub/GitLab presence, mark it as "NONE".
+
+OUTPUT FORMAT — Return your results as a JSON array. This exact format is required:
+
+```json
+[
+  {"platform_id": "CC1", "company": "ABN AMRO Bank NV", "github_url": "https://github.com/example", "notes": "brief note"},
+  {"platform_id": "CC2", "company": "Some Company", "github_url": "NONE", "notes": "no public GitHub found"}
+]
+```
+
+Each entry MUST have these exact four fields:
+- "platform_id": the ID code (e.g., "CC1", "PE8")
+- "company": the company name
+- "github_url": the full GitHub/GitLab URL, or "NONE" if not found
+- "notes": a brief note about what you found (e.g., "main org page", "SDK repo", "no public repos")
+
+COMPANIES TO SEARCH (140 total):
+
+CA16 | CE Info Systems Ltd | Developer portal: https://www.mapmyindia.com/api/
+CA21 | Denso Corp | Developer portal: https://dev.densoconnect.com/
+CA23 | E-Lead Electronic Co Ltd | Developer portal: https://www2.cdkglobal.com/api-solutions-crm
+CA59 | MiTAC International Corp | Developer portal: http://miowork-dev.mio.com/addon-sdk
+CA60 | Mitek Corp | Developer portal: https://developer.us.mitekcloud.com/
+CC1 | ABN AMRO Bank NV | Developer portal: https://developer.abnamro.com/
+CC10 | Akbank TAS | Developer portal: https://apiportal.akbank.com/
+CC103 | Caixa Económica Montepio Geral, Grupo | Developer portal: https://www.bancomontepio.pt/en/open-banking-apis
+CC104 | Caixa Geral de Depósitos, Grupo | Developer portal: https://www.cgd.pt/English/Institutional/News/Pages/SIBS-API-Market.aspx
+CC105 | Caixabank SA | Developer portal: https://www.caixabank.com/en/shareholders-investors/open-banking.html
+CC106 | Canadian Imperial Bank of Commerce (CIBC) | Developer portal: https://developer.cibc.useinfinite.io/
+CC12 | Alfa Group Consortium | Developer portal: https://developers.alfabank.ru/
+CC128 | Commerzbank AG | Developer portal: https://developer.commerzbank.com/
+CC129 | Commonwealth Bank of Australia (CBA) | Developer portal: https://www.commbank.com.au/Developer/
+CC131 | Crédit Agricole, Groupe | Developer portal: https://developer.credit-agricole.fr/
+CC134 | Crédit Mutuel, Groupe | Developer portal: https://www.creditmutuel.fr/oauth2/en/devportal/index.html
+CC138 | Danske Bank Group | Developer portal: https://developers.danskebank.com/
+CC142 | Desjardins Group | Developer portal: https://developer.desjardins.com/
+CC143 | Deutsche Bank AG | Developer portal: https://developer.db.com/
+CC144 | Deutsche Lufthansa AG | Developer portal: https://developer.lufthansa.com/
+CC145 | Deutscher Sparkassen- & Giroverband eV (DSGV) | Developer portal: https://dev.sparkassen-hub.com/en/
+CC148 | DNB ASA | Developer portal: https://developer.dnb.no/
+CC154 | EFG Eurobank Ergasias SA | Developer portal: https://developer.eurobank.gr/
+CC156 | Emirates NBD | Developer portal: https://apisouq.emiratesnbd.com/
+CC158 | Erste Group Bank AG | Developer portal: https://developers.erstegroup.com/
+CC16 | Alpha Bank SA | Developer portal: https://developer.api.alphabank.eu/
+CC164 | First Abu Dhabi Bank PJSC | Developer portal: https://developer.bankfab.com/
+CC168 | Garanti Bankasi AS | Developer portal: https://developers.garantibbva.com.tr/
+CC170 | Grupo Financiero Banorte SAB de CV | Developer portal: https://developers.banorte.com/
+CC175 | Hang Seng Bank Ltd | Developer portal: https://develop.hangseng.com/
+CC176 | HDFC Bank Ltd | Developer portal: https://developer.hdfc.bank.in/
+CC18 | American Express Co | Developer portal: https://developer.americanexpress.com/
+CC185 | ICICI Bank Ltd | Developer portal: https://developer.icicibank.com/
+CC19 | ANZ Banking Group Ltd | Developer portal: https://developer.online.anz.com/
+CC194 | Investec Bank Ltd | Developer portal: https://developer.investec.com/
+CC196 | Itaú Unibanco Holding SA | Developer portal: https://devportal.itau.com.br/
+CC2 | Absa Group Ltd | Developer portal: https://developer.absa.africa/
+CC20 | Arab National Bank | Developer portal: https://developer.anb.com.sa/
+CC201 | Jyske Bank A/S | Developer portal: https://jyskebank.com/about/developers
+CC202 | Kasikorn Bank PCL | Developer portal: https://apiportal.kasikornbank.com/
+CC204 | KBC Bank & Insurance Holding Co | Developer portal: https://developer.kbc.be/
+CC207 | La Poste, Groupe | Developer portal: https://developer.laposte.fr/
+CC211 | Lloyds Banking Group Plc | Developer portal: https://developer.lloydsbanking.com/
+CC213 | Malayan Banking Bhd | Developer portal: https://www.maybanksandbox.com/
+CC215 | Mashreq Bank | Developer portal: https://developer.mashreqbank.com/
+CC216 | MBH Bank Nyrt | Developer portal: https://portal.sandbox1.mbhbank.hu/
+CC219 | Mitsubishi UFJ Financial Group Inc | Developer portal: https://developer.portal.bk.mufg.jp/
+CC221 | Moneta Money Bank as | Developer portal: https://apiportal.moneta.cz/
+CC223 | National Australia Bank Group (NAB) | Developer portal: https://developer.nab.com.au/
+CC226 | National Bank of Greece SA | Developer portal: https://developer.nbg.gr/
+CC229 | NatWest Group Plc | Developer portal: https://www.bankofapis.com/
+CC230 | Nedbank Group Ltd | Developer portal: https://apim.nedbank.co.za/
+CC232 | Nexi Payments SpA | Developer portal: https://developer.nexi.it/
+CC235 | Nordea Bank Abp | Developer portal: https://developer.nordeaopenbanking.com/
+CC239 | OTP Bank NyRt | Developer portal: https://www.otpbank.hu/portal/en/psd2
+CC240 | Oversea-Chinese Banking Corp Ltd (OCBC Bank) | Developer portal: https://api.ocbc.com/store
+CC245 | Piraeus Bank SA | Developer portal: https://rapidlink.piraeusbank.gr/
+CC246 | PKO Bank Polski SA | Developer portal: https://developers.pkobp.pl/
+CC250 | PrivatBank KB AT | Developer portal: https://api.privatbank.ua/
+CC254 | Rabobank Groep NV | Developer portal: https://developer.rabobank.nl/
+CC255 | Raiffeisen Bank International AG | Developer portal: https://api.rbinternational.com/
+CC259 | Riyad Bank | Developer portal: https://www.riyadbank.com/open-banking
+CC26 | Axis Bank Ltd | Developer portal: https://apiportal.axis.bank.in/portal/
+CC261 | Royal Bank of Canada (RBC) | Developer portal: https://developer.rbc.com/
+CC267 | Sberbank PAO | Developer portal: https://developers.sber.ru/
+CC275 | Shell Plc | Developer portal: https://developer.shell.com/
+CC279 | Siam Commercial Bank PCL, The | Developer portal: https://developer.scb/
+CC281 | Skandinaviska Enskilda Banken AB | Developer portal: https://developer.sebgroup.com/
+CC282 | Société Générale SA | Developer portal: https://developer.societegenerale.fr/
+CC285 | Standard Bank of South Africa | Developer portal: https://developer.standardbank.co.za/
+CC286 | Standard Chartered Bank Plc | Developer portal: https://axess.sc.com/
+CC288 | Sumitomo Mitsui Financial Group Inc | Developer portal: https://developer.smbcdigital.com/
+CC290 | Svenska Handelsbanken AB | Developer portal: https://developer.handelsbanken.com/
+CC291 | Swedbank AB | Developer portal: https://developer.swedbank.com/
+CC292 | Sydbank A/S | Developer portal: https://www.bankdata.dk/developers
+CC299 | TD Bank Financial Group | Developer portal: https://developer.td.com/
+CC303 | TKS Bank AO | Developer portal: https://developer.tbank.ru/
+CC310 | Turkiye Is Bankasi AS (Isbank) | Developer portal: https://api.isbank.com.tr/
+CC312 | Tuya SA | Developer portal: https://developer.tuya.com/
+CC314 | UniCredit Group | Developer portal: https://developer.unicredit.eu/
+CC316 | Union Bank of the Philippines Inc | Developer portal: https://developer.unionbankph.com/
+CC319 | United Overseas Bank Ltd | Developer portal: https://developers.uobgroup.com/en/
+CC32 | Banco Bilbao Vizcaya Argentaria SA | Developer portal: https://www.bbvaapimarket.com/
+CC335 | VTB Bank PAO | Developer portal: https://developer.vtb.ru/
+CC339 | Westpac Banking Corp | Developer portal: https://developer.westpac.co.nz/
+CC34 | Banco Bradesco SA | Developer portal: https://developers.bradesco.com.br/
+CC342 | Yapi ve Kredi Bankasi AS | Developer portal: https://apiportal.yapikredi.com.tr/
+CC40 | Banco Comercial Português SA | Developer portal: https://developer.millenniumbcp.pt/
+CC44 | Banco Davivienda SA | Developer portal: https://developers.davivienda.com/
+CC46 | Banco de Crédito del Perú | Developer portal: https://www.bpcbt.com/api-open-banking
+CC47 | Banco de Crédito Inversiones SA | Developer portal: https://developers.bci.cl/
+CC48 | Banco de Galicia Y Buenos Aires SA | Developer portal: https://www.galicia.ar/empresas/open-galicia
+CC5 | Access Bank Plc | Developer portal: https://developer.accessbankplc.com/
+CC54 | Banco do Brasil SA | Developer portal: https://developers.bb.com.br/
+CC64 | BanColombia SA | Developer portal: https://developer.bancolombia.com/
+CC69 | Bank Central Asia Tbk PT | Developer portal: https://developer.bca.co.id/
+CC70 | Bank CIMB Niaga Tbk PT | Developer portal: https://api.cimbniaga.co.id/
+CC73 | Bank Mandiri (Persero) Tbk PT | Developer portal: https://developer.bankmandiri.co.id/
+CC76 | Bank Negara Indonesia (Persero) Tbk PT | Developer portal: https://digitalservices.bni.co.id/
+CC78 | Bank of Ayudhya PCL | Developer portal: https://developers.krungsri.com/
+CC82 | Bank of Montreal Financial Group | Developer portal: https://developer.bmo.com/
+CC83 | Bank of Nova Scotia, The | Developer portal: https://developer.scotiabank.com/
+CC84 | Bank of the Philippine Islands - BPI | Developer portal: https://developer.bpi.com.ph/
+CC85 | Bank Polska Kasa Opieki SA - Pekao SA Group | Developer portal: https://developer.pekao.com.pl/
+CC88 | Bankinter SA | Developer portal: https://developer.bankinter.com/
+CC91 | BAWAG PSK AG | Developer portal: https://developer.bawag.at/
+CC97 | BNP Paribas, Groupe | Developer portal: https://developers.cib.bnpparibas.com/
+CC99 | BPCE SA (Banques Populaires Caisses d'Epargne Groupe) | Developer portal: https://api.groupebpce.fr/
+CP115 | Toshiba Corp | Developer portal: https://griddb.net
+CP117 | Transsion Holdings | Developer portal: https://dev.transsion.com/
+CP7 | Amazon.com Inc | Developer portal: https://developer.amazon.com
+CP90 | Pantum International Ltd | Developer portal: https://developer.pantum.com
+FO17 | DoorDash Inc | Developer portal: https://developer.doordash.com/
+FO30 | GoTo Group | Developer portal: https://www.gojek.io/developers/
+FO41 | Just Eat Takeaway.com NV | Developer portal: https://developers.just-eat.com/
+FO71 | Takeaway.com Group BV | Developer portal: https://developers.just-eat.com/
+HO326 | Southern Sun Ltd | Developer portal: https://mews-systems.gitbook.io/connector-api
+PE101 | Kodak Alaris Inc | Developer portal: https://www.alarisworld.com/en-us/landing-page/alaris-developer-program
+PE12 | Arashi Vision Co Ltd | Developer portal: https://openapi.insta360.com/
+PE145 | Polar Electro Oy | Developer portal: https://www.polar.com/en/developers
+PE153 | Rakuten Group Inc | Developer portal: https://developers.rakuten.com/
+PE187 | SZ DJI Technology Co Ltd | Developer portal: https://developer.dji.com/
+PE219 | Zepp Health Corp | Developer portal: https://developer.zepp.com/
+PE24 | Bang & Olufsen A/S | Developer portal: https://bang-olufsen.github.io/mozart-open-api/
+PE47 | Divoom Europe GmbH | Developer portal: http://doc.divoom-gz.com/
+PE54 | Electrolux AB | Developer portal: https://developer.electrolux.one/
+PE71 | GN Store Nord A/S | Developer portal: https://developer.jabra.com/
+PE72 | GoPro Inc | Developer portal: https://gopro.github.io/OpenGoPro/
+TG574 | WowWee Group Ltd | Developer portal: https://wowwee.com/about/labs
+VG139 | NHN Corp | Developer portal: https://docs.nhncloud.com
+VG140 | Niantic Inc | Developer portal: https://lightship.dev/
+VG142 | Nintendo Co Ltd | Developer portal: https://developer.nintendo.com/
+VG173 | Shanghai Lilith Technology Co Ltd | Developer portal: https://www.lilith.com/3rdsdk
+VG193 | Tencent Holdings Ltd | Developer portal: https://developer.wegame.com/
+VG202 | Wargaming Group Ltd | Developer portal: https://developers.wargaming.net/
+VG26 | ByteDance Ltd | Developer portal: https://developer.picoxr.com/
+VG47 | Epic Games Inc | Developer portal: https://dev.epicgames.com/
+VG66 | Gamevil Inc | Developer portal: https://platform.withhive.com/
+VG8 | ArenaNet LLC | Developer portal: https://api.guildwars2.com/v2
+VG80 | HTC Corp | Developer portal: https://developer.vive.com/
+
+IMPORTANT TIPS FOR SEARCHING:
+- Many large companies have GitHub organizations (e.g., github.com/apple, github.com/google, github.com/microsoft)
+- Some companies use different GitHub org names than their company name (e.g., Alphabet uses "google", Meta uses "facebook" or "meta")
+- Check for both the parent company name AND the product/brand name
+- Banking companies often have Open Banking SDKs on GitHub (e.g., github.com/ING-Group, github.com/bbva)
+- Some banks publish API client libraries or sandbox tools on GitHub
+- Gaming companies may have repos under game-specific names (e.g., Roblox → github.com/Roblox)
+- Consumer electronics companies often have developer SDKs (e.g., DJI → github.com/dji-sdk)
+- If a company has multiple GitHub orgs, pick the one most relevant to their developer platform
+
+RETURN THE COMPLETE JSON ARRAY WITH ALL 140 ENTRIES. Do not skip any companies.

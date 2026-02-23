@@ -1,0 +1,1514 @@
+[
+  {
+    "platform_id": "CA27",
+    "company": "Faurecia SA",
+    "github_url": "https://github.com/Faurecia-Auri-SDK",
+    "notes": "SDK repository found for Faurecia Auri"
+  },
+  {
+    "platform_id": "CA43",
+    "company": "Hyundai Corp",
+    "github_url": "https://github.com/hyundaimotorgroup",
+    "notes": "main org page for Hyundai Motor Group open source"
+  },
+  {
+    "platform_id": "CA63",
+    "company": "Navitel Poland Sp zoo",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CC109",
+    "company": "Capital One Financial Corp",
+    "github_url": "https://github.com/capitalone",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CC125",
+    "company": "Citigroup Inc",
+    "github_url": "https://github.com/citibank",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CC141",
+    "company": "DBS Group Holdings Ltd",
+    "github_url": "https://github.com/dbs",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CC172",
+    "company": "Grupo Santander",
+    "github_url": "https://github.com/santander-group",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CC179",
+    "company": "HSBC Holdings Plc",
+    "github_url": "https://github.com/hsbc",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CC189",
+    "company": "ING Groep NV",
+    "github_url": "https://github.com/ing-bank",
+    "notes": "main org page for open source projects"
+  },
+  {
+    "platform_id": "CC199",
+    "company": "JP Morgan Chase & Co",
+    "github_url": "https://github.com/jpmorganchase",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CC62",
+    "company": "Banco Santander SA",
+    "github_url": "https://github.com/santander-group",
+    "notes": "shared organization for Santander Group"
+  },
+  {
+    "platform_id": "CC77",
+    "company": "Bank of America Corp",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "CC90",
+    "company": "Barclays Plc",
+    "github_url": "https://github.com/barclays",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CP101",
+    "company": "Seiko Epson Corp",
+    "github_url": "https://github.com/epson-connect",
+    "notes": "Epson Connect SDK repositories"
+  },
+  {
+    "platform_id": "CP126",
+    "company": "Xerox Corp",
+    "github_url": "https://github.com/xerox-corporation",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP127",
+    "company": "Xiaomi Corp",
+    "github_url": "https://github.com/MiCode",
+    "notes": "official open source organization for Xiaomi"
+  },
+  {
+    "platform_id": "CP14",
+    "company": "AsusTek Computer Inc",
+    "github_url": "https://github.com/asus-development",
+    "notes": "primary development organization"
+  },
+  {
+    "platform_id": "CP20",
+    "company": "Brother Industries Ltd",
+    "github_url": "https://github.com/Brother-Industries-Ltd",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP21",
+    "company": "Canon Inc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CP29",
+    "company": "Dell Technologies Inc",
+    "github_url": "https://github.com/dell",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CP35",
+    "company": "Dynabook Inc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CP3",
+    "company": "Acer Inc",
+    "github_url": "https://github.com/Acer-Developer",
+    "notes": "official developer organization"
+  },
+  {
+    "platform_id": "CP45",
+    "company": "Haier Group",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CP50",
+    "company": "Huawei Technologies Co Ltd",
+    "github_url": "https://github.com/huawei",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CP5",
+    "company": "Alphabet Inc",
+    "github_url": "https://github.com/google",
+    "notes": "Google is the primary org for Alphabet's developer tools"
+  },
+  {
+    "platform_id": "CP61",
+    "company": "Karbonn Mobile India Pvt Ltd",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CP66",
+    "company": "Koninklijke Philips NV",
+    "github_url": "https://github.com/philips-software",
+    "notes": "main software org for Philips"
+  },
+  {
+    "platform_id": "CP67",
+    "company": "Kyocera Corp",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CP6",
+    "company": "Alza.cz as",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "CP71",
+    "company": "Lenovo Group Ltd",
+    "github_url": "https://github.com/lenovo",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP72",
+    "company": "LG Corp",
+    "github_url": "https://github.com/lgcorp",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP74",
+    "company": "Micro-Star International Co Ltd",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CP81",
+    "company": "NEC Corp",
+    "github_url": "https://github.com/NEC",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP85",
+    "company": "Nokia Corp",
+    "github_url": "https://github.com/nokia",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "CP89",
+    "company": "Panasonic Corp",
+    "github_url": "https://github.com/Panasonic-Global",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP8",
+    "company": "Apex Technology Co Ltd",
+    "github_url": "https://github.com/Apex-CS",
+    "notes": "Apex Fintech Solutions official GitHub"
+  },
+  {
+    "platform_id": "CP98",
+    "company": "Razer Inc",
+    "github_url": "https://github.com/razerofficial",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP99",
+    "company": "Ricoh Co Ltd",
+    "github_url": "https://github.com/ricoh",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "CP9",
+    "company": "Apple Inc",
+    "github_url": "https://github.com/apple",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "FO11",
+    "company": "Deliveroo Plc",
+    "github_url": "https://github.com/deliveroo",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "FO12",
+    "company": "Delivery Hero SE",
+    "github_url": "https://github.com/deliveryhero",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "FO14",
+    "company": "Didi Chuxing Technology Co Ltd",
+    "github_url": "https://github.com/didi",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "FO31",
+    "company": "Grab Holdings Inc",
+    "github_url": "https://github.com/grab",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "FO42",
+    "company": "Line Corp",
+    "github_url": "https://github.com/line",
+    "notes": "main org page for LINE developers"
+  },
+  {
+    "platform_id": "FO45",
+    "company": "Meituan Inc",
+    "github_url": "https://github.com/meituan",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "FO4",
+    "company": "Bolt Technology OÜ",
+    "github_url": "https://github.com/boltapp",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "FO60",
+    "company": "Rappi Inc",
+    "github_url": "https://github.com/rappi",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "FO74",
+    "company": "Uber Technologies Inc",
+    "github_url": "https://github.com/uber",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "FO79",
+    "company": "Zomato Ltd",
+    "github_url": "https://github.com/zomato",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "FO8",
+    "company": "Coupang Corp",
+    "github_url": "https://github.com/coupang",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "HO111",
+    "company": "Expedia Group Inc",
+    "github_url": "https://github.com/ExpediaGroup",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "HO165",
+    "company": "Hilton Worldwide Holdings Inc",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "HO192",
+    "company": "Iberostar SA, Grupo",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "HO233",
+    "company": "Marriott International Inc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "HO2",
+    "company": "AccorHotels Group",
+    "github_url": "https://github.com/accor",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "HO307",
+    "company": "S Group",
+    "github_url": "https://github.com/s-group-dev",
+    "notes": "developer organization for S Group"
+  },
+  {
+    "platform_id": "HO368",
+    "company": "TripAdvisor Inc",
+    "github_url": "https://github.com/tripadvisor",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "HO370",
+    "company": "TUI Group",
+    "github_url": "https://github.com/tui-group",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "HO45",
+    "company": "Barceló, Grupo",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "HO56",
+    "company": "Booking Holdings Inc",
+    "github_url": "https://github.com/bookingcom",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "HO5",
+    "company": "Airbnb Inc",
+    "github_url": "https://github.com/airbnb",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "HO70",
+    "company": "Choice Hotels International Inc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "IH11",
+    "company": "Cencosud SA",
+    "github_url": "https://github.com/cencosud",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "IH25",
+    "company": "Falabella SACI",
+    "github_url": "https://github.com/falabella-technology",
+    "notes": "technology organization page"
+  },
+  {
+    "platform_id": "IH73",
+    "company": "Vestel Ticaret AS",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "IH76",
+    "company": "Vizio Inc",
+    "github_url": "https://github.com/Vizio-Inc",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "IH80",
+    "company": "Yamaha Corp",
+    "github_url": "https://github.com/yamaha-jp",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE110",
+    "company": "Logitech International SA",
+    "github_url": "https://github.com/Logitech",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE131",
+    "company": "Nikon Corp",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "PE179",
+    "company": "Sonos Inc",
+    "github_url": "https://github.com/sonos",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE197",
+    "company": "TomTom International BV",
+    "github_url": "https://github.com/tomtom-international",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "PE210",
+    "company": "Western Digital Corp",
+    "github_url": "https://github.com/westerndigitalcorporation",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE212",
+    "company": "Withings SA",
+    "github_url": "https://github.com/withings",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE216",
+    "company": "Yandex NV",
+    "github_url": "https://github.com/yandex",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "PE33",
+    "company": "Bose Corp",
+    "github_url": "https://github.com/Bose",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE67",
+    "company": "Garmin Ltd",
+    "github_url": "https://github.com/garmin",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "PE8",
+    "company": "Alibaba Group Holding Ltd",
+    "github_url": "https://github.com/alibaba",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "TR100",
+    "company": "International Consolidated Airlines Group SA",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found for IAG"
+  },
+  {
+    "platform_id": "TR11",
+    "company": "Air Canada Inc",
+    "github_url": "https://github.com/aircanada",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "TR135",
+    "company": "Qantas Airways Ltd",
+    "github_url": "https://github.com/qantas",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "TR14",
+    "company": "Air France-KLM Group SA",
+    "github_url": "https://github.com/airfrance-klm",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "TR152",
+    "company": "Singapore Airlines Ltd (SIA)",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "TR181",
+    "company": "United Continental Holdings Inc",
+    "github_url": "https://github.com/United-Continental-Holdings",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "TR33",
+    "company": "American Airlines Group Inc",
+    "github_url": "https://github.com/americanairlines",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "TR70",
+    "company": "Emirates Group Plc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "VG100",
+    "company": "Kyivstar PrAT",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "VG102",
+    "company": "LEGO Group",
+    "github_url": "https://github.com/LEGO",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG110",
+    "company": "LY Corp",
+    "github_url": "https://github.com/line",
+    "notes": "LINE is the primary developer brand for LY Corp"
+  },
+  {
+    "platform_id": "VG120",
+    "company": "Meta Platforms Inc",
+    "github_url": "https://github.com/facebook",
+    "notes": "Facebook remains the primary org for Meta open source"
+  },
+  {
+    "platform_id": "VG121",
+    "company": "Microsoft Corp",
+    "github_url": "https://github.com/microsoft",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "VG129",
+    "company": "Monolith Productions Inc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "VG12",
+    "company": "Astragon Entertainment GmbH",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "VG131",
+    "company": "NCsoft Corp",
+    "github_url": "https://github.com/ncsoft",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG138",
+    "company": "Nexon Co Ltd",
+    "github_url": "https://github.com/nexon",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG155",
+    "company": "Plarium Global Ltd",
+    "github_url": "https://github.com/plarium",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG161",
+    "company": "Roblox Corp",
+    "github_url": "https://github.com/Roblox",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "VG163",
+    "company": "Samsung Corp",
+    "github_url": "https://github.com/samsung",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "VG180",
+    "company": "Sony Corp",
+    "github_url": "https://github.com/sony",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "VG197",
+    "company": "Ubisoft Entertainment SA",
+    "github_url": "https://github.com/ubisoft",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG198",
+    "company": "Valve Corp",
+    "github_url": "https://github.com/ValveSoftware",
+    "notes": "main org page"
+  },
+  {
+    "platform_id": "VG1",
+    "company": "Activision Blizzard Inc",
+    "github_url": "https://github.com/Blizzard",
+    "notes": "Blizzard official organization page"
+  },
+  {
+    "platform_id": "VG200",
+    "company": "Voodoo SAS",
+    "github_url": "https://github.com/VoodooTeam",
+    "notes": "official development organization"
+  },
+  {
+    "platform_id": "VG28",
+    "company": "CCP ehf",
+    "github_url": "https://github.com/ccpgames",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG29",
+    "company": "CD Projekt SA",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "VG37",
+    "company": "CyberAgent Inc",
+    "github_url": "https://github.com/cyberagent",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG41",
+    "company": "Digital Bros SpA, Group",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "VG4",
+    "company": "Alphabet Inc",
+    "github_url": "https://github.com/google",
+    "notes": "Google remains the primary developer org"
+  },
+  {
+    "platform_id": "VG76",
+    "company": "Hi-Rez Studios Inc",
+    "github_url": "NONE",
+    "notes": "no official public GitHub found"
+  },
+  {
+    "platform_id": "VG79",
+    "company": "HP Inc",
+    "github_url": "https://github.com/hp",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG7",
+    "company": "AppLovin Corp",
+    "github_url": "https://github.com/applovin",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG91",
+    "company": "KaKao Corp",
+    "github_url": "https://github.com/kakao",
+    "notes": "official organization page"
+  },
+  {
+    "platform_id": "VG98",
+    "company": "Krafton Inc",
+    "github_url": "NONE",
+    "notes": "no public GitHub found"
+  },
+  {
+    "platform_id": "CA16",
+    "company": "CE Info Systems Ltd",
+    "github_url": "https://github.com/MapmyIndia",
+    "notes": "Main organization for MapmyIndia (brand name) APIs and SDKs"
+  },
+  {
+    "platform_id": "CA21",
+    "company": "Denso Corp",
+    "github_url": "NONE",
+    "notes": "No public GitHub organization found for developer portal"
+  },
+  {
+    "platform_id": "CA23",
+    "company": "E-Lead Electronic Co Ltd",
+    "github_url": "NONE",
+    "notes": "No official public repository found"
+  },
+  {
+    "platform_id": "CA59",
+    "company": "MiTAC International Corp",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - MiTAC-Mio does not exist (Gemini hallucinated https://github.com/MiTAC-Mio)"
+  },
+  {
+    "platform_id": "CA60",
+    "company": "Mitek Corp",
+    "github_url": "https://github.com/MitekSystems",
+    "notes": "Main org for identity verification SDKs"
+  },
+  {
+    "platform_id": "CC1",
+    "company": "ABN AMRO Bank NV",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - abnamro-developers does not exist (Gemini hallucinated https://github.com/abnamro-developers)"
+  },
+  {
+    "platform_id": "CC10",
+    "company": "Akbank TAS",
+    "github_url": "NONE",
+    "notes": "No public GitHub found for API portal"
+  },
+  {
+    "platform_id": "CC103",
+    "company": "Caixa Económica Montepio Geral, Grupo",
+    "github_url": "NONE",
+    "notes": "No public GitHub for Open Banking portal"
+  },
+  {
+    "platform_id": "CC104",
+    "company": "Caixa Geral de Depósitos, Grupo",
+    "github_url": "NONE",
+    "notes": "Uses SIBS API Market; no dedicated bank repo found"
+  },
+  {
+    "platform_id": "CC105",
+    "company": "Caixabank SA",
+    "github_url": "https://github.com/CaixaBank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC106",
+    "company": "Canadian Imperial Bank of Commerce (CIBC)",
+    "github_url": "https://github.com/CIBC-Internal",
+    "notes": "Publicly accessible org containing library forks for internal use"
+  },
+  {
+    "platform_id": "CC12",
+    "company": "Alfa Group Consortium",
+    "github_url": "https://github.com/alfa-laboratory",
+    "notes": "Main tech org for Alfa-Bank Russia"
+  },
+  {
+    "platform_id": "CC128",
+    "company": "Commerzbank AG",
+    "github_url": "https://github.com/commerzbank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC129",
+    "company": "Commonwealth Bank of Australia (CBA)",
+    "github_url": "https://github.com/commbankoss",
+    "notes": "Official Open Source organization (CommBank)"
+  },
+  {
+    "platform_id": "CC131",
+    "company": "Crédit Agricole, Groupe",
+    "github_url": "https://github.com/DataLab-Groupe",
+    "notes": "Official DataLab organization; main bank org is private"
+  },
+  {
+    "platform_id": "CC134",
+    "company": "Crédit Mutuel, Groupe",
+    "github_url": "https://github.com/CreditMutuelArkea",
+    "notes": "Official Arkea tech organization"
+  },
+  {
+    "platform_id": "CC138",
+    "company": "Danske Bank Group",
+    "github_url": "https://github.com/danskebank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC142",
+    "company": "Desjardins Group",
+    "github_url": "NONE",
+    "notes": "No official public developer repo found"
+  },
+  {
+    "platform_id": "CC143",
+    "company": "Deutsche Bank AG",
+    "github_url": "https://github.com/deutschebank",
+    "notes": "Official organization including API program repos"
+  },
+  {
+    "platform_id": "CC144",
+    "company": "Deutsche Lufthansa AG",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - Lufthansa-Group does not exist (Gemini hallucinated https://github.com/Lufthansa-Group)"
+  },
+  {
+    "platform_id": "CC145",
+    "company": "Deutscher Sparkassen- & Giroverband eV (DSGV)",
+    "github_url": "https://github.com/sparkassen-hub",
+    "notes": "Innovation Hub org hosting Open Banking clients"
+  },
+  {
+    "platform_id": "CC148",
+    "company": "DNB ASA",
+    "github_url": "NONE",
+    "notes": "No public repo found for developer.dnb.no"
+  },
+  {
+    "platform_id": "CC154",
+    "company": "EFG Eurobank Ergasias SA",
+    "github_url": "NONE",
+    "notes": "No official public GitHub for API portal"
+  },
+  {
+    "platform_id": "CC156",
+    "company": "Emirates NBD",
+    "github_url": "https://github.com/EmiratesNBD",
+    "notes": "Official organization (currently no public repos)"
+  },
+  {
+    "platform_id": "CC158",
+    "company": "Erste Group Bank AG",
+    "github_url": "NONE",
+    "notes": "Portal uses custom sandbox; no public GitHub found"
+  },
+  {
+    "platform_id": "CC16",
+    "company": "Alpha Bank SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found for Greece portal"
+  },
+  {
+    "platform_id": "CC164",
+    "company": "First Abu Dhabi Bank PJSC",
+    "github_url": "NONE",
+    "notes": "No public developer repo found"
+  },
+  {
+    "platform_id": "CC168",
+    "company": "Garanti Bankasi AS",
+    "github_url": "NONE",
+    "notes": "Maintained through BBVA infrastructure"
+  },
+  {
+    "platform_id": "CC170",
+    "company": "Grupo Financiero Banorte SAB de CV",
+    "github_url": "NONE",
+    "notes": "No public GitHub organization found"
+  },
+  {
+    "platform_id": "CC175",
+    "company": "Hang Seng Bank Ltd",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC176",
+    "company": "HDFC Bank Ltd",
+    "github_url": "NONE",
+    "notes": "No official company-owned GitHub page found"
+  },
+  {
+    "platform_id": "CC18",
+    "company": "American Express Co",
+    "github_url": "https://github.com/americanexpress",
+    "notes": "Main org for engineering and SDKs"
+  },
+  {
+    "platform_id": "CC185",
+    "company": "ICICI Bank Ltd",
+    "github_url": "NONE",
+    "notes": "No public GitHub for India developer portal"
+  },
+  {
+    "platform_id": "CC19",
+    "company": "ANZ Banking Group Ltd",
+    "github_url": "https://github.com/anz-bank",
+    "notes": "Official organization for system specifications and tools"
+  },
+  {
+    "platform_id": "CC194",
+    "company": "Investec Bank Ltd",
+    "github_url": "https://github.com/investec",
+    "notes": "Official Open Source organization"
+  },
+  {
+    "platform_id": "CC196",
+    "company": "Itaú Unibanco Holding SA",
+    "github_url": "https://github.com/itau",
+    "notes": "Main organization for Itaú tech"
+  },
+  {
+    "platform_id": "CC2",
+    "company": "Absa Group Ltd",
+    "github_url": "https://github.com/absa-group",
+    "notes": "Official tech organization"
+  },
+  {
+    "platform_id": "CC20",
+    "company": "Arab National Bank",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC201",
+    "company": "Jyske Bank A/S",
+    "github_url": "NONE",
+    "notes": "No public GitHub for developer site"
+  },
+  {
+    "platform_id": "CC202",
+    "company": "Kasikorn Bank PCL",
+    "github_url": "https://github.com/kbtg-labs",
+    "notes": "KBTG is the tech arm of Kasikorn Bank"
+  },
+  {
+    "platform_id": "CC204",
+    "company": "KBC Bank & Insurance Holding Co",
+    "github_url": "NONE",
+    "notes": "No official public developer repo"
+  },
+  {
+    "platform_id": "CC207",
+    "company": "La Poste, Groupe",
+    "github_url": "NONE",
+    "notes": "VERIFIED: Inactive personal account, not La Poste (Gemini hallucinated https://github.com/laposte)"
+  },
+  {
+    "platform_id": "CC211",
+    "company": "Lloyds Banking Group Plc",
+    "github_url": "https://github.com/lloyds-banking-group",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC213",
+    "company": "Malayan Banking Bhd",
+    "github_url": "NONE",
+    "notes": "Maybank Sandbox has no public GitHub repo"
+  },
+  {
+    "platform_id": "CC215",
+    "company": "Mashreq Bank",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC216",
+    "company": "MBH Bank Nyrt",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC219",
+    "company": "Mitsubishi UFJ Financial Group Inc",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - mufglabs does not exist (Gemini hallucinated https://github.com/mufglabs)"
+  },
+  {
+    "platform_id": "CC221",
+    "company": "Moneta Money Bank as",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC223",
+    "company": "National Australia Bank Group (NAB)",
+    "github_url": "https://github.com/nab-eng",
+    "notes": "Official Engineering organization"
+  },
+  {
+    "platform_id": "CC226",
+    "company": "National Bank of Greece SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC229",
+    "company": "NatWest Group Plc",
+    "github_url": "https://github.com/NatWestGroup",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC230",
+    "company": "Nedbank Group Ltd",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC232",
+    "company": "Nexi Payments SpA",
+    "github_url": "https://github.com/Nexi-Group",
+    "notes": "Official payment gateway SDKs"
+  },
+  {
+    "platform_id": "CC235",
+    "company": "Nordea Bank Abp",
+    "github_url": "https://github.com/Nordea",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC239",
+    "company": "OTP Bank NyRt",
+    "github_url": "NONE",
+    "notes": "No public developer repo found"
+  },
+  {
+    "platform_id": "CC240",
+    "company": "Oversea-Chinese Banking Corp Ltd (OCBC Bank)",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC245",
+    "company": "Piraeus Bank SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC246",
+    "company": "PKO Bank Polski SA",
+    "github_url": "NONE",
+    "notes": "No public developer repo found"
+  },
+  {
+    "platform_id": "CC250",
+    "company": "PrivatBank KB AT",
+    "github_url": "https://github.com/privatbank-it",
+    "notes": "Official tech and SDK organization"
+  },
+  {
+    "platform_id": "CC254",
+    "company": "Rabobank Groep NV",
+    "github_url": "https://github.com/rabobank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC255",
+    "company": "Raiffeisen Bank International AG",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - raiffeisenbank-international does not exist (Gemini hallucinated https://github.com/raiffeisenbank-international)"
+  },
+  {
+    "platform_id": "CC259",
+    "company": "Riyad Bank",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC26",
+    "company": "Axis Bank Ltd",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC261",
+    "company": "Royal Bank of Canada (RBC)",
+    "github_url": "https://github.com/rbc",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC267",
+    "company": "Sberbank PAO",
+    "github_url": "https://github.com/sberbank-ai",
+    "notes": "AI and tech focused organization"
+  },
+  {
+    "platform_id": "CC275",
+    "company": "Shell Plc",
+    "github_url": "NONE",
+    "notes": "VERIFIED: Personal account (Vladimir Penkin), not Shell Plc (Gemini hallucinated https://github.com/shell)"
+  },
+  {
+    "platform_id": "CC279",
+    "company": "Siam Commercial Bank PCL, The",
+    "github_url": "NONE",
+    "notes": "VERIFIED: Unclear connection to Siam Commercial Bank (Gemini hallucinated https://github.com/scb-abacus)"
+  },
+  {
+    "platform_id": "CC281",
+    "company": "Skandinaviska Enskilda Banken AB",
+    "github_url": "https://github.com/sebgroup",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC282",
+    "company": "Société Générale SA",
+    "github_url": "https://github.com/societegenerale",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC285",
+    "company": "Standard Bank of South Africa",
+    "github_url": "https://github.com/standardbank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC286",
+    "company": "Standard Chartered Bank Plc",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - sc-scb does not exist (Gemini hallucinated https://github.com/sc-scb)"
+  },
+  {
+    "platform_id": "CC288",
+    "company": "Sumitomo Mitsui Financial Group Inc",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC290",
+    "company": "Svenska Handelsbanken AB",
+    "github_url": "NONE",
+    "notes": "No public developer repo found"
+  },
+  {
+    "platform_id": "CC291",
+    "company": "Swedbank AB",
+    "github_url": "https://github.com/swedbank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC292",
+    "company": "Sydbank A/S",
+    "github_url": "NONE",
+    "notes": "Uses Bankdata; no dedicated repo"
+  },
+  {
+    "platform_id": "CC299",
+    "company": "TD Bank Financial Group",
+    "github_url": "https://github.com/td-bank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC303",
+    "company": "TKS Bank AO",
+    "github_url": "https://github.com/Tinkoff",
+    "notes": "Tinkoff (T-Bank) official organization"
+  },
+  {
+    "platform_id": "CC310",
+    "company": "Turkiye Is Bankasi AS (Isbank)",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC312",
+    "company": "Tuya SA",
+    "github_url": "https://github.com/tuya",
+    "notes": "Official IoT SDKs and platform org"
+  },
+  {
+    "platform_id": "CC314",
+    "company": "UniCredit Group",
+    "github_url": "https://github.com/UniCredit",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC316",
+    "company": "Union Bank of the Philippines Inc",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC319",
+    "company": "United Overseas Bank Ltd",
+    "github_url": "NONE",
+    "notes": "No public developer repo found"
+  },
+  {
+    "platform_id": "CC32",
+    "company": "Banco Bilbao Vizcaya Argentaria SA",
+    "github_url": "https://github.com/BBVA",
+    "notes": "Main org for BBVA global tech"
+  },
+  {
+    "platform_id": "CC335",
+    "company": "VTB Bank PAO",
+    "github_url": "https://github.com/VTB-Link",
+    "notes": "VTB API and tech organization"
+  },
+  {
+    "platform_id": "CC339",
+    "company": "Westpac Banking Corp",
+    "github_url": "https://github.com/Westpac-NZ",
+    "notes": "Official organization for New Zealand portal"
+  },
+  {
+    "platform_id": "CC34",
+    "company": "Banco Bradesco SA",
+    "github_url": "https://github.com/bradesco",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC342",
+    "company": "Yapi ve Kredi Bankasi AS",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC40",
+    "company": "Banco Comercial Português SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC44",
+    "company": "Banco Davivienda SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC46",
+    "company": "Banco de Crédito del Perú",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC47",
+    "company": "Banco de Crédito Inversiones SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC48",
+    "company": "Banco de Galicia Y Buenos Aires SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC5",
+    "company": "Access Bank Plc",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC54",
+    "company": "Banco do Brasil SA",
+    "github_url": "https://github.com/bancodobrasil",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC64",
+    "company": "BanColombia SA",
+    "github_url": "https://github.com/bancolombia",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC69",
+    "company": "Bank Central Asia Tbk PT",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC70",
+    "company": "Bank CIMB Niaga Tbk PT",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC73",
+    "company": "Bank Mandiri (Persero) Tbk PT",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC76",
+    "company": "Bank Negara Indonesia (Persero) Tbk PT",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC78",
+    "company": "Bank of Ayudhya PCL",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC82",
+    "company": "Bank of Montreal Financial Group",
+    "github_url": "NONE",
+    "notes": "VERIFIED: Personal account (Brian Moran), not Bank of Montreal (Gemini hallucinated https://github.com/bmo)"
+  },
+  {
+    "platform_id": "CC83",
+    "company": "Bank of Nova Scotia, The",
+    "github_url": "https://github.com/scotiabank",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC84",
+    "company": "Bank of the Philippine Islands - BPI",
+    "github_url": "NONE",
+    "notes": "No official public repo found"
+  },
+  {
+    "platform_id": "CC85",
+    "company": "Bank Polska Kasa Opieki SA - Pekao SA Group",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC88",
+    "company": "Bankinter SA",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC91",
+    "company": "BAWAG PSK AG",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "CC97",
+    "company": "BNP Paribas, Groupe",
+    "github_url": "https://github.com/BNPParibas",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "CC99",
+    "company": "BPCE SA (Banques Populaires Caisses d'Epargne Groupe)",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - groupebpce does not exist (Gemini hallucinated https://github.com/groupebpce)"
+  },
+  {
+    "platform_id": "CP115",
+    "company": "Toshiba Corp",
+    "github_url": "https://github.com/griddb",
+    "notes": "Official GridDB organization"
+  },
+  {
+    "platform_id": "CP117",
+    "company": "Transsion Holdings",
+    "github_url": "NONE",
+    "notes": "No official public developer repo"
+  },
+  {
+    "platform_id": "CP7",
+    "company": "Amazon.com Inc",
+    "github_url": "https://github.com/amzn",
+    "notes": "Main organization for Amazon SDKs"
+  },
+  {
+    "platform_id": "CP90",
+    "company": "Pantum International Ltd",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "FO17",
+    "company": "DoorDash Inc",
+    "github_url": "https://github.com/doordash",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "FO30",
+    "company": "GoTo Group",
+    "github_url": "https://github.com/gojek",
+    "notes": "Official organization for Gojek (brand)"
+  },
+  {
+    "platform_id": "FO41",
+    "company": "Just Eat Takeaway.com NV",
+    "github_url": "https://github.com/justeat",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "FO71",
+    "company": "Takeaway.com Group BV",
+    "github_url": "https://github.com/justeat",
+    "notes": "Part of Just Eat organization"
+  },
+  {
+    "platform_id": "HO326",
+    "company": "Southern Sun Ltd",
+    "github_url": "NONE",
+    "notes": "Uses Mews API; no company repo found"
+  },
+  {
+    "platform_id": "PE101",
+    "company": "Kodak Alaris Inc",
+    "github_url": "https://github.com/KodakAlaris",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "PE12",
+    "company": "Arashi Vision Co Ltd",
+    "github_url": "https://github.com/Insta360Develop",
+    "notes": "Official Insta360 developer organization"
+  },
+  {
+    "platform_id": "PE145",
+    "company": "Polar Electro Oy",
+    "github_url": "https://github.com/polarofficial",
+    "notes": "Official SDK and API organization"
+  },
+  {
+    "platform_id": "PE153",
+    "company": "Rakuten Group Inc",
+    "github_url": "https://github.com/rakutentech",
+    "notes": "Main organization for Rakuten tech"
+  },
+  {
+    "platform_id": "PE187",
+    "company": "SZ DJI Technology Co Ltd",
+    "github_url": "https://github.com/dji-sdk",
+    "notes": "Official organization for SDKs"
+  },
+  {
+    "platform_id": "PE219",
+    "company": "Zepp Health Corp",
+    "github_url": "https://github.com/zepp-health",
+    "notes": "Official organization for Zepp/Amazfit"
+  },
+  {
+    "platform_id": "PE24",
+    "company": "Bang & Olufsen A/S",
+    "github_url": "https://github.com/bang-olufsen",
+    "notes": "Official organization for open APIs"
+  },
+  {
+    "platform_id": "PE47",
+    "company": "Divoom Europe GmbH",
+    "github_url": "NONE",
+    "notes": "Documentation on private domain; no GitHub found"
+  },
+  {
+    "platform_id": "PE54",
+    "company": "Electrolux AB",
+    "github_url": "https://github.com/electrolux",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "PE71",
+    "company": "GN Store Nord A/S",
+    "github_url": "https://github.com/jabra",
+    "notes": "Official Jabra developer organization"
+  },
+  {
+    "platform_id": "PE72",
+    "company": "GoPro Inc",
+    "github_url": "https://github.com/gopro",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "TG574",
+    "company": "WowWee Group Ltd",
+    "github_url": "https://github.com/WowWeeLabs",
+    "notes": "Official organization for toy SDKs"
+  },
+  {
+    "platform_id": "VG139",
+    "company": "NHN Corp",
+    "github_url": "https://github.com/nhn",
+    "notes": "Official organization for NHN Cloud"
+  },
+  {
+    "platform_id": "VG140",
+    "company": "Niantic Inc",
+    "github_url": "NONE",
+    "notes": "VERIFIED: 404 - niantic-repository does not exist (Gemini hallucinated https://github.com/niantic-repository)"
+  },
+  {
+    "platform_id": "VG142",
+    "company": "Nintendo Co Ltd",
+    "github_url": "https://github.com/Nintendo",
+    "notes": "Official organization (private membership required for most)"
+  },
+  {
+    "platform_id": "VG173",
+    "company": "Shanghai Lilith Technology Co Ltd",
+    "github_url": "NONE",
+    "notes": "No public GitHub found"
+  },
+  {
+    "platform_id": "VG193",
+    "company": "Tencent Holdings Ltd",
+    "github_url": "https://github.com/Tencent",
+    "notes": "Official main organization"
+  },
+  {
+    "platform_id": "VG202",
+    "company": "Wargaming Group Ltd",
+    "github_url": "https://github.com/wargaming",
+    "notes": "Official developer API organization"
+  },
+  {
+    "platform_id": "VG26",
+    "company": "ByteDance Ltd",
+    "github_url": "https://github.com/bytedance",
+    "notes": "Official main organization"
+  },
+  {
+    "platform_id": "VG47",
+    "company": "Epic Games Inc",
+    "github_url": "https://github.com/EpicGames",
+    "notes": "Official organization page"
+  },
+  {
+    "platform_id": "VG66",
+    "company": "Gamevil Inc",
+    "github_url": "NONE",
+    "notes": "Now Com2uS Holdings; no public repo found"
+  },
+  {
+    "platform_id": "VG8",
+    "company": "ArenaNet LLC",
+    "github_url": "https://github.com/arenanet",
+    "notes": "Official organization for Guild Wars 2 API"
+  },
+  {
+    "platform_id": "VG80",
+    "company": "HTC Corp",
+    "github_url": "https://github.com/ViveSoftware",
+    "notes": "Official Vive developer organization"
+  }
+]

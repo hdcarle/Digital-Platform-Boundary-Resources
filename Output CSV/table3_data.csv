@@ -1,0 +1,12 @@
+"IND","total_firms","non_platform","public","registration","restricted","total_platform","pct_platform","countries","dyads"
+"Computers and Peripherals",79,47,10,16,6,32,40.5,46,807
+"Consumer Foodservice Online Ordering",48,30,4,11,3,18,37.5,53,212
+"Credit Card Transactions",223,115,96,10,2,108,48.4,46,362
+"In-Car Entertainment",84,69,6,6,3,15,17.9,46,433
+"In-Home Consumer Electronics",89,69,9,7,4,20,22.5,46,598
+"Lodging (Destination)",84,71,0,10,3,13,15.5,56,673
+"Portable Consumer Electronics",143,98,20,21,4,45,31.5,46,1255
+"Traditional Toys and Games",164,157,3,1,3,7,4.3,32,1000
+"Travel Modes",107,96,1,8,2,11,10.3,55,589
+"Video Game software",69,41,9,14,5,28,40.6,32,684
+"Total",901,671,127,80,23,230,25.5,57,6613

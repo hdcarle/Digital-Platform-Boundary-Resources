@@ -1,0 +1,149 @@
+TASK: Find GitHub (or GitLab) repository URLs for the following companies.
+
+CONTEXT: I am researching digital platform developer portals for my dissertation. I have a list of 112 companies that have developer portals but I have NOT yet identified their GitHub or GitLab presence. I need you to search the web for each company and determine if they have a public GitHub organization or repository related to their developer platform/API/SDK.
+
+INSTRUCTIONS:
+1. For each company below, search for their GitHub organization page (github.com/companyname) or any official GitHub repositories they maintain for developers.
+2. Also check for GitLab presence if no GitHub is found.
+3. Only return URLs for OFFICIAL company-owned GitHub/GitLab accounts — not third-party repos, community forks, or unofficial mirrors.
+4. The URL should be to their GitHub ORGANIZATION page (e.g., https://github.com/microsoft) or a specific primary developer SDK/API repository (e.g., https://github.com/microsoft/Xbox-GDK).
+5. If you cannot find an official GitHub/GitLab presence, mark it as "NONE".
+
+OUTPUT FORMAT — Return your results as a JSON array. This exact format is required:
+
+```json
+[
+  {"platform_id": "VG1", "company": "Activision Blizzard Inc", "github_url": "https://github.com/example", "notes": "brief note"},
+  {"platform_id": "VG2", "company": "Some Company", "github_url": "NONE", "notes": "no public GitHub found"}
+]
+```
+
+Each entry MUST have these exact four fields:
+- "platform_id": the ID code (e.g., "VG1", "CP5")
+- "company": the company name
+- "github_url": the full GitHub/GitLab URL, or "NONE" if not found
+- "notes": a brief note about what you found (e.g., "main org page", "SDK repo", "no public repos")
+
+COMPANIES TO SEARCH (112 total):
+
+CA27 | Faurecia SA | Developer portal: https://appning.com/developers/
+CA43 | Hyundai Corp | Developer portal: https://developers.hyundai.com
+CA63 | Navitel Poland Sp zoo | Developer portal: https://navitel.ru/en/developers
+CC109 | Capital One Financial Corp | Developer portal: https://developer.capitalone.com/
+CC125 | Citigroup Inc | Developer portal: https://developer.citi.com/
+CC141 | DBS Group Holdings Ltd | Developer portal: https://www.dbs.com/dbsdevelopers/
+CC172 | Grupo Santander | Developer portal: https://developer.santander.co.uk/
+CC179 | HSBC Holdings Plc | Developer portal: https://develop.hsbc.com/
+CC189 | ING Groep NV | Developer portal: https://developer.ing.com/
+CC199 | JP Morgan Chase & Co | Developer portal: https://developer.chase.com/
+CC62 | Banco Santander SA | Developer portal: https://developer.santander.co.uk/
+CC77 | Bank of America Corp | Developer portal: https://developer.bankofamerica.com/
+CC90 | Barclays Plc | Developer portal: https://developer.barclays.com/
+CP101 | Seiko Epson Corp | Developer portal: https://developer.epsonconnect.com/
+CP126 | Xerox Corp | Developer portal: https://www.xerox.com/en-us/about/developer-program
+CP127 | Xiaomi Corp | Developer portal: https://global.developer.mi.com/
+CP14 | AsusTek Computer Inc | Developer portal: https://iot.asus.com
+CP20 | Brother Industries Ltd | Developer portal: https://developerprogram.brother-usa.com/
+CP21 | Canon Inc | Developer portal: https://developersupport.usa.canon.com/
+CP29 | Dell Technologies Inc | Developer portal: https://developer.dell.com/
+CP35 | Dynabook Inc | Developer portal: https://us.dynabook.com/smartglasses/developers-kit
+CP3 | Acer Inc | Developer portal: https://spatiallabs.acer.com/developer
+CP45 | Haier Group | Developer portal: https://hope.haier.com
+CP50 | Huawei Technologies Co Ltd | Developer portal: https://developer.huawei.com
+CP5 | Alphabet Inc | Developer portal: https://developers.google.com
+CP61 | Karbonn Mobile India Pvt Ltd | Developer portal: https://developers.karbonhq.com/
+CP66 | Koninklijke Philips NV | Developer portal: https://developers.meethue.com/
+CP67 | Kyocera Corp | Developer portal: https://www.kyoceradocumentsolutions.eu/en/products/developers-partner-programme.html
+CP6 | Alza.cz as | Developer portal: https://trade.alza.cz/cs/info/api
+CP71 | Lenovo Group Ltd | Developer portal: https://support.lenovo.com/thinkreality
+CP72 | LG Corp | Developer portal: https://webostv.developer.lge.com/
+CP74 | Micro-Star International Co Ltd | Developer portal: https://partner.msi.com/
+CP81 | NEC Corp | Developer portal: https://www.univergeblue.com/cloud-services/extend/api-platform/
+CP85 | Nokia Corp | Developer portal: https://network.developer.nokia.com/
+CP89 | Panasonic Corp | Developer portal: https://hangar.panasonic.aero/sdk
+CP8 | Apex Technology Co Ltd | Developer portal: https://apexfintechsolutions.com/developers/
+CP98 | Razer Inc | Developer portal: https://developer.razer.com/
+CP99 | Ricoh Co Ltd | Developer portal: https://www.ricoh-usa.com/en/developer-program
+CP9 | Apple Inc | Developer portal: https://developer.apple.com
+FO11 | Deliveroo Plc | Developer portal: https://developers.deliveroo.com/
+FO12 | Delivery Hero SE | Developer portal: https://developers.deliveryhero.com/
+FO14 | Didi Chuxing Technology Co Ltd | Developer portal: https://mcp.didichuxing.com
+FO31 | Grab Holdings Inc | Developer portal: https://developer.grab.com/
+FO42 | Line Corp | Developer portal: https://developers.line.biz/
+FO45 | Meituan Inc | Developer portal: https://open.meituan.com/
+FO4 | Bolt Technology OÜ | Developer portal: https://developer.bolt.eu/
+FO60 | Rappi Inc | Developer portal: https://dev-portal.rappi.com/
+FO74 | Uber Technologies Inc | Developer portal: https://developer.uber.com/docs/eats
+FO79 | Zomato Ltd | Developer portal: https://www.zomato.com/developer/integration/
+FO8 | Coupang Corp | Developer portal: https://developers.coupangcorp.com
+HO111 | Expedia Group Inc | Developer portal: https://developers.expediagroup.com/
+HO165 | Hilton Worldwide Holdings Inc | Developer portal: https://developer.hilton.io/
+HO192 | Iberostar SA, Grupo | Developer portal: https://portalservices.iberostar.com/
+HO233 | Marriott International Inc | Developer portal: https://devportalprod.marriott.com/
+HO2 | AccorHotels Group | Developer portal: https://developer.accor.com/
+HO307 | S Group | Developer portal: https://www.s-group.dev/
+HO368 | TripAdvisor Inc | Developer portal: https://developer-tripadvisor.com
+HO370 | TUI Group | Developer portal: https://developer.tui/
+HO45 | Barceló, Grupo | Developer portal: https://developer.synxis.com/
+HO56 | Booking Holdings Inc | Developer portal: https://developers.booking.com
+HO5 | Airbnb Inc | Developer portal: https://developer.airbnb.com
+HO70 | Choice Hotels International Inc | Developer portal: https://developers.choice.dev
+IH11 | Cencosud SA | Developer portal: https://developers.ecomm.cencosud.com/
+IH25 | Falabella SACI | Developer portal: https://developers.falabella.com/
+IH73 | Vestel Ticaret AS | Developer portal: http://b2bsupport.vestel.com.tr
+IH76 | Vizio Inc | Developer portal: https://developer.vizio.com/
+IH80 | Yamaha Corp | Developer portal: https://www.yamaha.com/en/about/business/music-connect/apis/
+PE110 | Logitech International SA | Developer portal: https://www.logitech.com/en-us/software/logi-options-plus.html
+PE131 | Nikon Corp | Developer portal: https://sdk.nikonimaging.com/
+PE179 | Sonos Inc | Developer portal: https://developer.sonos.com/
+PE197 | TomTom International BV | Developer portal: https://developer.tomtom.com/
+PE210 | Western Digital Corp | Developer portal: https://developer.westerndigital.com/
+PE212 | Withings SA | Developer portal: https://developer.withings.com/
+PE216 | Yandex NV | Developer portal: https://yandex.com/dev/
+PE33 | Bose Corp | Developer portal: https://developer.bose.com/
+PE67 | Garmin Ltd | Developer portal: https://developer.garmin.com/
+PE8 | Alibaba Group Holding Ltd | Developer portal: https://openapi.alibaba.com/
+TR100 | International Consolidated Airlines Group SA | Developer portal: https://developer.iairgroup.com/
+TR11 | Air Canada Inc | Developer portal: https://ndc.aircanada.com/
+TR135 | Qantas Airways Ltd | Developer portal: https://www.qantas.com/distributionplatform/
+TR14 | Air France-KLM Group SA | Developer portal: https://developer.airfranceklm.com/
+TR152 | Singapore Airlines Ltd (SIA) | Developer portal: https://developer.singaporeair.com/
+TR181 | United Continental Holdings Inc | Developer portal: https://developer.staralliance.com/
+TR33 | American Airlines Group Inc | Developer portal: https://directconnect.aa.com/
+TR70 | Emirates Group Plc | Developer portal: https://developer.emirates.group/
+VG100 | Kyivstar PrAT | Developer portal: https://api-gateway.kyivstar.ua/
+VG102 | LEGO Group | Developer portal: https://developer.lego.com/
+VG110 | LY Corp | Developer portal: https://developers.line.biz/
+VG120 | Meta Platforms Inc | Developer portal: https://developers.facebook.com/
+VG121 | Microsoft Corp | Developer portal: https://developer.microsoft.com/en-us/games/
+VG129 | Monolith Productions Inc | Developer portal: https://developers.line.biz/
+VG12 | Astragon Entertainment GmbH | Developer portal: https://api.guildwars2.com/v2
+VG131 | NCsoft Corp | Developer portal: https://developers.plaync.com/
+VG138 | Nexon Co Ltd | Developer portal: https://openapi.nexon.com/
+VG155 | Plarium Global Ltd | Developer portal: https://partner.plarium.com/
+VG161 | Roblox Corp | Developer portal: https://create.roblox.com/
+VG163 | Samsung Corp | Developer portal: https://developer.samsung.com/
+VG180 | Sony Corp | Developer portal: https://partners.playstation.net/
+VG197 | Ubisoft Entertainment SA | Developer portal: https://creatorsprogram.ubisoft.com/
+VG198 | Valve Corp | Developer portal: https://partner.steamgames.com/
+VG1 | Activision Blizzard Inc | Developer portal: https://develop.battle.net/
+VG200 | Voodoo SAS | Developer portal: https://voodoo.io/academy
+VG28 | CCP ehf | Developer portal: https://developers.eveonline.com
+VG29 | CD Projekt SA | Developer portal: https://devportal.gog.com/
+VG37 | CyberAgent Inc | Developer portal: https://devportal.gog.com/
+VG41 | Digital Bros SpA, Group | Developer portal: https://forums.codemasters.com/
+VG4 | Alphabet Inc | Developer portal: https://developers.google.com/games
+VG76 | Hi-Rez Studios Inc | Developer portal: https://webcdn.hirezstudios.com/hirez-studios/legal/smite-api-developer-guide.pdf
+VG79 | HP Inc | Developer portal: https://developers.hp.com/
+VG7 | AppLovin Corp | Developer portal: https://www.applovin.com/developers/
+VG91 | KaKao Corp | Developer portal: https://developers.kakao.com/
+VG98 | Krafton Inc | Developer portal: https://developer.pubg.com
+
+IMPORTANT TIPS FOR SEARCHING:
+- Many large companies have GitHub organizations (e.g., github.com/apple, github.com/google, github.com/microsoft, github.com/uber, github.com/airbnb)
+- Some companies use different GitHub org names than their company name (e.g., Alphabet uses "google", Meta uses "facebook" or "meta")
+- Check for both the parent company name AND the product/brand name
+- Gaming companies may have repos under game-specific names (e.g., Roblox → github.com/Roblox)
+- If a company has multiple GitHub orgs, pick the one most relevant to their developer platform
+
+RETURN THE COMPLETE JSON ARRAY WITH ALL 112 ENTRIES. Do not skip any companies.

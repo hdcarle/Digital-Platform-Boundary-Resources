@@ -1,0 +1,231 @@
+"platform_ID","platform_name","PLAT","IND","cluster","cluster_label","cluster_k3","cluster_k4","cluster_k5"
+"VG8","ArenaNet LLC","PUBLIC","Video Game software","4","Minimalists",3,1,5
+"VG26","ByteDance Ltd","PUBLIC","Video Game software","3","Innovators",1,2,1
+"VG28","CCP ehf","REGISTRATION","Video Game software","2","Collaborators",2,3,4
+"VG29","CD Projekt SA","RESTRICTED","Video Game software","4","Minimalists",3,1,2
+"VG47","Epic Games Inc","PUBLIC","Video Game software","2","Collaborators",2,3,4
+"VG66","Gamevil Inc","PUBLIC","Video Game software","2","Collaborators",2,3,4
+"VG76","Hi-Rez Studios Inc","REGISTRATION","Video Game software","1","Generalists",3,4,5
+"VG79","HP Inc","REGISTRATION","Video Game software","1","Generalists",2,4,5
+"VG80","HTC Corp","PUBLIC","Video Game software","2","Collaborators",2,3,4
+"VG91","KaKao Corp","REGISTRATION","Video Game software","2","Collaborators",2,3,4
+"VG98","Krafton Inc","REGISTRATION","Video Game software","2","Collaborators",2,3,4
+"VG102","LEGO Group","RESTRICTED","Video Game software","4","Minimalists",3,1,3
+"VG120","Meta Platforms Inc","PUBLIC","Video Game software","2","Collaborators",1,3,4
+"VG121","Microsoft Corp","RESTRICTED","Video Game software","3","Innovators",1,2,1
+"VG131","NCsoft Corp","REGISTRATION","Video Game software","1","Generalists",2,4,5
+"VG138","Nexon Co Ltd","REGISTRATION","Video Game software","2","Collaborators",2,3,4
+"VG139","NHN Corp","REGISTRATION","Video Game software","2","Collaborators",2,3,4
+"VG140","Niantic Inc","PUBLIC","Video Game software","4","Minimalists",3,1,2
+"VG142","Nintendo Co Ltd","RESTRICTED","Video Game software","1","Generalists",2,4,2
+"VG155","Plarium Global Ltd","REGISTRATION","Video Game software","1","Generalists",2,4,2
+"VG161","Roblox Corp","PUBLIC","Video Game software","2","Collaborators",2,3,4
+"VG163","Samsung Corp","PUBLIC","Video Game software","2","Collaborators",2,3,4
+"VG173","Shanghai Lilith Technology Co Ltd","REGISTRATION","Video Game software","4","Minimalists",3,1,3
+"VG180","Sony Corp","RESTRICTED","Video Game software","1","Generalists",2,4,2
+"VG193","Tencent Holdings Ltd","REGISTRATION","Video Game software","1","Generalists",2,4,4
+"VG197","Ubisoft Entertainment SA","REGISTRATION","Video Game software","4","Minimalists",3,1,2
+"VG198","Valve Corp","REGISTRATION","Video Game software","2","Collaborators",2,3,4
+"VG202","Wargaming Group Ltd","REGISTRATION","Video Game software","1","Generalists",2,4,5
+"CP3","Acer Inc","RESTRICTED","Computers and Peripherals","4","Minimalists",3,1,2
+"CP5","Alphabet Inc","PUBLIC","Computers and Peripherals","3","Innovators",1,2,1
+"CP6","Alza.cz as","REGISTRATION","Computers and Peripherals","4","Minimalists",3,1,3
+"CP7","Amazon.com Inc","REGISTRATION","Computers and Peripherals","2","Collaborators",1,3,4
+"CP8","Apex Technology Co Ltd","REGISTRATION","Computers and Peripherals","2","Collaborators",1,3,4
+"CP9","Apple Inc","PUBLIC","Computers and Peripherals","3","Innovators",1,2,1
+"CP14","AsusTek Computer Inc","RESTRICTED","Computers and Peripherals","4","Minimalists",3,1,2
+"CP20","Brother Industries Ltd","PUBLIC","Computers and Peripherals","4","Minimalists",3,1,2
+"CP21","Canon Inc","REGISTRATION","Computers and Peripherals","4","Minimalists",3,1,3
+"CP29","Dell Technologies Inc","REGISTRATION","Computers and Peripherals","2","Collaborators",1,3,4
+"CP35","Dynabook Inc","RESTRICTED","Computers and Peripherals","4","Minimalists",3,1,2
+"CP50","Huawei Technologies Co Ltd","PUBLIC","Computers and Peripherals","3","Innovators",1,2,1
+"CP66","Koninklijke Philips NV","REGISTRATION","Computers and Peripherals","2","Collaborators",2,3,4
+"CP67","Kyocera Corp","REGISTRATION","Computers and Peripherals","2","Collaborators",2,3,2
+"CP71","Lenovo Group Ltd","REGISTRATION","Computers and Peripherals","1","Generalists",2,4,2
+"CP72","LG Corp","PUBLIC","Computers and Peripherals","2","Collaborators",2,3,4
+"CP74","Micro-Star International Co Ltd","REGISTRATION","Computers and Peripherals","4","Minimalists",3,1,2
+"CP81","NEC Corp","REGISTRATION","Computers and Peripherals","4","Minimalists",3,1,3
+"CP85","Nokia Corp","PUBLIC","Computers and Peripherals","2","Collaborators",2,3,4
+"CP89","Panasonic Corp","REGISTRATION","Computers and Peripherals","1","Generalists",2,4,2
+"CP90","Pantum International Ltd","REGISTRATION","Computers and Peripherals","1","Generalists",3,4,2
+"CP98","Razer Inc","PUBLIC","Computers and Peripherals","3","Innovators",1,2,1
+"CP99","Ricoh Co Ltd","REGISTRATION","Computers and Peripherals","4","Minimalists",3,1,3
+"CP101","Seiko Epson Corp","REGISTRATION","Computers and Peripherals","1","Generalists",2,4,5
+"CP115","Toshiba Corp","RESTRICTED","Computers and Peripherals","2","Collaborators",2,3,4
+"CP117","Transsion Holdings","PUBLIC","Computers and Peripherals","4","Minimalists",3,1,2
+"CP126","Xerox Corp","REGISTRATION","Computers and Peripherals","2","Collaborators",2,3,4
+"CP127","Xiaomi Corp","PUBLIC","Computers and Peripherals","2","Collaborators",2,3,4
+"PE8","Alibaba Group Holding Ltd","REGISTRATION","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE12","Arashi Vision Co Ltd","REGISTRATION","Portable Consumer Electronics","4","Minimalists",3,1,3
+"PE24","Bang & Olufsen A/S","PUBLIC","Portable Consumer Electronics","1","Generalists",3,4,5
+"PE33","Bose Corp","PUBLIC","Portable Consumer Electronics","4","Minimalists",3,1,3
+"PE47","Divoom Europe GmbH","PUBLIC","Portable Consumer Electronics","4","Minimalists",3,1,3
+"PE54","Electrolux AB","PUBLIC","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE67","Garmin Ltd","PUBLIC","Portable Consumer Electronics","2","Collaborators",2,3,4
+"PE71","GN Store Nord A/S","REGISTRATION","Portable Consumer Electronics","4","Minimalists",3,1,2
+"PE72","GoPro Inc","PUBLIC","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE101","Kodak Alaris Inc","REGISTRATION","Portable Consumer Electronics","4","Minimalists",3,1,3
+"PE110","Logitech International SA","PUBLIC","Portable Consumer Electronics","2","Collaborators",1,3,2
+"PE131","Nikon Corp","REGISTRATION","Portable Consumer Electronics","4","Minimalists",3,1,3
+"PE145","Polar Electro Oy","REGISTRATION","Portable Consumer Electronics","4","Minimalists",3,1,3
+"PE153","Rakuten Group Inc","REGISTRATION","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE179","Sonos Inc","REGISTRATION","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE187","SZ DJI Technology Co Ltd","REGISTRATION","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE197","TomTom International BV","REGISTRATION","Portable Consumer Electronics","3","Innovators",1,2,1
+"PE210","Western Digital Corp","PUBLIC","Portable Consumer Electronics","4","Minimalists",3,1,2
+"PE212","Withings SA","REGISTRATION","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE216","Yandex NV","PUBLIC","Portable Consumer Electronics","1","Generalists",2,4,5
+"PE219","Zepp Health Corp","PUBLIC","Portable Consumer Electronics","2","Collaborators",2,3,4
+"CA16","CE Info Systems Ltd","PUBLIC","In-Car Entertainment","1","Generalists",2,4,5
+"CA21","Denso Corp","REGISTRATION","In-Car Entertainment","4","Minimalists",3,1,3
+"CA23","E-Lead Electronic Co Ltd","RESTRICTED","In-Car Entertainment","1","Generalists",2,4,5
+"CA27","Faurecia SA","REGISTRATION","In-Car Entertainment","2","Collaborators",2,3,4
+"CA43","Hyundai Corp","RESTRICTED","In-Car Entertainment","1","Generalists",2,4,5
+"CA59","MiTAC International Corp","PUBLIC","In-Car Entertainment","4","Minimalists",3,1,3
+"CA60","Mitek Corp","REGISTRATION","In-Car Entertainment","1","Generalists",2,4,5
+"CA63","Navitel Poland Sp zoo","REGISTRATION","In-Car Entertainment","4","Minimalists",3,1,3
+"IH11","Cencosud SA","REGISTRATION","In-Home Consumer Electronics","1","Generalists",2,4,5
+"IH25","Falabella SACI","PUBLIC","In-Home Consumer Electronics","1","Generalists",2,4,5
+"IH73","Vestel Ticaret AS","RESTRICTED","In-Home Consumer Electronics","4","Minimalists",3,1,3
+"IH76","Vizio Inc","REGISTRATION","In-Home Consumer Electronics","4","Minimalists",3,1,3
+"IH80","Yamaha Corp","RESTRICTED","In-Home Consumer Electronics","4","Minimalists",3,1,2
+"CC1","ABN AMRO Bank NV","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC2","Absa Group Ltd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC5","Access Bank Plc","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC10","Akbank TAS","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC12","Alfa Group Consortium","PUBLIC","Credit Card Transactions","2","Collaborators",1,3,4
+"CC16","Alpha Bank SA","REGISTRATION","Credit Card Transactions","1","Generalists",2,4,5
+"CC18","American Express Co","REGISTRATION","Credit Card Transactions","2","Collaborators",2,3,4
+"CC19","ANZ Banking Group Ltd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC26","Axis Bank Ltd","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC32","Banco Bilbao Vizcaya Argentaria SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC34","Banco Bradesco SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC40","Banco Comercial Português SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC44","Banco Davivienda SA","PUBLIC","Credit Card Transactions","1","Generalists",3,4,2
+"CC46","Banco de Crédito del Perú","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC47","Banco de Crédito Inversiones SA","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,5
+"CC48","Banco de Galicia Y Buenos Aires SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC54","Banco do Brasil SA","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC62","Banco Santander SA","RESTRICTED","Credit Card Transactions","1","Generalists",2,4,5
+"CC69","Bank Central Asia Tbk PT","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC70","Bank CIMB Niaga Tbk PT","PUBLIC","Credit Card Transactions","1","Generalists",2,4,2
+"CC73","Bank Mandiri (Persero) Tbk PT","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC76","Bank Negara Indonesia (Persero) Tbk PT","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC77","Bank of America Corp","REGISTRATION","Credit Card Transactions","1","Generalists",2,4,5
+"CC78","Bank of Ayudhya PCL","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC82","Bank of Montreal Financial Group","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC83","Bank of Nova Scotia, The","PUBLIC","Credit Card Transactions","1","Generalists",2,4,2
+"CC85","Bank Polska Kasa Opieki SA - Pekao SA Group","REGISTRATION","Credit Card Transactions","1","Generalists",2,4,5
+"CC90","Barclays Plc","REGISTRATION","Credit Card Transactions","2","Collaborators",2,3,4
+"CC91","BAWAG PSK AG","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC97","BNP Paribas, Groupe","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC99","BPCE SA (Banques Populaires Caisses d'Epargne Groupe)","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC103","Caixa Económica Montepio Geral, Grupo","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC104","Caixa Geral de Depósitos, Grupo","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC105","Caixabank SA","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC109","Capital One Financial Corp","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC125","Citigroup Inc","REGISTRATION","Credit Card Transactions","1","Generalists",2,4,5
+"CC128","Commerzbank AG","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC129","Commonwealth Bank of Australia (CBA)","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC131","Crédit Agricole, Groupe","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,2
+"CC134","Crédit Mutuel, Groupe","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC138","Danske Bank Group","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC141","DBS Group Holdings Ltd","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC143","Deutsche Bank AG","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC144","Deutsche Lufthansa AG","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC148","DNB ASA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC154","EFG Eurobank Ergasias SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC156","Emirates NBD","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC158","Erste Group Bank AG","PUBLIC","Credit Card Transactions","1","Generalists",2,4,4
+"CC164","First Abu Dhabi Bank PJSC","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC168","Garanti Bankasi AS","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC170","Grupo Financiero Banorte SAB de CV","PUBLIC","Credit Card Transactions","1","Generalists",3,4,2
+"CC172","Grupo Santander","RESTRICTED","Credit Card Transactions","1","Generalists",2,4,5
+"CC175","Hang Seng Bank Ltd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC176","HDFC Bank Ltd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC179","HSBC Holdings Plc","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC185","ICICI Bank Ltd","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC189","ING Groep NV","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC194","Investec Bank Ltd","PUBLIC","Credit Card Transactions","2","Collaborators",1,3,4
+"CC196","Itaú Unibanco Holding SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC199","JP Morgan Chase & Co","REGISTRATION","Credit Card Transactions","2","Collaborators",2,3,4
+"CC201","Jyske Bank A/S","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC202","Kasikorn Bank PCL","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC204","KBC Bank & Insurance Holding Co","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC207","La Poste, Groupe","PUBLIC","Credit Card Transactions","1","Generalists",2,4,2
+"CC211","Lloyds Banking Group Plc","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC213","Malayan Banking Bhd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC215","Mashreq Bank","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC216","MBH Bank Nyrt","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC219","Mitsubishi UFJ Financial Group Inc","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC221","Moneta Money Bank as","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC223","National Australia Bank Group (NAB)","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC226","National Bank of Greece SA","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC229","NatWest Group Plc","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC230","Nedbank Group Ltd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC232","Nexi Payments SpA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC235","Nordea Bank Abp","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC239","OTP Bank NyRt","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC240","Oversea-Chinese Banking Corp Ltd (OCBC Bank)","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC245","Piraeus Bank SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC246","PKO Bank Polski SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC250","PrivatBank KB AT","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC255","Raiffeisen Bank International AG","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC259","Riyad Bank","REGISTRATION","Credit Card Transactions","1","Generalists",3,4,2
+"CC261","Royal Bank of Canada (RBC)","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC267","Sberbank PAO","PUBLIC","Credit Card Transactions","3","Innovators",1,2,1
+"CC275","Shell Plc","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC279","Siam Commercial Bank PCL, The","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC281","Skandinaviska Enskilda Banken AB","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC282","Société Générale SA","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC285","Standard Bank of South Africa","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC288","Sumitomo Mitsui Financial Group Inc","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC290","Svenska Handelsbanken AB","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC291","Swedbank AB","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC292","Sydbank A/S","PUBLIC","Credit Card Transactions","1","Generalists",2,4,4
+"CC299","TD Bank Financial Group","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC303","TKS Bank AO","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC310","Turkiye Is Bankasi AS (Isbank)","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC312","Tuya SA","PUBLIC","Credit Card Transactions","2","Collaborators",2,3,4
+"CC314","UniCredit Group","PUBLIC","Credit Card Transactions","1","Generalists",2,4,4
+"CC316","Union Bank of the Philippines Inc","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC319","United Overseas Bank Ltd","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"CC335","VTB Bank PAO","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC339","Westpac Banking Corp","PUBLIC","Credit Card Transactions","4","Minimalists",3,1,3
+"CC342","Yapi ve Kredi Bankasi AS","PUBLIC","Credit Card Transactions","1","Generalists",2,4,5
+"FO4","Bolt Technology OÜ","RESTRICTED","Consumer Foodservice Online Ordering","1","Generalists",2,4,5
+"FO8","Coupang Corp","RESTRICTED","Consumer Foodservice Online Ordering","1","Generalists",2,4,5
+"FO11","Deliveroo Plc","REGISTRATION","Consumer Foodservice Online Ordering","2","Collaborators",2,3,4
+"FO12","Delivery Hero SE","REGISTRATION","Consumer Foodservice Online Ordering","1","Generalists",2,4,5
+"FO14","Didi Chuxing Technology Co Ltd","RESTRICTED","Consumer Foodservice Online Ordering","3","Innovators",1,2,1
+"FO17","DoorDash Inc","REGISTRATION","Consumer Foodservice Online Ordering","2","Collaborators",2,3,4
+"FO30","GoTo Group","REGISTRATION","Consumer Foodservice Online Ordering","4","Minimalists",3,1,2
+"FO31","Grab Holdings Inc","REGISTRATION","Consumer Foodservice Online Ordering","2","Collaborators",2,3,4
+"FO41","Just Eat Takeaway.com NV","REGISTRATION","Consumer Foodservice Online Ordering","1","Generalists",2,4,2
+"FO42","Line Corp","PUBLIC","Consumer Foodservice Online Ordering","2","Collaborators",2,3,4
+"FO60","Rappi Inc","REGISTRATION","Consumer Foodservice Online Ordering","1","Generalists",2,4,5
+"FO71","Takeaway.com Group BV","REGISTRATION","Consumer Foodservice Online Ordering","1","Generalists",2,4,2
+"FO74","Uber Technologies Inc","REGISTRATION","Consumer Foodservice Online Ordering","2","Collaborators",2,3,4
+"FO79","Zomato Ltd","REGISTRATION","Consumer Foodservice Online Ordering","2","Collaborators",2,3,4
+"HO2","AccorHotels Group","REGISTRATION","Lodging (Destination)","1","Generalists",2,4,5
+"HO5","Airbnb Inc","RESTRICTED","Lodging (Destination)","2","Collaborators",2,3,4
+"HO45","Barceló, Grupo","REGISTRATION","Lodging (Destination)","1","Generalists",2,4,2
+"HO56","Booking Holdings Inc","RESTRICTED","Lodging (Destination)","1","Generalists",2,4,5
+"HO70","Choice Hotels International Inc","RESTRICTED","Lodging (Destination)","4","Minimalists",3,1,3
+"HO111","Expedia Group Inc","REGISTRATION","Lodging (Destination)","1","Generalists",2,4,5
+"HO165","Hilton Worldwide Holdings Inc","REGISTRATION","Lodging (Destination)","1","Generalists",2,4,5
+"HO192","Iberostar SA, Grupo","REGISTRATION","Lodging (Destination)","4","Minimalists",3,1,3
+"HO233","Marriott International Inc","REGISTRATION","Lodging (Destination)","4","Minimalists",3,1,2
+"HO307","S Group","REGISTRATION","Lodging (Destination)","4","Minimalists",3,1,3
+"HO326","Southern Sun Ltd","REGISTRATION","Lodging (Destination)","1","Generalists",2,4,5
+"HO368","TripAdvisor Inc","REGISTRATION","Lodging (Destination)","4","Minimalists",3,1,5
+"HO370","TUI Group","REGISTRATION","Lodging (Destination)","1","Generalists",2,4,5
+"TG574","WowWee Group Ltd","PUBLIC","Traditional Toys and Games","1","Generalists",2,4,2
+"TR11","Air Canada Inc","RESTRICTED","Travel Modes","1","Generalists",2,4,2
+"TR14","Air France-KLM Group SA","REGISTRATION","Travel Modes","1","Generalists",2,4,5
+"TR33","American Airlines Group Inc","REGISTRATION","Travel Modes","2","Collaborators",2,3,4
+"TR70","Emirates Group Plc","REGISTRATION","Travel Modes","1","Generalists",3,4,2
+"TR100","International Consolidated Airlines Group SA","REGISTRATION","Travel Modes","4","Minimalists",3,1,3
+"TR135","Qantas Airways Ltd","RESTRICTED","Travel Modes","4","Minimalists",3,1,3
+"TR152","Singapore Airlines Ltd (SIA)","REGISTRATION","Travel Modes","1","Generalists",2,4,4
+"TR181","United Continental Holdings Inc","REGISTRATION","Travel Modes","1","Generalists",2,4,5
