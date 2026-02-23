@@ -1,0 +1,904 @@
+platform_ID,platform_name,industry,home_country_name,home_country_iso3c,developer_portal_url,PLAT,PLAT_Notes,search_status
+CA1,Akai Electric Co Ltd,CA,Japan,JPN,,NONE,"Akai - Consumer electronics brand, no public API",NO_PORTAL
+CA2,Alemar Argentina SA,CA,Argentina,ARG,,NONE,"Alemar Argentina - Car audio brand, no API",NO_PORTAL
+CA3,Alps Alpine Co Ltd,CA,Japan,JPN,,NONE,Reclassified from RESTRICTED to NONE - no proprietary developer portal (Gemini search 2/16/26),SEARCHED
+CA4,Aquarius Brasil Indústria e Comércio Ltda,CA,Brazil,BRA,,NONE,"Aquarius Brasil - Car audio, no developer portal",NO_PORTAL
+CA6,AROBS Transilvania Software SRL,CA,Romania,ROU,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA7,Audio Mobile Americas SA,CA,Argentina,ARG,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA10,Avtolock TOV,CA,Ukraine,UKR,,NONE,"Avtolock Ukraine - Car security systems, no API",NO_PORTAL
+CA12,Better Corp,CA,Taiwan,TWN,,NONE,"Better Corp - Beauty tech, not car-focused, no API",NO_PORTAL
+CA13,Boss Audio Systems Inc,CA,United States,USA,,NONE,"Boss Audio - Car audio, no developer portal",NO_PORTAL
+CA15,Carnavi Corp,CA,South Korea,KOR,,NONE,"Carnavi Korea - Navigation, no public API",NO_PORTAL
+CA16,CE Info Systems Ltd,CA,India,IND,https://www.mapmyindia.com/api/,PUBLIC,MapmyIndia - Map APIs and SDKs for India,COMPLETE
+CA17,Chal-Tec GmbH,CA,Germany,DEU,,NONE,"Chal-Tec - Audio equipment, no developer API",NO_PORTAL
+CA19,Coagent Group,CA,Taiwan,TWN,,NONE,"Coagent Taiwan - Display manufacturer, no API",NO_PORTAL
+CA20,Delco Elektronik Pazarlama San Tic AS,CA,Turkey,TUR,,NONE,"Delco Elektronik Turkey - Car electronics, no API",NO_PORTAL
+CA21,Denso Corp,CA,Japan,JPN,https://dev.densoconnect.com/,REGISTRATION,Gemini verification: NONE→REGISTRATION (Provides ORiN2 SDK and barcode/RFID SDKs which require regis) | URL corrected via web search,GEMINI_VERIFIED
+CA22,Don 20 SRL,CA,Romania,ROU,,NONE,"Don 20 Romania - Car electronics retailer, no API",NO_PORTAL
+CA23,E-Lead Electronic Co Ltd,CA,Taiwan,TWN,https://www2.cdkglobal.com/api-solutions-crm,RESTRICTED,Gemini verification: NONE→RESTRICTED (Offers APIs through the Fortellis platform which requires pa) | URL corrected via web search,GEMINI_VERIFIED
+CA25,Elettromedia Srl,CA,Italy,ITA,,NONE,"Elettromedia Italy - Car audio (Audison), no API",NO_PORTAL
+CA26,ETI Sound Systems Inc,CA,United States,USA,,NONE,"ETI Sound - Car audio, no developer portal",NO_PORTAL
+CA27,Faurecia SA,CA,France,FRA,https://appning.com/developers/,REGISTRATION,Faurecia/Forvia Appning platform for automotive apps,COMPLETE
+CA29,Fine Digital Corp,CA,South Korea,KOR,,NONE,"Fine Digital Korea - Black boxes/dash cams, no API",NO_PORTAL
+CA30,Flyaudio Corp,CA,China,CHN,,NONE,"Flyaudio China - Car infotainment, no public API",NO_PORTAL
+CA31,Focal-JMlab SAS,CA,France,FRA,,NONE,"Focal France - Premium car audio, no API",NO_PORTAL
+CA32,Funai Electric Co Ltd,CA,Japan,JPN,,NONE,"Funai Japan - Electronics OEM, no public API",NO_PORTAL
+CA42,Huizhou Foryou General Electronics Co Ltd,CA,China,CHN,,NONE,"Foryou Electronics China - Car audio OEM, no API",NO_PORTAL
+CA43,Hyundai Corp,CA,South Korea,KOR,https://developers.hyundai.com,RESTRICTED,Hyundai - Connected car services are dealer/B2B restricted,SEARCHED
+CA47,JL Audio Inc,CA,United States,USA,,NONE,"JL Audio - Premium car audio, no developer API",NO_PORTAL
+CA48,Kovan International Co Ltd,CA,Taiwan,TWN,,NONE,"Kovan Taiwan - Display manufacturer, no API",NO_PORTAL
+CA50,Maction Technologies Inc,CA,Taiwan,TWN,,NONE,"Maction Taiwan - Car cameras, no API",NO_PORTAL
+CA51,Maestro Badenia Akustik & Elektronik GmbH,CA,Germany,DEU,,NONE,"Maestro Badenia Germany - Car audio, no API",NO_PORTAL
+CA52,Maka Technologies Group,CA,China,CHN,,NONE,"Maka Technologies China - Car multimedia, no API",NO_PORTAL
+CA54,Marvel Autor SRL,CA,Romania,ROU,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA59,MiTAC International Corp,CA,Taiwan,TWN,,NONE,Session 10: Scraper DNS timeout. No scrapeable content. Changed PLAT to NONE.,COMPLETED
+CA60,Mitek Corp,CA,Japan,JPN,https://developer.us.mitekcloud.com/,REGISTRATION,Gemini verification: NONE→REGISTRATION (Mitek Systems provides the MiSnap SDK with registration-base) | URL corrected via web search,GEMINI_VERIFIED
+CA61,Movilson SRL,CA,Argentina,ARG,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA62,Mystery Electronics Ltd,CA,Russia,RUS,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA63,Navitel Poland Sp zoo,CA,Poland,POL,,REGISTRATION,"Reverted PUBLIC→REGISTRATION: Navitel - link redirects to company site, no PUBLIC portal evidence",REVERTED
+CA68,Panasonic Automotive Systems Co Ltd,CA,Japan,JPN,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA70,Pioneer Corp,CA,Japan,JPN,https://pioneer-carsound.eu/partner-api,NONE,Reclassified to NONE (Feb 2026): Pioneer developer portal no longer exists. Gemini verification returned UNCERTAIN - no active developer program found. Pioneer acquired by Onkyo.,NO_PORTAL
+CA72,Premier Elektronik Paz Dag San ve Tic AS,CA,Turkey,TUR,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA73,PST Eletrônica SA,CA,Brazil,BRA,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA75,Roadstar Group,CA,Germany,DEU,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA76,Rockford Corp,CA,United States,USA,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA78,Sansui Electric Co Ltd,CA,Japan,JPN,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA79,Saturn Hi-Tech Group AG,CA,Germany,DEU,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA81,Sound United LLC,CA,United States,USA,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA82,Stillwater Designs Inc,CA,United States,USA,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA83,Supra Technologies Ltd,CA,Russia,RUS,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA84,Symphony Inc,CA,Egypt,EGY,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA86,Thinkware Co Ltd,CA,South Korea,KOR,https://developer.thinkware.com,NONE,Reclassified to NONE (Feb 2026): Thinkware developer portal no longer exists. Gemini verification returned UNCERTAIN - dashcam company with no public developer program.,NO_PORTAL
+CA87,Thomas K L Indústria de Alto Falantes Ltda,CA,Brazil,BRA,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA89,Tuning 86 Bistrita Srl,CA,Romania,ROU,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CA91,Voxx International Corp,CA,United States,USA,,NONE,Reclassified from RESTRICTED to NONE - no developer portal found,NO_PORTAL
+CA93,Winterpine Marketing Corp,CA,Philippines,PHL,,NONE,"Small car electronics company, no public developer API found",NO_PORTAL
+CC1,ABN AMRO Bank NV,CC,Netherlands,NLD,https://developer.abnamro.com/,PUBLIC,Gemini verification: NONE→PUBLIC (ABN AMRO provides a fully public developer portal for PSD2 a),GEMINI_VERIFIED
+CC2,Absa Group Ltd,CC,South Africa,ZAF,https://developer.absa.africa/,PUBLIC,Gemini verification: NONE→PUBLIC (Absa API Marketplace provides public access to documentation),GEMINI_VERIFIED
+CC3,Abu Dhabi Commercial Bank,CC,United Arab Emirates,ARE,,NONE,ADCB - no public developer API,NO_PORTAL
+CC5,Access Bank Plc,CC,Nigeria,NGA,https://developer.accessbankplc.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Offers a public portal with documentation for payments and l),GEMINI_VERIFIED
+CC6,AEON Group,CC,Japan,JPN,,NONE,AEON Group - no public developer API,NO_PORTAL
+CC8,Agos Ducato SpA,CC,Italy,ITA,,NONE,Agos Ducato - no public developer API,NO_PORTAL
+CC9,Agricultural Bank of China Ltd,CC,China,CHN,,NONE,Agricultural Bank of China - no public API,NO_PORTAL
+CC10,Akbank TAS,CC,Turkey,TUR,https://apiportal.akbank.com/,NONE,Session 10: Scraper timeout. Human coded with partial resources. Changed PLAT to NONE.,COMPLETED
+CC11,Al Rajhi Banking & Investment Corp,CC,Saudi Arabia,SAU,,NONE,Al Rajhi Bank - no public developer API,NO_PORTAL
+CC12,Alfa Group Consortium,CC,Russia,RUS,https://developers.alfabank.ru/,PUBLIC,Gemini verification: NONE→PUBLIC (Alfa-Bank provides an extensive public developer portal for ) | URL corrected via web search,GEMINI_VERIFIED
+CC16,Alpha Bank SA,CC,Greece,GRC,https://developer.api.alphabank.eu/,REGISTRATION,Gemini verification: NONE→REGISTRATION (Alpha Bank Developer Portal requires registration to view an) | URL corrected via web search,GEMINI_VERIFIED
+CC18,American Express Co,CC,United States,USA,https://developer.americanexpress.com/,REGISTRATION,American Express Developers - payment APIs and SDKs,COMPLETE
+CC19,ANZ Banking Group Ltd,CC,Australia,AUS,https://developer.online.anz.com/,PUBLIC,Gemini verification: NONE→PUBLIC (ANZ provides a public developer portal for Australia and New) | URL corrected from https://developer.anz.com/,GEMINI_VERIFIED
+CC20,Arab National Bank,CC,Saudi Arabia,SAU,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC23,AttijariWafa Bank,CC,Morocco,MAR,,NONE,AttijariWafa Bank - no public API,NO_PORTAL
+CC25,"Aval, Grupo",CC,Colombia,COL,,NONE,Grupo Aval - no public developer API,NO_PORTAL
+CC26,Axis Bank Ltd,CC,India,IND,https://apiportal.axis.bank.in/portal/,PUBLIC,Gemini verification: NONE→PUBLIC (Axis Bank provides public documentation for a wide range of ) | URL corrected from https://www.axisbank.com/developer/,GEMINI_VERIFIED
+CC27,Bailican Ltd,CC,Ukraine,UKR,,NONE,Bailican - no public developer API,NO_PORTAL
+CC28,Banca Comerciala Romana SA,CC,Romania,ROU,,NONE,BCR Romania - no public developer API,NO_PORTAL
+CC30,Banca Transilvania Sa,CC,Romania,ROU,,NONE,Banca Transilvania - no public API,NO_PORTAL
+CC32,Banco Bilbao Vizcaya Argentaria SA,CC,Spain,ESP,https://www.bbvaapimarket.com/,PUBLIC,Gemini verification: NONE→PUBLIC (BBVA API Market is a major public platform for global bankin),GEMINI_VERIFIED
+CC34,Banco Bradesco SA,CC,Brazil,BRA,https://developers.bradesco.com.br/,PUBLIC,Gemini verification: NONE→PUBLIC (Bradesco provides a comprehensive public portal for Brazilia) | URL corrected via web search,GEMINI_VERIFIED
+CC37,Banco Colpatria Multibanca Colpatria SA,CC,Colombia,COL,,NONE,Banco Colpatria - no public API,NO_PORTAL
+CC40,Banco Comercial Português SA,CC,Portugal,PRT,https://developer.millenniumbcp.pt/,PUBLIC,Gemini verification: NONE→PUBLIC (Millennium bcp offers a public developer portal for PSD2 and) | URL corrected via web search,GEMINI_VERIFIED
+CC44,Banco Davivienda SA,CC,Colombia,COL,https://developers.davivienda.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Davivienda provides a public portal for its API ecosystem in) | URL corrected via web search,GEMINI_VERIFIED
+CC45,Banco de Chile,CC,Chile,CHL,,NONE,Banco de Chile - no public API,NO_PORTAL
+CC46,Banco de Crédito del Perú,CC,Peru,PER,https://www.bpcbt.com/api-open-banking,PUBLIC,Gemini verification: NONE→PUBLIC (BCP provides public documentation and sandbox access for its) | URL corrected: https://api.viabcp.com/ → https://www.bpcbt.com/api-open-banking,NEEDS_VERIFICATION
+CC47,Banco de Crédito Inversiones SA,CC,Chile,CHL,https://developers.bci.cl/,PUBLIC,Gemini verification: NONE→PUBLIC (BCI provides an extensive public developer portal for its di),GEMINI_VERIFIED
+CC48,Banco de Galicia Y Buenos Aires SA,CC,Argentina,ARG,https://www.galicia.ar/empresas/open-galicia,PUBLIC,Gemini verification: NONE→PUBLIC (Galicia provides a public portal for corporate and retail ba) | URL corrected: https://api.galicia.com.ar/ → https://www.galicia.ar/empresas/open-galicia,NEEDS_VERIFICATION
+CC50,Banco de la Nación Argentina,CC,Argentina,ARG,,NONE,Banco Nación Argentina - no public API,NO_PORTAL
+CC51,Banco de la Provincia de Buenos Aires SA,CC,Argentina,ARG,,NONE,Banco Provincia - no public API,NO_PORTAL
+CC54,Banco do Brasil SA,CC,Brazil,BRA,https://developers.bb.com.br/,PUBLIC,Gemini verification: NONE→PUBLIC (Banco do Brasil maintains a massive public portal for a vari),GEMINI_VERIFIED
+CC55,Banco Falabella SA,CC,Chile,CHL,,NONE,Banco Falabella - no public API,NO_PORTAL
+CC59,Banco Macro BanSud SA,CC,Argentina,ARG,,NONE,Banco Macro - no public developer API,NO_PORTAL
+CC62,Banco Santander SA,CC,Spain,ESP,https://developer.santander.co.uk/,RESTRICTED,Banco Santander - requires TPP authorization,COMPLETE
+CC64,BanColombia SA,CC,Colombia,COL,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC65,Bancoppel SA,CC,Mexico,MEX,,NONE,Bancoppel - no public developer API,NO_PORTAL
+CC66,Bangkok Bank PCL,CC,Thailand,THA,,NONE,Bangkok Bank - no public developer API,NO_PORTAL
+CC67,Bank Al Jazira,CC,Saudi Arabia,SAU,,NONE,Bank Al Jazira - no public developer API,NO_PORTAL
+CC69,Bank Central Asia Tbk PT,CC,Indonesia,IDN,https://developer.bca.co.id/,PUBLIC,Gemini verification: NONE→PUBLIC (BCA provides a public portal for one of Indonesia's largest ),GEMINI_VERIFIED
+CC70,Bank CIMB Niaga Tbk PT,CC,Indonesia,IDN,https://api.cimbniaga.co.id/,PUBLIC,Gemini verification: NONE→PUBLIC (CIMB Niaga provides a public portal with documentation for v),GEMINI_VERIFIED
+CC72,Bank for Investment & Development of Vietnam (BIDV),CC,Vietnam,VNM,,NONE,BIDV Vietnam - no public developer API,NO_PORTAL
+CC73,Bank Mandiri (Persero) Tbk PT,CC,Indonesia,IDN,https://developer.bankmandiri.co.id/,PUBLIC,Gemini verification: NONE→PUBLIC (Mandiri provides a public portal for its Mandiri API digital),GEMINI_VERIFIED
+CC74,Bank Mega Tbk PT,CC,Indonesia,IDN,,NONE,Bank Mega - no public developer API,NO_PORTAL
+CC76,Bank Negara Indonesia (Persero) Tbk PT,CC,Indonesia,IDN,https://digitalservices.bni.co.id/,PUBLIC,Gemini verification: NONE→PUBLIC (BNI provides a public portal for its BNI API Digital ecosyst) | URL corrected: https://api.bni.co.id/ → https://digitalservices.bni.co.id/,NEEDS_VERIFICATION
+CC77,Bank of America Corp,CC,United States,USA,https://developer.bankofamerica.com/,REGISTRATION,"Bank of America has CashPro Developer Studio, Data Services API Portal with OAuth 2.0.",NO_PORTAL
+CC78,Bank of Ayudhya PCL,CC,Thailand,THA,,NONE,Session 10: Scraper DNS timeout. No scrapeable content. Changed PLAT to NONE.,COMPLETED
+CC79,Bank of China Ltd,CC,China,CHN,,NONE,Bank of China - no public developer API,NO_PORTAL
+CC80,Bank of Communications Co Ltd,CC,China,CHN,,NONE,Bank of Communications - no public API,NO_PORTAL
+CC82,Bank of Montreal Financial Group,CC,Canada,CAN,https://developer.bmo.com/,PUBLIC,Gemini verification: NONE→PUBLIC (BMO provides a public developer portal for APIs in Canada an),GEMINI_VERIFIED
+CC83,"Bank of Nova Scotia, The",CC,Canada,CAN,https://developer.scotiabank.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Scotiabank maintains a public developer portal for its globa),GEMINI_VERIFIED
+CC84,Bank of the Philippine Islands - BPI,CC,Philippines,PHL,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC85,Bank Polska Kasa Opieki SA - Pekao SA Group,CC,Poland,POL,https://developer.pekao.com.pl/,REGISTRATION,Gemini verification: NONE→REGISTRATION (Pekao SA requires registration to access its developer sandb),GEMINI_VERIFIED
+CC88,Bankinter SA,CC,Spain,ESP,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC90,Barclays Plc,CC,United Kingdom,GBR,https://developer.barclays.com/,REGISTRATION,Barclays API Exchange - open banking APIs,COMPLETE
+CC91,BAWAG PSK AG,CC,Austria,AUT,https://developer.bawaggroup.com/,PUBLIC,Session 10: URL corrected from developer.bawag.at to developer.bawaggroup.com. Needs re-scraping.,GEMINI_VERIFIED
+CC93,BDO Unibank Inc,CC,Philippines,PHL,,NONE,BDO Unibank - no public developer API,NO_PORTAL
+CC95,BMCE,CC,Morocco,MAR,,NONE,BMCE - no public developer API,NO_PORTAL
+CC96,BMCI,CC,Morocco,MAR,,NONE,BMCI - no public developer API,NO_PORTAL
+CC97,"BNP Paribas, Groupe",CC,France,FRA,https://developers.cib.bnpparibas.com/,PUBLIC,Gemini verification: NONE→PUBLIC (BNP Paribas offers a centralized public portal for global gr) | URL corrected via web search,GEMINI_VERIFIED
+CC98,BOC Credit Card (International) Ltd,CC,Hong Kong SAR China,HKG,,NONE,BOC Credit Card - no public API,NO_PORTAL
+CC99,BPCE SA (Banques Populaires Caisses d'Epargne Groupe),CC,France,FRA,https://apistore.groupebpce.com/,PUBLIC,Session 10: URL corrected from api.groupebpce.fr to apistore.groupebpce.com. Needs re-scraping.,GEMINI_VERIFIED
+CC103,"Caixa Económica Montepio Geral, Grupo",CC,Portugal,PRT,https://www.bancomontepio.pt/en/open-banking-apis,PUBLIC,Gemini verification: NONE→PUBLIC (Montepio provides a public developer portal for PSD2 APIs in) | URL corrected via web search,GEMINI_VERIFIED
+CC104,"Caixa Geral de Depósitos, Grupo",CC,Portugal,PRT,https://www.cgd.pt/English/Institutional/News/Pages/SIBS-API-Market.aspx,PUBLIC,Gemini verification: NONE→PUBLIC (CGD offers a public portal for its open banking API ecosyste) | URL corrected via web search,GEMINI_VERIFIED
+CC105,Caixabank SA,CC,Spain,ESP,https://www.caixabank.com/en/shareholders-investors/open-banking.html,PUBLIC,Gemini verification: NONE→PUBLIC (CaixaBank provides a public portal for third-party developer),GEMINI_VERIFIED
+CC106,Canadian Imperial Bank of Commerce (CIBC),CC,Canada,CAN,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC109,Capital One Financial Corp,CC,United States,USA,https://developer.capitalone.com/,PUBLIC,Capital One DevExchange - sandbox available,COMPLETE
+CC111,Carrefour SA,CC,France,FRA,,NONE,"Carrefour - retailer financial services, no API",NO_PORTAL
+CC112,CAT Administradora de Tarjetas SA,CC,Chile,CHL,,NONE,"CAT - Chilean card admin, no API",NO_PORTAL
+CC113,Cathay Financial Holding Co Ltd,CC,Taiwan,TWN,,NONE,Reverted PUBLIC→NONE: Cathay Financial - no developer portal found,REVERTED
+CC116,Chevron Corp,CC,United States,USA,,NONE,"Chevron - fuel card, no developer API",NO_PORTAL
+CC117,China Construction Bank Corp,CC,China,CHN,,NONE,China Construction Bank - no public developer API,NO_PORTAL
+CC118,China Everbright Bank Co Ltd,CC,China,CHN,,NONE,China Everbright Bank - no public API,NO_PORTAL
+CC119,China Guangfa Bank Co Ltd,CC,China,CHN,,NONE,China Guangfa Bank - no public API,NO_PORTAL
+CC120,China Merchants Bank Co Ltd,CC,China,CHN,,NONE,China Merchants Bank - no public API,NO_PORTAL
+CC121,China Minsheng Banking Corp Ltd,CC,China,CHN,,NONE,China Minsheng Bank - no public API,NO_PORTAL
+CC122,Chinatrust Financial Holding Co Ltd,CC,Taiwan,TWN,,NONE,Chinatrust - no public developer API,NO_PORTAL
+CC123,CIMB Bank Bhd,CC,Malaysia,MYS,,NONE,CIMB Bank - no public developer API,NO_PORTAL
+CC124,CITIC Group,CC,China,CHN,,NONE,CITIC Group - no public developer API,NO_PORTAL
+CC125,Citigroup Inc,CC,United States,USA,https://developer.citi.com/,REGISTRATION,Citi Developer Hub - global API sandbox,COMPLETE
+CC127,Commercial International Bank,CC,Egypt,EGY,,NONE,CIB Egypt - no public developer API,NO_PORTAL
+CC128,Commerzbank AG,CC,Germany,DEU,https://developer.commerzbank.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Commerzbank provides a public portal for its API banking ser),GEMINI_VERIFIED
+CC129,Commonwealth Bank of Australia (CBA),CC,Australia,AUS,https://www.commbank.com.au/Developer/,PUBLIC,Gemini verification: NONE→PUBLIC (CBA provides a public developer portal for its Australian ba) | URL corrected via web search,GEMINI_VERIFIED
+CC131,"Crédit Agricole, Groupe",CC,France,FRA,https://developer.credit-agricole.fr/,PUBLIC,Gemini verification: NONE→PUBLIC (Crédit Agricole offers a public developer portal for the gro) | URL corrected via web search,GEMINI_VERIFIED
+CC133,Credit Europe Bank NV,CC,Netherlands,NLD,,NONE,Credit Europe Bank - no public API,NO_PORTAL
+CC134,"Crédit Mutuel, Groupe",CC,France,FRA,https://www.creditmutuel.fr/oauth2/en/devportal/index.html,PUBLIC,Gemini verification: NONE→PUBLIC (Crédit Mutuel provides a public developer portal for API doc) | URL corrected via web search,GEMINI_VERIFIED
+CC135,Credit Saison Co Ltd,CC,Japan,JPN,,NONE,Credit Saison - no public developer API,NO_PORTAL
+CC138,Danske Bank Group,CC,Denmark,DNK,https://developers.danskebank.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Danske Bank provides a comprehensive public developer portal),GEMINI_VERIFIED
+CC139,DBS Bank (Taiwan) Ltd,CC,Taiwan,TWN,,NONE,DBS Taiwan - no public developer API,NO_PORTAL
+CC141,DBS Group Holdings Ltd,CC,Singapore,SGP,https://www.dbs.com/dbsdevelopers/,PUBLIC,Gemini verification: REGISTRATION→PUBLIC (DBS Developers is a public portal offering extensive banking),GEMINI_VERIFIED
+CC142,Desjardins Group,CC,Canada,CAN,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC143,Deutsche Bank AG,CC,Germany,DEU,https://developer.db.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Deutsche Bank provides a leading public developer portal for),GEMINI_VERIFIED
+CC144,Deutsche Lufthansa AG,CC,Germany,DEU,https://developer.lufthansa.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Lufthansa provides a public developer portal for flight and ),GEMINI_VERIFIED
+CC145,Deutscher Sparkassen- & Giroverband eV (DSGV),CC,Germany,DEU,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC148,DNB ASA,CC,Norway,NOR,https://developer.dnb.no/,PUBLIC,Gemini verification: NONE→PUBLIC (DNB provides a public developer portal for Norwegian banking),GEMINI_VERIFIED
+CC151,E Sun Financial Holding Co Ltd,CC,Taiwan,TWN,,NONE,Reverted PUBLIC→NONE: E.SUN Financial - no developer portal found,REVERTED
+CC153,East West Banking Corp,CC,Philippines,PHL,,NONE,East West Bank - no public developer API,NO_PORTAL
+CC154,EFG Eurobank Ergasias SA,CC,Greece,GRC,https://developer.eurobank.gr/,PUBLIC,Gemini verification: NONE→PUBLIC (Eurobank provides a public developer portal for Greek bankin),GEMINI_VERIFIED
+CC156,Emirates NBD,CC,United Arab Emirates,ARE,https://apisouq.emiratesnbd.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Emirates NBD provides a public developer portal for its Midd) | URL corrected via web search,GEMINI_VERIFIED
+CC157,EnterCard Group AB,CC,Sweden,SWE,,NONE,EnterCard - no public developer API,NO_PORTAL
+CC158,Erste Group Bank AG,CC,Austria,AUT,https://developers.erstegroup.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Erste Group provides a public portal for its CEE banking API),GEMINI_VERIFIED
+CC161,FBN Holdings Plc,CC,Nigeria,NGA,,NONE,FBN Holdings - no public developer API,NO_PORTAL
+CC162,Fidelity Bank Plc,CC,Nigeria,NGA,,NONE,Fidelity Bank Nigeria - no public API,NO_PORTAL
+CC164,First Abu Dhabi Bank PJSC,CC,United Arab Emirates,ARE,https://developer.bankfab.com/,PUBLIC,Gemini verification: NONE→PUBLIC (FAB provides a public developer portal for its UAE banking A),GEMINI_VERIFIED
+CC166,FirstRand Bank Ltd,CC,South Africa,ZAF,,NONE,FirstRand Bank - no public developer API,NO_PORTAL
+CC167,Fubon Financial Holding Co Ltd,CC,Taiwan,TWN,,NONE,Fubon Financial - no public developer API,NO_PORTAL
+CC168,Garanti Bankasi AS,CC,Turkey,TUR,https://developers.garantibbva.com.tr/,PUBLIC,Gemini verification: NONE→PUBLIC (Garanti BBVA provides a public developer portal for Turkish ),GEMINI_VERIFIED
+CC169,Groupe BCP,CC,Morocco,MAR,,NONE,Groupe BCP - no public developer API,NO_PORTAL
+CC170,Grupo Financiero Banorte SAB de CV,CC,Mexico,MEX,https://developers.banorte.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Banorte provides a public developer portal for Mexican banki) | URL corrected via web search,GEMINI_VERIFIED
+CC172,Grupo Santander,CC,Spain,ESP,https://developer.santander.co.uk/,RESTRICTED,Santander Developers - requires TPP authorization,COMPLETE
+CC173,Guaranty Trust Bank Plc,CC,Nigeria,NGA,,NONE,GTBank - no public developer API,NO_PORTAL
+CC174,Hana Financial Group Inc,CC,South Korea,KOR,,NONE,Hana Financial - no public developer API,NO_PORTAL
+CC175,Hang Seng Bank Ltd,CC,Hong Kong SAR China,HKG,https://develop.hangseng.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Hang Seng provides a public developer portal for Hong Kong b) | URL corrected via web search,GEMINI_VERIFIED
+CC176,HDFC Bank Ltd,CC,India,IND,https://developer.hdfc.bank.in/,PUBLIC,Gemini verification: NONE→PUBLIC (HDFC Bank provides an extensive public developer portal for ) | URL corrected from https://apiportal.hdfcbank.com/,GEMINI_VERIFIED
+CC178,Hong Leong Bank Bhd,CC,Malaysia,MYS,,NONE,Reverted PUBLIC→NONE: Hong Leong Bank - has APIs but no public portal,REVERTED
+CC179,HSBC Holdings Plc,CC,United Kingdom,GBR,https://develop.hsbc.com/,PUBLIC,Gemini verification: REGISTRATION→PUBLIC (HSBC provides a global public developer portal for its API e) | URL corrected from https://develop.hsbc.com/,GEMINI_VERIFIED
+CC182,Hyundai Group,CC,South Korea,KOR,,NONE,Hyundai Card - no public developer API,NO_PORTAL
+CC184,ICC CAL Ltd,CC,Israel,ISR,,NONE,ICC CAL - no public developer API,NO_PORTAL
+CC185,ICICI Bank Ltd,CC,India,IND,,NONE,Session 10: Scraper DNS timeout. No scrapeable content. Changed PLAT to NONE.,COMPLETED
+CC187,Industrial & Commercial Bank of China Ltd,CC,China,CHN,,NONE,ICBC - no public developer API,NO_PORTAL
+CC188,Industrial Bank Co Ltd,CC,China,CHN,,NONE,Industrial Bank China - no public API,NO_PORTAL
+CC189,ING Groep NV,CC,Netherlands,NLD,https://developer.ing.com/,PUBLIC,Gemini verification: REGISTRATION→PUBLIC (ING provides a comprehensive public developer portal for its),GEMINI_VERIFIED
+CC190,Intercorp Perú Ltd,CC,Peru,PER,,NONE,Intercorp Peru - no public developer API,NO_PORTAL
+CC191,International Card Services BV,CC,Netherlands,NLD,,NONE,ICS BV - no public developer API,NO_PORTAL
+CC194,Investec Bank Ltd,CC,South Africa,ZAF,https://developer.investec.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Investec provides a public developer portal for its UK and S),GEMINI_VERIFIED
+CC195,IsraCard Ltd,CC,Israel,ISR,,NONE,IsraCard - no public developer API,NO_PORTAL
+CC196,Itaú Unibanco Holding SA,CC,Brazil,BRA,https://devportal.itau.com.br/,PUBLIC,Gemini verification: NONE→PUBLIC (Itaú provides a major public developer portal for Brazilian ) | URL corrected from https://www.itau.com.br/developers/,GEMINI_VERIFIED
+CC198,JCB Co Ltd,CC,Japan,JPN,,NONE,"JCB Co - payment network, no public API",NO_PORTAL
+CC199,JP Morgan Chase & Co,CC,United States,USA,https://developer.chase.com/,REGISTRATION,JPMorgan Chase Developer Portal - open banking APIs,COMPLETE
+CC200,JSC Bank for Foreign Trade of Vietnam (Vietcombank),CC,Vietnam,VNM,,NONE,Vietcombank - no public developer API,NO_PORTAL
+CC201,Jyske Bank A/S,CC,Denmark,DNK,https://jyskebank.com/about/developers,PUBLIC,Gemini verification: NONE→PUBLIC (Jyske Bank provides a public developer portal for PSD2 APIs.) | URL corrected: https://developer.jyskebank.dk/ → https://jyskebank.com/about/developers,NEEDS_VERIFICATION
+CC202,Kasikorn Bank PCL,CC,Thailand,THA,https://apiportal.kasikornbank.com/,PUBLIC,Gemini verification: NONE→PUBLIC (KBank provides a public developer portal for Thai banking AP),GEMINI_VERIFIED
+CC203,KB Kookmin Card Co Ltd,CC,South Korea,KOR,,NONE,KB Kookmin Card - no public developer API,NO_PORTAL
+CC204,KBC Bank & Insurance Holding Co,CC,Belgium,BEL,https://developer.kbc.be/,PUBLIC,Gemini verification: NONE→PUBLIC (KBC provides a public developer portal for its Belgian and C),GEMINI_VERIFIED
+CC206,Krung Thai Bank PCL,CC,Thailand,THA,,NONE,Krung Thai Bank - no public developer API,NO_PORTAL
+CC207,"La Poste, Groupe",CC,France,FRA,https://developer.laposte.fr/,PUBLIC,Gemini verification: NONE→PUBLIC (La Poste provides a public developer portal for its postal a),GEMINI_VERIFIED
+CC208,Landesbank Berlin Holding AG,CC,Germany,DEU,,NONE,Landesbank Berlin - no public developer API,NO_PORTAL
+CC209,LaSer Group,CC,France,FRA,,NONE,LaSer Group - no public developer API,NO_PORTAL
+CC211,Lloyds Banking Group Plc,CC,United Kingdom,GBR,https://developer.lloydsbanking.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Lloyds provides a public developer portal for its UK banking) | URL corrected via web search,GEMINI_VERIFIED
+CC212,Lotte Group,CC,South Korea,KOR,,NONE,Lotte Card - no public developer API,NO_PORTAL
+CC213,Malayan Banking Bhd,CC,Malaysia,MYS,https://www.maybanksandbox.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Maybank provides a public developer portal for its Southeast) | URL corrected: https://developer.maybank.com.my/ → https://www.maybanksandbox.com/,NEEDS_VERIFICATION
+CC215,Mashreq Bank,CC,United Arab Emirates,ARE,https://developer.mashreqbank.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Mashreq provides a public developer portal for Middle Easter) | URL corrected via web search,GEMINI_VERIFIED
+CC216,MBH Bank Nyrt,CC,Hungary,HUN,https://portal.sandbox1.mbhbank.hu/,PUBLIC,Gemini verification: NONE→PUBLIC (Hungarian bank MBH provides a public developer portal for PS) | URL corrected: https://developer.mbhbank.hu/ → https://portal.sandbox1.mbhbank.hu/,NEEDS_VERIFICATION
+CC217,Metropolitan Bank & Trust Co - Metrobank - MBTC,CC,Philippines,PHL,,NONE,Reverted PUBLIC→NONE: Metrobank Philippines - no public developer portal,REVERTED
+CC218,Military Commercial Joint Stock Bank,CC,Vietnam,VNM,,NONE,MB Bank Vietnam - no public developer API,NO_PORTAL
+CC219,Mitsubishi UFJ Financial Group Inc,CC,Japan,JPN,https://developer.portal.bk.mufg.jp/,PUBLIC,Gemini verification: NONE→PUBLIC (MUFG provides a public developer portal for its global banki) | URL corrected via web search,GEMINI_VERIFIED
+CC220,MLP AG,CC,Germany,DEU,,NONE,MLP AG - no public developer API,NO_PORTAL
+CC221,Moneta Money Bank as,CC,Czech Republic,CZE,https://apiportal.moneta.cz/,PUBLIC,Gemini verification: NONE→PUBLIC (Moneta provides a public developer portal for its Czech bank) | URL corrected via web search,GEMINI_VERIFIED
+CC223,National Australia Bank Group (NAB),CC,Australia,AUS,https://developer.nab.com.au/,PUBLIC,Gemini verification: NONE→PUBLIC (NAB provides a public developer portal with documentation fo),GEMINI_VERIFIED
+CC225,National Bank of Egypt,CC,Egypt,EGY,,NONE,National Bank of Egypt - no public API,NO_PORTAL
+CC226,National Bank of Greece SA,CC,Greece,GRC,https://developer.nbg.gr/,PUBLIC,Gemini verification: NONE→PUBLIC (NBG provides an extensive public developer portal for Greek ),GEMINI_VERIFIED
+CC229,NatWest Group Plc,CC,United Kingdom,GBR,https://www.bankofapis.com/,PUBLIC,Gemini verification: NONE→PUBLIC (NatWest operates the Bank of APIs public portal for its bran) | URL corrected via web search,GEMINI_VERIFIED
+CC230,Nedbank Group Ltd,CC,South Africa,ZAF,https://apim.nedbank.co.za/,PUBLIC,Gemini verification: NONE→PUBLIC (Nedbank provides a public API marketplace for South African ) | URL corrected via web search,GEMINI_VERIFIED
+CC232,Nexi Payments SpA,CC,Italy,ITA,https://developer.nexi.it/,PUBLIC,Gemini verification: NONE→PUBLIC (Nexi provides a public developer portal for its payment and ),GEMINI_VERIFIED
+CC233,NOBA Bank Group AB,CC,Sweden,SWE,,NONE,NOBA Bank - no public developer API,NO_PORTAL
+CC234,NongHyup Financial Group Inc,CC,South Korea,KOR,,NONE,NongHyup Financial - no public API,NO_PORTAL
+CC235,Nordea Bank Abp,CC,Finland,FIN,https://developer.nordeaopenbanking.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Nordea provides a major public developer portal for Nordic b) | URL corrected from https://developer.nordea.com/,GEMINI_VERIFIED
+CC236,Novo Banco SA,CC,Portugal,PRT,,NONE,Reverted PUBLIC→NONE: Novo Banco - no specific developer portal,REVERTED
+CC237,Nu Pagamentos SA,CC,Brazil,BRA,,NONE,Nubank - no public developer API,NO_PORTAL
+CC239,OTP Bank NyRt,CC,Hungary,HUN,https://www.otpbank.hu/portal/en/psd2,PUBLIC,Gemini verification: NONE→PUBLIC (OTP Bank provides a public developer portal for its Hungaria) | URL corrected via web search,GEMINI_VERIFIED
+CC240,Oversea-Chinese Banking Corp Ltd (OCBC Bank),CC,Singapore,SGP,https://api.ocbc.com/store,PUBLIC,Gemini verification: NONE→PUBLIC (OCBC provides a public developer portal with documentation f) | URL corrected via web search,GEMINI_VERIFIED
+CC241,Paybox Bank AG,CC,Austria,AUT,,NONE,Paybox Bank - no public developer API,NO_PORTAL
+CC244,Ping An Insurance Co of China Ltd,CC,China,CHN,,NONE,Ping An - no public developer API,NO_PORTAL
+CC245,Piraeus Bank SA,CC,Greece,GRC,https://rapidlink.piraeusbank.gr/,PUBLIC,Gemini verification: NONE→PUBLIC (Piraeus Bank provides a public developer portal for its Gree) | URL corrected via web search,GEMINI_VERIFIED
+CC246,PKO Bank Polski SA,CC,Poland,POL,https://developers.pkobp.pl/,PUBLIC,Gemini verification: NONE→PUBLIC (PKO BP provides a public developer portal for its Polish ban) | URL corrected via web search,GEMINI_VERIFIED
+CC248,PPF Group NV,CC,Netherlands,NLD,,NONE,PPF Group - no public developer API,NO_PORTAL
+CC250,PrivatBank KB AT,CC,Ukraine,UKR,https://api.privatbank.ua/,PUBLIC,Gemini verification: NONE→PUBLIC (PrivatBank provides a comprehensive public portal for Ukrain),GEMINI_VERIFIED
+CC252,Public Bank Bhd,CC,Malaysia,MYS,,NONE,Public Bank Bhd - no public API,NO_PORTAL
+CC253,Qatar National Bank SAQ,CC,Qatar,QAT,,NONE,QNB - no public developer API,NO_PORTAL
+CC254,Rabobank Groep NV,CC,Netherlands,NLD,https://developer.rabobank.nl/,PUBLIC,Gemini verification: NONE→PUBLIC (Rabobank provides a public developer portal for its Dutch an),GEMINI_VERIFIED
+CC255,Raiffeisen Bank International AG,CC,Austria,AUT,https://api.rbinternational.com/,PUBLIC,Gemini verification: NONE→PUBLIC (RBI provides a public developer portal for its CEE market AP) | URL corrected via web search,GEMINI_VERIFIED
+CC256,Raiffeisen Zentralbank AG,CC,Austria,AUT,,NONE,RZB - no public developer API,NO_PORTAL
+CC258,Ripley Corp SA,CC,Chile,CHL,,NONE,Ripley Corp - no public developer API,NO_PORTAL
+CC259,Riyad Bank,CC,Saudi Arabia,SAU,https://www.riyadbank.com/open-banking,REGISTRATION,Gemini verification: NONE→REGISTRATION (Riyad Bank requires registration to access its developer por) | URL corrected: https://developer.riyadbank.com/ → https://www.riyadbank.com/open-banking,NEEDS_VERIFICATION
+CC260,Rizal Commercial Banking Corp - RCBC,CC,Philippines,PHL,,NONE,Reverted PUBLIC→NONE: RCBC Philippines - no portal URL confirmed,REVERTED
+CC261,Royal Bank of Canada (RBC),CC,Canada,CAN,https://developer.rbc.com/,PUBLIC,Gemini verification: NONE→PUBLIC (RBC provides a public developer portal with documentation fo),GEMINI_VERIFIED
+CC262,Russkiy Standart Bank AO,CC,Russia,RUS,,NONE,Russkiy Standart - no public API,NO_PORTAL
+CC264,Saigon Thuong Tin Commercial JSB,CC,Vietnam,VNM,,NONE,Sacombank - no public developer API,NO_PORTAL
+CC266,Saudi National Bank SNB,CC,Saudi Arabia,SAU,,NONE,Saudi National Bank - no public API,NO_PORTAL
+CC267,Sberbank PAO,CC,Russia,RUS,https://developers.sber.ru/,PUBLIC,Gemini verification: NONE→PUBLIC (Sber provides a massive public developer portal for its Russ) | URL corrected from https://developers.sberbank.ru/,GEMINI_VERIFIED
+CC268,SBI Cards & Payment Services Ltd,CC,India,IND,,NONE,SBI Cards - no public developer API,NO_PORTAL
+CC270,Security Bank Corp,CC,Philippines,PHL,,NONE,Security Bank - no public developer API,NO_PORTAL
+CC274,Shanghai Pudong Development Bank Co Ltd,CC,China,CHN,,NONE,SPDB - no public developer API,NO_PORTAL
+CC275,Shell Plc,CC,United Kingdom,GBR,https://developer.shell.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Shell provides a public developer portal for its fleet and r),GEMINI_VERIFIED
+CC277,Shinhan Group,CC,South Korea,KOR,,NONE,Shinhan Group - no public developer API,NO_PORTAL
+CC278,Shinhan Vietnam Bank Ltd,CC,Vietnam,VNM,,NONE,Shinhan Vietnam - no public API,NO_PORTAL
+CC279,"Siam Commercial Bank PCL, The",CC,Thailand,THA,https://developer.scb/,PUBLIC,Gemini verification: NONE→PUBLIC (SCB provides a public developer portal for its Thai banking ),GEMINI_VERIFIED
+CC281,Skandinaviska Enskilda Banken AB,CC,Sweden,SWE,https://developer.sebgroup.com/,PUBLIC,Gemini verification: NONE→PUBLIC (SEB provides a public developer portal for its Nordic/Baltic),GEMINI_VERIFIED
+CC282,Société Générale SA,CC,France,FRA,https://developer.societegenerale.fr/,PUBLIC,Gemini verification: NONE→PUBLIC (SocGen provides a public developer portal for its global ban) | URL corrected from https://developer.societegenerale.com/,GEMINI_VERIFIED
+CC285,Standard Bank of South Africa,CC,South Africa,ZAF,https://developer.standardbank.co.za/,PUBLIC,Gemini verification: NONE→PUBLIC (Standard Bank provides a public API marketplace for African ),GEMINI_VERIFIED
+CC286,Standard Chartered Bank Plc,CC,United Kingdom,GBR,,NONE,Session 10: URL DNS failure. No valid developer portal found. Changed PLAT to NONE.,COMPLETED
+CC288,Sumitomo Mitsui Financial Group Inc,CC,Japan,JPN,https://developer.smbcdigital.com/,PUBLIC,Gemini verification: NONE→PUBLIC (SMBC provides a public developer portal for its Japanese ban) | URL corrected via web search,GEMINI_VERIFIED
+CC290,Svenska Handelsbanken AB,CC,Sweden,SWE,https://developer.handelsbanken.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Handelsbanken provides a public developer portal for its Eur),GEMINI_VERIFIED
+CC291,Swedbank AB,CC,Sweden,SWE,https://developer.swedbank.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Swedbank provides a public developer portal for its Nordic a),GEMINI_VERIFIED
+CC292,Sydbank A/S,CC,Denmark,DNK,https://www.bankdata.dk/developers,PUBLIC,Gemini verification: NONE→PUBLIC (Sydbank provides a public developer portal for PSD2 APIs.) | URL corrected via web search,GEMINI_VERIFIED
+CC294,Taishin Financial Holding Co Ltd,CC,Taiwan,TWN,,NONE,Reverted PUBLIC→NONE: Taishin Financial - no developer portal found,REVERTED
+CC298,Tarjeta Naranja SA,CC,Argentina,ARG,,NONE,Tarjeta Naranja - no public API,NO_PORTAL
+CC299,TD Bank Financial Group,CC,Canada,CAN,,NONE,Session 10: No own developer portal. Uses Plaid aggregator API. Changed PLAT to NONE.,COMPLETED
+CC302,Tien Phong Commercial JSB,CC,Vietnam,VNM,,NONE,TPBank Vietnam - no public API,NO_PORTAL
+CC303,TKS Bank AO,CC,Russia,RUS,https://developer.tbank.ru/,PUBLIC,Gemini verification: NONE→PUBLIC (Tinkoff provides a comprehensive public portal for its digit) | URL corrected from https://www.tinkoff.ru/dev/,GEMINI_VERIFIED
+CC308,Turkiye Cumhuriyeti Ziraat Bankasi AS,CC,Turkey,TUR,,NONE,Ziraat Bank - no public developer API,NO_PORTAL
+CC309,Turkiye Halk Bankasi AS,CC,Turkey,TUR,,NONE,Halkbank - no public developer API,NO_PORTAL
+CC310,Turkiye Is Bankasi AS (Isbank),CC,Turkey,TUR,https://api.isbank.com.tr/,PUBLIC,Gemini verification: NONE→PUBLIC (Isbank provides a public developer portal for Turkish bankin),GEMINI_VERIFIED
+CC311,Turkiye Vakiflar Bankasi TAO,CC,Turkey,TUR,,NONE,Vakifbank - no public developer API,NO_PORTAL
+CC312,Tuya SA,CC,Colombia,COL,https://developer.tuya.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Tuya provides a massive public IoT platform and API document),GEMINI_VERIFIED
+CC314,UniCredit Group,CC,Italy,ITA,https://developer.unicredit.eu/,PUBLIC,Gemini verification: NONE→PUBLIC (UniCredit provides a public developer portal for its Europea),GEMINI_VERIFIED
+CC316,Union Bank of the Philippines Inc,CC,Philippines,PHL,https://developer.unionbankph.com/,PUBLIC,Gemini verification: NONE→PUBLIC (UnionBank provides a leading public developer portal in the ),GEMINI_VERIFIED
+CC319,United Overseas Bank Ltd,CC,Singapore,SGP,https://developers.uobgroup.com/en/,PUBLIC,Gemini verification: NONE→PUBLIC (UOB provides a public developer portal for its Southeast Asi) | URL corrected via web search,GEMINI_VERIFIED
+CC320,Universo IME SA,CC,Spain,ESP,,NONE,Universo IME - no public developer API,NO_PORTAL
+CC325,Värde Partners Inc,CC,United States,USA,,NONE,"Värde Partners - PE firm, no API",NO_PORTAL
+CC328,Vietnam International Commercial JSB,CC,Vietnam,VNM,,NONE,VIB Vietnam - no public developer API,NO_PORTAL
+CC329,Vietnam JSC Bank for Industry & Trade (Vietinbank),CC,Vietnam,VNM,,NONE,Vietinbank - no public developer API,NO_PORTAL
+CC331,Vietnam Prosperity Commercial JCB,CC,Vietnam,VNM,,NONE,VPBank - no public developer API,NO_PORTAL
+CC332,Vietnam Technological & Commercial Bank,CC,Vietnam,VNM,,NONE,Techcombank - no public developer API,NO_PORTAL
+CC333,Virgin Group Ltd,CC,United Kingdom,GBR,,NONE,Virgin Money - no public developer API,NO_PORTAL
+CC335,VTB Bank PAO,CC,Russia,RUS,https://developer.vtb.ru/,PUBLIC,Gemini verification: NONE→PUBLIC (VTB provides a public developer portal for its Russian banki),GEMINI_VERIFIED
+CC337,Warburg Pincus Financial Holdings (Israel) Ltd,CC,Israel,ISR,,NONE,"Warburg Pincus - PE firm, no API",NO_PORTAL
+CC339,Westpac Banking Corp,CC,Australia,AUS,https://developer.westpac.co.nz/,PUBLIC,Gemini verification: NONE→PUBLIC (Westpac provides a public developer portal for its Australia) | URL corrected from https://developer.westpac.com.au/,GEMINI_VERIFIED
+CC341,Woori Finance Holdings Co Ltd,CC,South Korea,KOR,,NONE,Woori Finance - no public developer API,NO_PORTAL
+CC342,Yapi ve Kredi Bankasi AS,CC,Turkey,TUR,https://apiportal.yapikredi.com.tr/,PUBLIC,Gemini verification: NONE→PUBLIC (Yapi Kredi provides a public developer portal for Turkish ba) | URL corrected via web search,GEMINI_VERIFIED
+CC344,Zenith Bank UK Ltd,CC,Nigeria,NGA,,NONE,Zenith Bank - no public developer API,NO_PORTAL
+CP2,Acegame SA,CP,Argentina,ARG,,NONE,"Acegame Argentina - Gaming retailer, no API",NO_PORTAL
+CP3,Acer Inc,CP,Taiwan,TWN,https://spatiallabs.acer.com/developer,RESTRICTED,Acer - Partner programs for gaming/enterprise only,SEARCHED
+CP5,Alphabet Inc,CP,United States,USA,https://developers.google.com,PUBLIC,Google/Alphabet has extensive public developer portals with APIs freely accessible.,NO_PORTAL
+CP6,Alza.cz as,CP,Czech Republic,CZE,https://trade.alza.cz/cs/info/api,REGISTRATION,Alza Trade API requires registration to obtain Client ID and Secret key.,NO_PORTAL
+CP7,Amazon.com Inc,CP,United States,USA,https://developer.amazon.com,REGISTRATION,Amazon offers multiple developer portals requiring developer account registration.,NO_PORTAL
+CP8,Apex Technology Co Ltd,CP,China,CHN,https://apexfintechsolutions.com/developers/,REGISTRATION,Apex Fintech Solutions developer portal requires registration and access request.,NO_PORTAL
+CP9,Apple Inc,CP,United States,USA,https://developer.apple.com,PUBLIC,Apple Developer portal is publicly accessible with free registration.,NO_PORTAL
+CP11,Archos SA,CP,France,FRA,,NONE,"Archos - Discontinued tablet brand, no active API",NO_PORTAL
+CP13,Asbisc Enterprises Plc,CP,Cyprus,,,NONE,"Asbisc - IT distributor, no developer API",NO_PORTAL
+CP14,AsusTek Computer Inc,CP,Taiwan,TWN,https://iot.asus.com,RESTRICTED,ASUS - ROG SDK is partner-only,SEARCHED
+CP17,BBK Electronics Corp Ltd,CP,China,CHN,,NONE,BBK Electronics (Oppo/Vivo parent) - No unified API,NO_PORTAL
+CP18,BenQ Corp,CP,Taiwan,TWN,,NONE,"BenQ - Display/projector brand, no public API",NO_PORTAL
+CP19,Blackview International Group,CP,China,CHN,,NONE,"Blackview - Rugged phone brand, no API",NO_PORTAL
+CP20,Brother Industries Ltd,CP,Japan,JPN,https://developerprogram.brother-usa.com/,PUBLIC,Brother Developer Program - print SDKs,COMPLETE
+CP21,Canon Inc,CP,Japan,JPN,https://developersupport.usa.canon.com/,REGISTRATION,Canon Developer Support - print/camera SDKs,COMPLETE
+CP22,Casper Computer AS,CP,Turkey,TUR,,NONE,"Casper Turkey - PC brand, no developer API",NO_PORTAL
+CP23,CCE da Amazonia SA,CP,Brazil,BRA,,NONE,"CCE Brazil - Electronics brand, no API",NO_PORTAL
+CP26,Cosmic Technologies Inc,CP,Philippines,PHL,,NONE,"Cosmic Technologies Philippines - Phone brand, no API",NO_PORTAL
+CP29,Dell Technologies Inc,CP,United States,USA,https://developer.dell.com/,REGISTRATION,Dell Developer Portal - enterprise APIs,COMPLETE
+CP30,Denver Electronics A/S,CP,Denmark,DNK,,NONE,"Denver Electronics - Budget brand, no API",NO_PORTAL
+CP34,DNS OOO,CP,Russia,RUS,,NONE,"DNS Russia - Electronics retailer, no API",NO_PORTAL
+CP35,Dynabook Inc,CP,Japan,JPN,https://us.dynabook.com/smartglasses/developers-kit,RESTRICTED,Dynabook (ex-Toshiba) - B2B programs only,SEARCHED
+CP36,Dyname SA,CP,Argentina,ARG,,NONE,"Dyname Argentina - Electronics, no API",NO_PORTAL
+CP39,Exo SA,CP,Argentina,ARG,,NONE,"Exo Argentina - PC brand, no developer API",NO_PORTAL
+CP40,Fujifilm Holdings Corp,CP,Japan,JPN,https://developers.fujifilm.com/,NONE,Reclassified to NONE (Feb 2026): Fujifilm developer portal no longer exists. Gemini verification returned UNCERTAIN - no active public developer program found.,COMPLETE
+CP41,General Mobile Inc,CP,Turkey,TUR,,NONE,"General Mobile Turkey - Phone brand, no API",NO_PORTAL
+CP43,Goclever Sp zoo,CP,Poland,POL,,NONE,"Goclever Poland - Tablet brand, no API",NO_PORTAL
+CP45,Haier Group,CP,China,CHN,https://hope.haier.com/,NONE,"Reclassified to NONE (Feb 2026): Haier HOPE platform (hope.haier.com) is a Chinese-language innovation/collaboration portal, not a developer platform. Only 1.7KB of content scraped - no API docs, SDKs, or developer resources.",SEARCHED
+CP50,Huawei Technologies Co Ltd,CP,China,CHN,https://developer.huawei.com,PUBLIC,Huawei Developers portal is publicly accessible with HMS Core APIs.,NO_PORTAL
+CP53,iiyama Electric Co Ltd,CP,Japan,JPN,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP56,Intech Surya Abadi PT,CP,Indonesia,IDN,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP58,Intex Technologies (India) Ltd,CP,India,IND,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP61,Karbonn Mobile India Pvt Ltd,CP,India,IND,,NONE,Gemini verification: REGISTRATION→NONE (Previous developer links are dead; no active developer porta) - URL cleared (portal dead/inactive),GEMINI_VERIFIED
+CP63,Komplett AS,CP,Norway,NOR,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP66,Koninklijke Philips NV,CP,Netherlands,NLD,https://developers.meethue.com/,REGISTRATION,Philips Hue Developer Program requires registration.,NO_PORTAL
+CP67,Kyocera Corp,CP,Japan,JPN,https://www.kyoceradocumentsolutions.eu/en/products/developers-partner-programme.html,REGISTRATION,Kyocera HyPAS Developer Partner Programme requires registration.,NO_PORTAL
+CP69,Lava International Ltd,CP,India,IND,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP70,Lechpol,CP,Poland,POL,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP71,Lenovo Group Ltd,CP,China,CHN,https://support.lenovo.com/thinkreality,REGISTRATION,Lenovo Developer Program with centralized API Dev Portal.,NO_PORTAL
+CP72,LG Corp,CP,South Korea,KOR,https://developer.lge.com/,PUBLIC,Gemini verification: REGISTRATION→PUBLIC (LG Developer site provides public documentation for webOS an) | URL corrected via web search,GEMINI_VERIFIED
+CP74,Micro-Star International Co Ltd,CP,Taiwan,TWN,https://partner.msi.com/,REGISTRATION,MSI Center SDK available through MSI Partner Portal.,NO_PORTAL
+CP75,Microlab Electronics Co Ltd,CP,China,CHN,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP76,MNI SA,CP,Poland,POL,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP78,Multilaser Industrial SA,CP,Brazil,BRA,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP81,NEC Corp,CP,Japan,JPN,https://www.univergeblue.com/cloud-services/extend/api-platform/,REGISTRATION,NEC UNIVERGE BLUE EXTEND API Platform requires registration.,NO_PORTAL
+CP82,Network One Distribution SRL,CP,Romania,ROU,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP83,New San SA,CP,Argentina,ARG,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP84,Nippon Klick Corp,CP,Japan,JPN,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP85,Nokia Corp,CP,Finland,FIN,https://network.developer.nokia.com/,PUBLIC,Nokia Network Developer Portal is publicly accessible.,NO_PORTAL
+CP87,OKI Electric Industry Co Ltd,CP,Japan,JPN,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP89,Panasonic Corp,CP,Japan,JPN,https://hangar.panasonic.aero/sdk,REGISTRATION,Panasonic Avionics Hangar Developer Program requires registration.,NO_PORTAL
+CP90,Pantum International Ltd,CP,China,CHN,https://developer.pantum.com,REGISTRATION,Gemini verification: NONE→REGISTRATION (Requires registration for printing SDKs and API access.) | URL NEEDS_MANUAL_VERIFICATION (web search inconclusive),NEEDS_VERIFICATION
+CP93,Piranha Bilisim Teknolojileri Ltd Sti,CP,Turkey,TUR,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP94,Plaisio Computers SA,CP,Greece,GRC,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP95,Positivo Tecnologia SA,CP,Brazil,BRA,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP96,Prism Tech Pvt Ltd,CP,India,IND,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP97,Quatrotec Electrónica SL,CP,Spain,ESP,,NONE,"Consumer electronics company, no public developer API found",NO_PORTAL
+CP98,Razer Inc,CP,Singapore,SGP,https://developer.razer.com/,PUBLIC,Razer Developer Portal is publicly accessible.,NO_PORTAL
+CP99,Ricoh Co Ltd,CP,Japan,JPN,https://www.ricoh-usa.com/en/developer-program,REGISTRATION,Ricoh Developer Program requires membership and registration.,NO_PORTAL
+CP101,Seiko Epson Corp,CP,Japan,JPN,https://developer.epsonconnect.com/,REGISTRATION,Seiko Epson developer network for printing APIs,COMPLETE
+CP103,Sencor Europe Sro,CP,Czech Republic,CZE,,NONE,"Sencor - Consumer electronics brand, no API",NO_PORTAL
+CP106,Shenzhen Zhixin New Information Technology Co Ltd,CP,China,CHN,,NONE,"Zhixin China - OEM manufacturer, no public API",NO_PORTAL
+CP107,Sigma Mobile TOV,CP,Ukraine,UKR,,NONE,"Sigma Mobile Ukraine - Phone brand, no API",NO_PORTAL
+CP110,Star Telecom Alliance Resources Inc,CP,Canada,CAN,,NONE,"Star Telecom Canada - Phone retailer, no API",NO_PORTAL
+CP112,TCL Corp,CP,China,CHN,,NONE,"TCL - Uses Roku/Android TV platforms, no own API",NO_PORTAL
+CP115,Toshiba Corp,CP,Japan,JPN,https://griddb.net,RESTRICTED,Toshiba - B2B partner programs only,SEARCHED
+CP116,TPV Technology Ltd,CP,Hong Kong SAR China,HKG,,NONE,"TPV Technology - Display OEM, no public API",NO_PORTAL
+CP117,Transsion Holdings,CP,China,CHN,https://dev.transsion.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Provides a public developer portal for its mobile ecosystem.) | URL corrected via web search,GEMINI_VERIFIED
+CP122,Vaio Corp,CP,Japan,JPN,,NONE,"Vaio - Laptop brand, no developer API",NO_PORTAL
+CP123,Vestel Elektronik AS,CP,Turkey,TUR,,NONE,Reclassified from RESTRICTED to NONE - no proprietary developer portal (Gemini search 2/16/26),SEARCHED
+CP124,ViewSonic Corp,CP,United States,USA,,NONE,"ViewSonic - Display brand, no public API",NO_PORTAL
+CP125,Visual Fan SRL,CP,Romania,ROU,,NONE,"Visual Fan Romania - Local brand, no API",NO_PORTAL
+CP126,Xerox Corp,CP,United States,USA,https://www.xerox.com/en-us/about/developer-program,REGISTRATION,Xerox developer portal for printing APIs,COMPLETE
+CP127,Xiaomi Corp,CP,China,CHN,https://global.developer.mi.com/,PUBLIC,"Xiaomi Mi Developer portal - apps, push, IoT",COMPLETE
+CP130,ZTE Corp,CP,China,CHN,https://developer.zte.com.cn/,NONE,Reclassified to NONE (Feb 2026): ZTE developer portal unreachable. Gemini verification returned UNCERTAIN - developer.zte.com.cn no longer resolves.,COMPLETE
+FO2,Aram Meem LLC,FO,United Arab Emirates,ARE,,NONE,"Aram Meem - UAE delivery, no developer portal found",NO_PORTAL
+FO4,Bolt Technology OÜ,FO,Estonia,,https://developer.bolt.eu/,RESTRICTED,Bolt developer portal exists but no public API access,COMPLETE
+FO5,Capital A Bhd,FO,Malaysia,MYS,,NONE,Capital A (AirAsia) - No food delivery developer API,NO_PORTAL
+FO8,Coupang Corp,FO,South Korea,KOR,https://developers.coupangcorp.com,RESTRICTED,"Coupang Korea - Partner APIs only, no public access",SEARCHED
+FO11,Deliveroo Plc,FO,United Kingdom,GBR,https://developers.deliveroo.com/,REGISTRATION,POS integration API for restaurant partners,COMPLETE
+FO12,Delivery Hero SE,FO,Germany,DEU,https://developers.deliveryhero.com/,REGISTRATION,Q-Commerce and Restaurant Integration APIs,COMPLETE
+FO13,Demaecan Co Ltd,FO,Japan,JPN,,NONE,"Demaecan - Japanese food delivery, no public API found",NO_PORTAL
+FO14,Didi Chuxing Technology Co Ltd,FO,China,CHN,https://mcp.didichuxing.com,RESTRICTED,"Didi - Partner APIs only, no public developer portal",SEARCHED
+FO16,Domino's Pizza Inc,FO,United States,USA,,NONE,"Domino's - No public developer API, franchise-only systems",NO_PORTAL
+FO17,DoorDash Inc,FO,United States,USA,https://developer.doordash.com/,REGISTRATION,Drive API and Marketplace API,COMPLETE
+FO18,Easi Australia Pty Ltd,FO,Australia,AUS,,NONE,"Easi Australia - Small regional platform, no public API",NO_PORTAL
+FO20,elmenus Egypt LLC,FO,Egypt,EGY,,NONE,elmenus Egypt - No public API found,NO_PORTAL
+FO21,F&B Investment Holding Srl,FO,Romania,ROU,,NONE,F&B Investment Romania - No developer portal,NO_PORTAL
+FO29,Getir Perakende Lojistik AS,FO,Turkey,TUR,,NONE,"Getir - Quick commerce, no public developer API",NO_PORTAL
+FO30,GoTo Group,FO,Indonesia,IDN,https://www.gojek.io/developers/,REGISTRATION,GoTo/Gojek developer platform,COMPLETE
+FO31,Grab Holdings Inc,FO,Singapore,SGP,https://developer.grab.com/,REGISTRATION,"Grab developer portal - delivery, payments, etc.",COMPLETE
+FO35,GS Holdings Corp,FO,Philippines,PHL,,NONE,GS Holdings Philippines - No developer portal,NO_PORTAL
+FO38,Jahez International Co for Information & Technology,FO,Saudi Arabia,SAU,,NONE,Jahez Saudi Arabia - No public developer API found,NO_PORTAL
+FO39,Jerry's Pizza SRL,FO,Romania,ROU,,NONE,"Jerry's Pizza Romania - Local franchise, no API",NO_PORTAL
+FO41,Just Eat Takeaway.com NV,FO,Netherlands,NLD,https://developers.just-eat.com/,REGISTRATION,JET Connect API for POS integration,COMPLETE
+FO42,Line Corp,FO,Japan,JPN,https://developers.line.biz/,PUBLIC,Gemini verification: REGISTRATION→PUBLIC (Provides extensive public documentation for messaging and pl),GEMINI_VERIFIED
+FO44,McDonald's Corp,FO,United States,USA,,NONE,McDonald's - No public developer API for external partners,NO_PORTAL
+FO45,Meituan Inc,FO,China,CHN,https://open.meituan.com/,NONE,Reclassified to NONE (Feb 2026): Meituan open platform (open.meituan.com) returns only a default OpenResty server page - portal is down/decommissioned.,SEARCHED
+FO47,Minor International PCL,FO,Thailand,THA,,NONE,"Minor International Thailand - Hotel/restaurant group, no API",NO_PORTAL
+FO48,Mrsool Inc,FO,Saudi Arabia,SAU,,NONE,Mrsool Saudi - No public developer API found,NO_PORTAL
+FO49,Naspers Ltd,FO,South Africa,ZAF,,NONE,Reclassified from RESTRICTED to NONE - no developer portal found,SEARCHED
+FO52,Orkla Group,FO,Norway,NOR,,NONE,"Orkla Group Norway - Food/consumer goods, no API",NO_PORTAL
+FO54,Papa John's International Inc,FO,United States,USA,,NONE,Papa John's - No public developer API,NO_PORTAL
+FO55,Pizza Delivery SRL,FO,Romania,ROU,,NONE,"Pizza Delivery Romania - Local chain, no API",NO_PORTAL
+FO56,Pizza Fan Delivery SA,FO,Greece,GRC,,NONE,"Pizza Fan Greece - Local chain, no API",NO_PORTAL
+FO58,Pizza Venchur OOO,FO,Russia,RUS,,NONE,"Pizza Venchur Russia - Local chain, no API",NO_PORTAL
+FO60,Rappi Inc,FO,Colombia,COL,https://dev-portal.rappi.com/,REGISTRATION,Rappi developer portal - restaurant integration,COMPLETE
+FO61,Restaurant Brands International Inc,FO,Canada,CAN,,NONE,Restaurant Brands International - Franchise operations only,NO_PORTAL
+FO64,Smood SA,FO,Switzerland,CHE,,NONE,Smood Switzerland - No public developer API,NO_PORTAL
+FO65,Sodexo Pass Israel Ltd,FO,Israel,ISR,,NONE,"Sodexo Pass Israel - B2B meal vouchers, no public API",NO_PORTAL
+FO71,Takeaway.com Group BV,FO,Netherlands,NLD,https://developers.just-eat.com/,REGISTRATION,Part of Just Eat Takeaway - same developer portal,COMPLETE
+FO72,Tasty Bidco SL,FO,Spain,ESP,,NONE,Tasty Bidco Spain - No public developer API,NO_PORTAL
+FO74,Uber Technologies Inc,FO,United States,USA,https://developer.uber.com/docs/eats,REGISTRATION,Uber Eats Marketplace API,COMPLETE
+FO76,Vivartia SA,FO,Greece,GRC,,NONE,"Vivartia Greece - Food/beverage group, no public API",NO_PORTAL
+FO77,Yum! Brands Inc,FO,United States,USA,,NONE,"Yum! Brands - Franchise operations, no public developer API",NO_PORTAL
+FO78,Zinox Technologies Ltd,FO,Nigeria,NGA,,NONE,"Zinox Nigeria - Tech company, no food delivery API",NO_PORTAL
+FO79,Zomato Ltd,FO,India,IND,https://www.zomato.com/developer/integration/,REGISTRATION,Zomato POS Integration API,COMPLETE
+HO2,AccorHotels Group,HO,France,FRA,https://developer.accor.com/,REGISTRATION,Accor Developer Portal - Hotel APIs,COMPLETE
+HO3,Acorn International Hotels Corp,HO,Philippines,PHL,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO5,Airbnb Inc,HO,United States,USA,https://developer.airbnb.com,RESTRICTED,"Airbnb has developer portal with Homes and Activities APIs, but access restricted to approved partners only.",NO_PORTAL
+HO8,Albena AD,HO,Bulgaria,BGR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO16,Aman Resorts International,HO,Singapore,SGP,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO20,ANA Group,HO,Japan,JPN,,NONE,Reclassified from RESTRICTED to NONE - no proprietary developer portal (Gemini search 2/16/26),SEARCHED
+HO24,Apple Leisure Group,HO,United States,USA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO28,Arp-Hansen Hotel Group,HO,Denmark,DNK,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO34,Atlas Group Hotles Ltd,HO,Croatia,HRV,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO40,B&B Hotels SAS,HO,France,FRA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO44,Banyan Tree Holdings Ltd,HO,Singapore,SGP,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO45,"Barceló, Grupo",HO,Spain,ESP,https://developer.synxis.com/,REGISTRATION,Barceló - via SynXis developer portal,NO_PORTAL
+HO52,Best Western International Inc,HO,United States,USA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO56,Booking Holdings Inc,HO,United States,USA,https://developers.booking.com,RESTRICTED,"Booking.com has Demand API and connectivity partner program, but access restricted to Connectivity Partners only.",NO_PORTAL
+HO68,China Lodging Group Ltd,HO,China,CHN,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO69,China National Travel Service (HK) Group Corp,HO,China,CHN,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO70,Choice Hotels International Inc,HO,United States,USA,https://developers.choice.dev,RESTRICTED,Choice Hotels developer portal,NO_PORTAL
+HO72,City Lodge Hotels Ltd,HO,South Africa,ZAF,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO75,Club Méditerranée SA,HO,France,FRA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO82,Dalata Hotel Group Plc,HO,Ireland,IRL,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO83,Dan Hotels Corp,HO,Israel,ISR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO84,Danubius Hotels Zrt,HO,Hungary,HUN,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO86,De Historiske Hotel & Spisesteder SA,HO,Norway,NOR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO89,Diego de Almagro,HO,Chile,CHL,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO97,Dusit Hotels & Resorts LLC,HO,Thailand,THA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO99,EIH Ltd,HO,India,IND,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO106,"Erawan Group Plc, The",HO,Thailand,THA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO109,Event Hospitality & Entertainment Ltd,HO,Australia,AUS,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO110,Evergreen Group,HO,Taiwan,TWN,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO111,Expedia Group Inc,HO,United States,USA,https://developers.expediagroup.com/,REGISTRATION,Expedia Group Developer Hub - Rapid API,COMPLETE
+HO112,Falkensteiner Michaeler Tourism Group AG,HO,Austria,AUT,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO113,Fattal Hotel Management Ltd,HO,Israel,ISR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO120,First Hotels AS,HO,Norway,NOR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO124,Four Seasons Hotels Ltd,HO,Canada,CAN,,NONE,Reclassified from RESTRICTED to NONE - no developer portal found,SEARCHED
+HO130,G6 Hospitality LLC,HO,United States,USA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO132,Genting Bhd,HO,Malaysia,MYS,,NONE,"Genting - Casino/resort group, no public API",NO_PORTAL
+HO144,Great Eagle Holdings Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO165,Hilton Worldwide Holdings Inc,HO,United States,USA,https://developer.hilton.io/,REGISTRATION,Hilton API Developer Hub,COMPLETE
+HO168,Hong Kong & Shanghai Hotels Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO177,Hoteles Dann,HO,Colombia,COL,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO183,HouseTrip SA,HO,Switzerland,CHE,https://dev.housetrip.com/,NONE,"Reclassified to NONE (Feb 2026): HouseTrip no longer operates. Gemini verification returned NONE - company acquired by TripAdvisor, brand defunct.",NO_PORTAL
+HO190,Hutchison Whampoa Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO191,Hyatt Hotels Corp,HO,United States,USA,,NONE,Reclassified from RESTRICTED to NONE - no developer portal found,SEARCHED
+HO192,"Iberostar SA, Grupo",HO,Spain,ESP,https://portalservices.iberostar.com/,REGISTRATION,Iberostar has API management portal with auto-generated API documentation.,NO_PORTAL
+HO195,Indian Hotels Co Ltd,HO,India,IND,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO197,InterContinental Hotels Group Plc,HO,United Kingdom,GBR,,NONE,Reclassified from RESTRICTED to NONE - no proprietary developer portal (Gemini search 2/16/26),SEARCHED
+HO205,Jin Jiang International Co Ltd,HO,China,CHN,,NONE,Reclassified from RESTRICTED to NONE - no developer portal found,SEARCHED
+HO211,Kempinski AG,HO,Germany,DEU,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO218,Las Vegas Sands Corp,HO,United States,USA,,NONE,"Las Vegas Sands - Casino/resort, no public API",NO_PORTAL
+HO220,"Leading Hotels of the World Ltd, The",HO,United States,USA,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO227,LVMH Moët Hennessy Louis Vuitton SA,HO,France,FRA,,NONE,"LVMH - Luxury conglomerate, hotels through subsidiaries",NO_PORTAL
+HO230,Mandarin Oriental Hotel Group Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO233,Marriott International Inc,HO,United States,USA,https://devportalprod.marriott.com/,REGISTRATION,Marriott Developer Portal,COMPLETE
+HO235,Masan Group Corp,HO,Vietnam,VNM,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO238,Meliá Hotels International SA,HO,Spain,ESP,,NONE,Reverted REGISTRATION→NONE: Meliá Hotels - no public developer API portal,REVERTED
+HO242,Millennium & Copthorne Hotels Plc,HO,United Kingdom,GBR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO250,Muong Thanh Group,HO,Vietnam,VNM,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO252,New World Development Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO254,NH Hotel Group SA,HO,Spain,ESP,https://docs.getimpala.com/,NONE,Reclassified to NONE (Feb 2026): NH Hotel Group developer portal no longer exists. Gemini verification returned UNCERTAIN - no active developer program found.,SEARCHED
+HO256,Olav Thon Gruppen,HO,Norway,NOR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO261,One Hotels & Resorts AG,HO,Switzerland,CHE,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO279,Pickalbatros Group,HO,Egypt,EGY,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO294,Red Sea Hotels Group,HO,Egypt,EGY,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO295,Regal Hotels International Holdings Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO299,Riu Hoteles SA,HO,Spain,ESP,,NONE,"Reverted REGISTRATION→NONE: Riu Hoteles - XML API via integrators only, not direct portal",REVERTED
+HO302,Rocco Forte & Family (Hotel Management) Ltd,HO,United Kingdom,GBR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO304,Rosewood Hotels & Resorts LLC,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO305,Rotana Hotels Management Corp PJSC,HO,United Arab Emirates,ARE,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO307,S Group,HO,Finland,FIN,https://www.s-group.dev/,REGISTRATION,S Group maintains developer portal at s-group.dev with GitHub repositories.,NO_PORTAL
+HO312,Sarova Hotels Ltd,HO,Kenya,KEN,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO314,Scandic Hotels AB,HO,Sweden,SWE,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO318,Shangri-La International Hotel Management Ltd,HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO326,Southern Sun Ltd,HO,South Africa,ZAF,https://mews-systems.gitbook.io/connector-api,REGISTRATION,Southern Sun - via Mews Connector API,NO_PORTAL
+HO329,Stichting Toekan BV,HO,Netherlands,NLD,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO335,Sunrise Resorts & Cruises SA,HO,Egypt,EGY,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO363,Travco Group Holding SAE,HO,Egypt,EGY,,NONE,Reclassified from REGISTRATION to NONE - no developer portal found,NO_PORTAL
+HO368,TripAdvisor Inc,HO,United States,USA,https://developer-tripadvisor.com,REGISTRATION,"TripAdvisor offers Content API, JSON Partner API, and TripConnect programs with registration required.",NO_PORTAL
+HO370,TUI Group,HO,Germany,DEU,https://developer.tui/,REGISTRATION,"TUI has public developer portal with APIs for packages, flights, and experiences.",NO_PORTAL
+HO376,Valamar Hotels & Resorts,HO,Croatia,HRV,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO384,"Wharf (Holdings) Ltd, The",HO,Hong Kong SAR China,HKG,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO385,Whitbread Plc,HO,United Kingdom,GBR,,NONE,"Hotel group, no public developer API found",NO_PORTAL
+HO389,Wyndham Hotels & Resorts Inc,HO,United States,USA,,NONE,Reclassified from RESTRICTED to NONE - no proprietary developer portal (Gemini search 2/16/26),NO_PORTAL
+IH1,Amiral OOO,IH,Russia,RUS,,NONE,Amiral OOO is a Russian electronics retailer/distributor. No evidence found of public developer portal or API for third-party developers.,VERIFIED
+IH3,Atmaca Elektronik San ve Tic Ltd Sti,IH,Turkey,TUR,,NONE,Atmaca Elektronik is a Turkish electronics brand. No developer portal or public API found despite search.,VERIFIED
+IH5,Beko Corp,IH,Turkey,TUR,,NONE,"Beko operates HomeWhiz smart home platform that integrates via Alexa/Google/IFTTT, but no official public developer API or SDK for third-party developers.",VERIFIED
+IH11,Cencosud SA,IH,Chile,CHL,https://developers.ecomm.cencosud.com/,REGISTRATION,E-commerce developer portal,COMPLETE
+IH13,Challenger SAS,IH,Colombia,COL,,NONE,"Challenger SAS Colombia is a home appliance manufacturer. No public developer API found; has consumer ""Challenger Smart"" app but no developer resources.",VERIFIED
+IH14,Colombiana de Comercio SA,IH,Colombia,COL,,NONE,Colombiana de Comercio SA (Alkosto) is a Colombian retail chain. No developer portal or API found for third-party developers.,VERIFIED
+IH22,El Araby Group,IH,Egypt,EGY,,NONE,El Araby Group Egypt is a consumer electronics manufacturer. No public developer API; uses third-party platforms like Foxxum OS for smart TVs.,VERIFIED
+IH25,Falabella SACI,IH,Chile,CHL,https://developers.falabella.com/,PUBLIC,Seller Center API for marketplace integration,COMPLETE
+IH29,Hartono Istana Teknologi PT,IH,Indonesia,IDN,,NONE,"Hartono Istana Teknologi (Polytron brand) is Indonesian electronics manufacturer. Has ""My Polytron"" consumer app but no public developer API or SDK.",VERIFIED
+IH30,Heran Co Ltd,IH,Taiwan,TWN,,NONE,Heran Taiwan uses Apple HomeKit and third-party IoT platforms like Tuya. No proprietary public developer API found.,VERIFIED
+IH48,Nexgen Mediatech Inc,IH,Taiwan,TWN,,NONE,Nexgen Mediatech (CHIMEI Group) is Taiwanese hardware manufacturer of TVs and appliances. No developer portal or API documentation found.,VERIFIED
+IH53,Sampo Corp,IH,Taiwan,TWN,,NONE,Sampo Corporation Taiwan is a major home appliances manufacturer. No evidence of public developer API despite comprehensive search.,VERIFIED
+IH55,Shenzhen MTC Co Ltd,IH,China,CHN,,NONE,Shenzhen MTC develops FUN OS smart TV platform but no public developer portal or API documentation found for third-party developers.,VERIFIED
+IH56,Shenzhen Skyworth-RGB Electronic Co Ltd,IH,China,CHN,,NONE,Reclassified from RESTRICTED to NONE - no developer portal found,VERIFIED
+IH58,Sichuan Changhong Electric Co Ltd,IH,China,CHN,,NONE,Sichuan Changhong operates proprietary Xuanyuan TVOS but no public developer portal. Uses partnerships (Opera SDK) rather than offering own API.,VERIFIED
+IH61,SkyTec Group Ltd,IH,Netherlands,NLD,,NONE,SkyTec Group Netherlands is an audio/visual equipment distributor. No developer portal or API found for third-party developers.,VERIFIED
+IH62,Skyworth Group Co Ltd,IH,China,CHN,https://open.coocaa.com,NONE,Reclassified to NONE (Feb 2026): Skyworth/Coocaa open platform (open.coocaa.com) blocked scraper completely - 0 bytes retrieved. Site requires authentication or is geo-restricted to China.,VERIFIED
+IH72,Unionaire Group,IH,Egypt,EGY,,NONE,Unionaire Group Egypt is home appliance manufacturer. No public developer API found despite comprehensive search.,VERIFIED
+IH73,Vestel Ticaret AS,IH,Turkey,TUR,http://b2bsupport.vestel.com.tr,RESTRICTED,"B2B support portal, requires business relationship",COMPLETE
+IH75,Vityaz OAO,IH,Belarus,BLR,,NONE,Vityaz OAO Belarus produces smart TVs using Sber Salute TV OS. No proprietary developer API; development would be through SberDevices platform.,VERIFIED
+IH76,Vizio Inc,IH,United States,USA,https://developer.vizio.com/,REGISTRATION,"SmartCast API for partners, requires API keys",COMPLETE
+IH80,Yamaha Corp,IH,Japan,JPN,https://www.yamaha.com/en/about/business/music-connect/apis/,RESTRICTED,"Yamaha MusicCast - API exists but no official public developer portal, community docs only",SEARCHED
+PE1,1More Inc,PE,China,CHN,,NONE,"1More - consumer audio, no public developer API",NO_PORTAL
+PE8,Alibaba Group Holding Ltd,PE,China,CHN,https://openapi.alibaba.com/,REGISTRATION,Alibaba Open API - requires app key registration,COMPLETE
+PE9,AliphCom Inc,PE,United States,USA,,NONE,AliphCom (Jawbone) - defunct company,NO_PORTAL
+PE11,Anker Innovations Technology Co Ltd,PE,China,CHN,,NONE,"Anker - consumer electronics, no official developer SDK",NO_PORTAL
+PE12,Arashi Vision Co Ltd,PE,China,CHN,https://openapi.insta360.com/,REGISTRATION,Gemini verification: NONE→REGISTRATION (Insta360 provides an OpenAPI portal that requires registrati),GEMINI_VERIFIED
+PE17,Audio Partnership Plc,PE,United Kingdom,GBR,,NONE,"Cambridge Audio - HiFi brand, no public developer API",NO_PORTAL
+PE18,Audio Pro AB,PE,Sweden,SWE,,NONE,"Audio Pro - Swedish speakers, no public API",NO_PORTAL
+PE19,Audio Technica Corp,PE,Japan,JPN,,NONE,"Audio-Technica - professional audio, no public API",NO_PORTAL
+PE21,AVenture AT,PE,Austria,AUT,,NONE,"AVenture - Austrian electronics, no developer API",NO_PORTAL
+PE24,Bang & Olufsen A/S,PE,Denmark,DNK,https://bang-olufsen.github.io/mozart-open-api/,PUBLIC,B&O Mozart API - GitHub documented smart audio API,COMPLETE
+PE29,Blaupunkt Group,PE,Germany,DEU,,NONE,"Blaupunkt - consumer electronics, no public developer API",NO_PORTAL
+PE33,Bose Corp,PE,United States,USA,https://developer.bose.com/,PUBLIC,Bose Developer Portal - SoundTouch API,COMPLETE
+PE35,Caliber Europe BV,PE,Netherlands,NLD,,NONE,"Caliber - car audio, no developer platform",NO_PORTAL
+PE36,Casio Computer Co Ltd,PE,Japan,JPN,,NONE,"Casio - consumer electronics, no official developer API",NO_PORTAL
+PE40,Commaxx International NV,PE,Netherlands,NLD,,NONE,"Commaxx - consumer electronics, no developer API",NO_PORTAL
+PE43,Cowon Systems Inc,PE,South Korea,KOR,,NONE,"Cowon - Korean MP3/audio, no public developer API",NO_PORTAL
+PE44,Creative Technology Ltd,PE,Singapore,SGP,,NONE,"Creative Technology - PC audio, no public developer portal",NO_PORTAL
+PE45,Devialet SA,PE,France,FRA,,NONE,"Devialet - high-end audio, no public developer API",NO_PORTAL
+PE47,Divoom Europe GmbH,PE,China,CHN,http://doc.divoom-gz.com/,PUBLIC,Gemini verification: NONE→PUBLIC (Divoom provides public API documentation for its pixel art d),GEMINI_VERIFIED
+PE49,Dongguan Liesheng Electronic Technology Co Ltd,PE,China,CHN,,NONE,"Liesheng - Chinese audio, no public developer API",NO_PORTAL
+PE50,DORO AB,PE,Sweden,SWE,,NONE,"Doro - senior phones, no public developer API",NO_PORTAL
+PE51,E-Boda Distribution SRL,PE,Romania,ROU,,NONE,"E-Boda - Romanian electronics, no developer API",NO_PORTAL
+PE52,Edifier International Ltd,PE,China,CHN,,NONE,"Edifier - speakers, no public developer API",NO_PORTAL
+PE54,Electrolux AB,PE,Sweden,SWE,https://developer.electrolux.one/,PUBLIC,Gemini verification: NONE→PUBLIC (Provides a public developer portal for its smart home APIs.) | URL corrected via web search,GEMINI_VERIFIED
+PE57,Emporia Telecom GmbH & Co KG,PE,Austria,AUT,,NONE,"Emporia - senior phones, no public developer API",NO_PORTAL
+PE58,Energy Sistem Technology SA,PE,Spain,ESP,,NONE,"Energy Sistem - Spanish electronics, no developer API",NO_PORTAL
+PE61,Explay ZAO,PE,Russia,RUS,,NONE,"Explay - Russian electronics (defunct), no API",NO_PORTAL
+PE65,Fossil Group Inc,PE,United States,USA,,NONE,"Fossil Group - smartwatches use WearOS, no proprietary API",NO_PORTAL
+PE67,Garmin Ltd,PE,Switzerland,CHE,https://developer.garmin.com/,PUBLIC,Garmin Developers - extensive fitness/GPS APIs and SDKs,COMPLETE
+PE69,Gionee Communication Equipment Co Ltd,PE,China,CHN,,NONE,"Gionee - Chinese phones (restructured), no active developer portal",NO_PORTAL
+PE71,GN Store Nord A/S,PE,Denmark,DNK,https://developer.jabra.com/,REGISTRATION,Gemini verification: NONE→REGISTRATION (Jabra requires registration for its headset SDKs and APIs.),GEMINI_VERIFIED
+PE72,GoPro Inc,PE,United States,USA,https://gopro.github.io/OpenGoPro/,PUBLIC,Open GoPro - open source MIT license camera API,COMPLETE
+PE74,GP Acoustics GmbH,PE,United Kingdom,GBR,,NONE,"GP Acoustics (KEF) - HiFi speakers, no public API",NO_PORTAL
+PE79,HIFI Orient Thai PCL,PE,Thailand,THA,,NONE,"HIFI Orient - Thai electronics, no developer API",NO_PORTAL
+PE80,Hisense Group,PE,China,CHN,,NONE,"Hisense - consumer electronics, no public developer API",NO_PORTAL
+PE83,Hon Hai Precision Industry Co Ltd,PE,Taiwan,TWN,,NONE,"Hon Hai (Foxconn) - contract manufacturer, no consumer API",NO_PORTAL
+PE85,Hungaro Flotta Kft,PE,Hungary,HUN,,NONE,"Hungaro Flotta - Hungarian electronics, no API",NO_PORTAL
+PE87,Imagine Marketing Pvt Ltd,PE,India,IND,,NONE,"Imagine Marketing (boAt) - Indian audio, no developer API",NO_PORTAL
+PE95,Japan Industrial Partners Inc,PE,Japan,JPN,,NONE,"Japan Industrial Partners - investment firm, no API",NO_PORTAL
+PE97,Jlab Audio international,PE,United States,USA,,NONE,"JLab Audio - headphones, no public developer API",NO_PORTAL
+PE98,JVC Kenwood Corp,PE,Japan,JPN,,NONE,"JVC Kenwood - consumer electronics, no public developer API",NO_PORTAL
+PE99,Kale Elektronik Dis Tic AS,PE,Turkey,TUR,,NONE,"Kale Elektronik - Turkish electronics, no developer API",NO_PORTAL
+PE100,Kjell Group AB,PE,Sweden,SWE,,NONE,"Kjell Group - Nordic electronics retailer, no API",NO_PORTAL
+PE101,Kodak Alaris Inc,PE,United States,USA,https://www.alarisworld.com/en-us/landing-page/alaris-developer-program,REGISTRATION,Gemini verification: NONE→REGISTRATION (Requires registration for scanner and imaging SDK access.) | URL corrected: https://developer.kodakalaris.com/ → https://www.alarisworld.com/en-us/landing-page/alaris-developer-program,NEEDS_VERIFICATION
+PE104,Kronoz LLC,PE,Switzerland,CHE,,NONE,"Kronoz (MyKronoz) - smartwatches, no public developer API",NO_PORTAL
+PE107,Lautsprecher Teufel GmbH,PE,Germany,DEU,,NONE,"Teufel - German audio company, no public API",NO_PORTAL
+PE110,Logitech International SA,PE,Switzerland,CHE,https://www.logitech.com/en-us/software/logi-options-plus.html,PUBLIC,Logitech Developer Hub - gaming peripherals SDKs,COMPLETE
+PE111,Manta SA,PE,Poland,POL,,NONE,"Manta - Polish electronics brand, no developer API",NO_PORTAL
+PE113,Marshall Amplification Plc,PE,United Kingdom,GBR,,NONE,"Marshall - audio amplifiers/speakers, no public API",NO_PORTAL
+PE117,Meizu Telecom Equipment Co Ltd,PE,China,CHN,,NONE,"Meizu - smartphone manufacturer, no public developer portal",NO_PORTAL
+PE120,Micromax Informatics Ltd,PE,India,IND,,NONE,"Micromax - Indian smartphone brand, no developer portal",NO_PORTAL
+PE130,New Majestic SpA,PE,Italy,ITA,,NONE,"New Majestic - Italian consumer electronics, no API",NO_PORTAL
+PE131,Nikon Corp,PE,Japan,JPN,https://sdk.nikonimaging.com/,REGISTRATION,Nikon SDK - Camera Remote and Image SDK (application required),COMPLETE
+PE132,Noise Retail Private Ltd,PE,India,IND,,NONE,"Noise - Indian wearables brand, no public developer API",NO_PORTAL
+PE134,Nothing Technology Ltd,PE,United Kingdom,GBR,,NONE,"Nothing - smartphone company, no public developer portal yet",NO_PORTAL
+PE138,Onkyo Corp,PE,Japan,JPN,,NONE,"Onkyo - audio equipment, no public API",NO_PORTAL
+PE139,Onyx International Inc,PE,China,CHN,,NONE,"Onyx Boox - e-readers, no public developer API",NO_PORTAL
+PE140,Orion Electric Co Ltd,PE,Japan,JPN,,NONE,"Orion Electric - TV manufacturer, no public API",NO_PORTAL
+PE143,PLR Ecommerce LLC,PE,United States,USA,,NONE,"PLR Ecommerce - retailer, no developer platform",NO_PORTAL
+PE144,PocketBook International SA,PE,Switzerland,CHE,,NONE,"PocketBook - e-readers, no public developer API",NO_PORTAL
+PE145,Polar Electro Oy,PE,Finland,FIN,https://www.polar.com/en/developers,REGISTRATION,Polar Developers - BLE SDK and AccessLink API,COMPLETE
+PE153,Rakuten Group Inc,PE,Japan,JPN,https://developers.rakuten.com/,REGISTRATION,Rakuten Developers - e-commerce and API marketplace,COMPLETE
+PE154,Rakuten Kobo Inc,PE,Canada,CAN,,NONE,Gemini verification: REGISTRATION→NONE (No active public developer portal or API documentation found) - URL cleared (portal dead/inactive),GEMINI_VERIFIED
+PE159,Salora International BV,PE,Netherlands,NLD,,NONE,"Salora - consumer electronics, no developer API",NO_PORTAL
+PE162,Sennheiser Electronic GmbH & Co KG,PE,Germany,DEU,,NONE,"Sennheiser - premium audio, no public developer API",NO_PORTAL
+PE170,Shokz LLC,PE,United States,USA,,NONE,"Shokz - bone conduction headphones, no developer API",NO_PORTAL
+PE171,Sitecom Europe BV,PE,Netherlands,NLD,,NONE,"Sitecom - networking accessories, no public API",NO_PORTAL
+PE174,Skullcandy Inc,PE,United States,USA,,NONE,"Skullcandy - headphones, no public developer API",NO_PORTAL
+PE179,Sonos Inc,PE,United States,USA,https://developer.sonos.com/,REGISTRATION,Sonos Developer Portal - Control API and Music API,COMPLETE
+PE180,Soul Ltd,PE,China,CHN,,NONE,"Soul Electronics - audio brand, no developer API",NO_PORTAL
+PE181,SPC Group,PE,Spain,ESP,,NONE,"SPC - Spanish electronics, no developer platform",NO_PORTAL
+PE186,SVEN Scandinavia Ltd,PE,Russia,RUS,,NONE,"SVEN - Russian audio brand, no public API",NO_PORTAL
+PE187,SZ DJI Technology Co Ltd,PE,China,CHN,https://developer.dji.com/,REGISTRATION,DJI Developer - Mobile/Payload/Cloud SDKs for drones,COMPLETE
+PE193,Telefunken Licenses GmbH,PE,Germany,DEU,,NONE,"Telefunken - German electronics, no developer API",NO_PORTAL
+PE195,Tinno Mobile Technology Corp,PE,China,CHN,,NONE,"Tinno Mobile - ODM manufacturer, no public API",NO_PORTAL
+PE197,TomTom International BV,PE,Netherlands,NLD,https://developer.tomtom.com/,REGISTRATION,"TomTom Developer Portal - Maps, Navigation, Traffic APIs",COMPLETE
+PE201,Trust International BV,PE,Netherlands,NLD,,NONE,"Trust International - PC peripherals, no developer API",NO_PORTAL
+PE203,Tura Group AB,PE,Sweden,SWE,,NONE,"Tura Group - Nordic distributor, no developer platform",NO_PORTAL
+PE204,U Watch (HK) Co Ltd,PE,Hong Kong SAR China,HKG,,NONE,"U Watch - smartwatch brand, no public API",NO_PORTAL
+PE205,Unibell Argentina SA,PE,Argentina,ARG,,NONE,"Unibell Argentina - regional electronics, no API",NO_PORTAL
+PE206,Urbanista AB,PE,Sweden,SWE,,NONE,"Urbanista - headphones, no public developer API",NO_PORTAL
+PE210,Western Digital Corp,PE,United States,USA,https://developer.westerndigital.com/,PUBLIC,WD Developer - iXpand SDK and My Cloud API,COMPLETE
+PE212,Withings SA,PE,France,FRA,https://developer.withings.com/,REGISTRATION,Withings Partner Hub - health device API with OAuth,COMPLETE
+PE215,XPLORA Mobile AS,PE,Norway,NOR,,NONE,"XPLORA - kids smartwatch, no public developer API",NO_PORTAL
+PE216,Yandex NV,PE,Russia,RUS,https://yandex.com/dev/,PUBLIC,"Yandex Technologies - Maps, Translation, Games SDKs",COMPLETE
+PE219,Zepp Health Corp,PE,China,CHN,https://developer.zepp.com/,PUBLIC,Zepp OS Developer - smartwatch app development,COMPLETE
+PE221,Zound Industries International AB,PE,Sweden,SWE,,NONE,"Zound Industries - audio brands (Marshall/Urbanista), no API",NO_PORTAL
+TG1,4M Industrial Development Ltd,TG,Hong Kong SAR China,HKG,,NONE,"4M Industrial - educational toys, no developer API",NO_PORTAL
+TG2,999 Games BV,TG,Netherlands,NLD,,NONE,"999 Games - Dutch games, no developer API",NO_PORTAL
+TG10,Alpha Group,TG,China,CHN,,NONE,"Alpha Group - Chinese toys, no public API",NO_PORTAL
+TG14,Amigo Spiel + Freizeit Gmbh,TG,Germany,DEU,,NONE,"Amigo Spiel - German board games, no API",NO_PORTAL
+TG23,Artsana Gruppo,TG,Italy,ITA,,NONE,"Artsana (Chicco) - baby products, no API",NO_PORTAL
+TG24,Aurora World Corp,TG,South Korea,KOR,,NONE,"Aurora World - plush toys, no API",NO_PORTAL
+TG27,BanBao Co Ltd,TG,China,CHN,,NONE,"BanBao - building blocks, no public API",NO_PORTAL
+TG28,Beijing PopMart Culture Creative Co Ltd,TG,China,CHN,,NONE,"Pop Mart - collectible toys, no public API",NO_PORTAL
+TG35,Bestway Inflatables & Material Corp,TG,China,CHN,,NONE,"Bestway - inflatables, no developer API",NO_PORTAL
+TG38,Biemme SpA,TG,Italy,ITA,,NONE,"Biemme - Italian toys, no developer API",NO_PORTAL
+TG42,Bojeux,TG,Canada,CAN,,NONE,"Bojeux - Canadian toys, no developer API",NO_PORTAL
+TG49,BRUDER Spielwaren GmbH + Co KG,TG,Germany,DEU,,NONE,"BRUDER - German toy vehicles, no API",NO_PORTAL
+TG51,Build-A-Bear Workshop Inc,TG,United States,USA,,NONE,"Build-A-Bear - plush toys, no public API",NO_PORTAL
+TG53,Bullyland GmbH,TG,Germany,DEU,,NONE,"Bullyland - figurines, no developer API",NO_PORTAL
+TG56,Bushiroad Inc,TG,Japan,JPN,,NONE,"Bushiroad - TCG company, no public developer API",NO_PORTAL
+TG68,Castor Drukarnia i Wydawnictwo Sp j,TG,Poland,POL,,NONE,"Castor - Polish puzzles, no API",NO_PORTAL
+TG74,Cepia LLC,TG,United States,USA,,NONE,"Cepia (ZhuZhu Pets) - toys, no API",NO_PORTAL
+TG86,Clementoni SpA,TG,Italy,ITA,,NONE,"Clementoni - Italian toys, no API",NO_PORTAL
+TG87,Cobi SA,TG,Poland,POL,,NONE,"Cobi - Polish building blocks, no API",NO_PORTAL
+TG112,Diset SA,TG,Spain,ESP,,NONE,"Diset - Spanish games, no developer API",NO_PORTAL
+TG114,Djeco SAS,TG,France,FRA,,NONE,"Djeco - French educational toys, no API",NO_PORTAL
+TG115,Dolu Oyuncak San ve Tic AS,TG,Turkey,TUR,,NONE,"Dolu Oyuncak - Turkish toys, no API",NO_PORTAL
+TG116,Donerland Co Ltd,TG,South Korea,KOR,,NONE,"Donerland - Korean toys, no developer API",NO_PORTAL
+TG119,"Dream Makers, Group of Cos",TG,Belarus,BLR,,NONE,"Dream Makers - Belarusian toys, no API",NO_PORTAL
+TG120,DreamWorks Animation SKG Inc,TG,United States,USA,,NONE,"DreamWorks Animation - content licensing, no public API",NO_PORTAL
+TG127,Edu-Science (HK) Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Edu-Science - educational toys, no API",NO_PORTAL
+TG134,Embracer Group AB,TG,Sweden,SWE,,NONE,"Embracer Group - holding company, no developer portal",NO_PORTAL
+TG138,Epoch Co Ltd,TG,Japan,JPN,,NONE,"Epoch - Japanese toys, no public API",NO_PORTAL
+TG140,Faber-Castell AG,TG,Germany,DEU,,NONE,"Faber-Castell - art supplies, no developer API",NO_PORTAL
+TG154,Franckh-Kosmos Verlags-GmbH & CO KG,TG,Germany,DEU,,NONE,"Kosmos - German science kits/games, no API",NO_PORTAL
+TG158,Funko LLC,TG,United States,USA,,NONE,"Funko - collectibles, no developer API",NO_PORTAL
+TG159,Funtime Toys Co Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Funtime Toys - HK toys, no API",NO_PORTAL
+TG160,Funville Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Funville - HK toys, no API",NO_PORTAL
+TG163,Genius Toy Taiwan Co Ltd,TG,Taiwan,TWN,,NONE,"Genius Toy Taiwan - toys, no API",NO_PORTAL
+TG164,Geobra Brandstätter GmbH & Co KG,TG,Germany,DEU,,NONE,"Playmobil (Geobra) - toys, no public developer API",NO_PORTAL
+TG166,Giochi Preziosi SpA,TG,Italy,ITA,,NONE,"Giochi Preziosi - Italian toys, no API",NO_PORTAL
+TG170,Goliath BV,TG,Netherlands,NLD,,NONE,"Goliath - Dutch games, no developer API",NO_PORTAL
+TG174,Good Time Holding GmbH,TG,Germany,DEU,,NONE,"Good Time Holding - toys, no API",NO_PORTAL
+TG179,Granna Sp zoo,TG,Poland,POL,,NONE,"Granna - Polish games, no developer API",NO_PORTAL
+TG183,Grow'n Up Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Grow'n Up - playground equipment, no API",NO_PORTAL
+TG187,Guangdong Alpha Animation & Culture Co Ltd,TG,China,CHN,,NONE,"Alpha Animation - Chinese toys, no API",NO_PORTAL
+TG189,Guangdong Huile Toys Industrial Co Ltd,TG,China,CHN,,NONE,"Huile Toys - Chinese toys, no API",NO_PORTAL
+TG190,Guangdong Loongon Animation & Culture Co Ltd,TG,China,CHN,,NONE,"Loongon Animation - Chinese toys, no API",NO_PORTAL
+TG191,Guangdong Qman Toys Industry Co Ltd,TG,China,CHN,,NONE,"Qman Toys - Chinese building blocks, no API",NO_PORTAL
+TG199,Habermaass GmbH,TG,Germany,DEU,,NONE,"HABA - German wooden toys, no API",NO_PORTAL
+TG202,Hallmark Cards Inc,TG,United States,USA,,NONE,"Hallmark Cards - greeting cards, no public API",NO_PORTAL
+TG207,Hape Holding AG,TG,Germany,DEU,,NONE,"Hape - wooden toys, no developer API",NO_PORTAL
+TG210,Hasbro Inc,TG,United States,USA,,NONE,"Hasbro - works through licensing, no public developer API",NO_PORTAL
+TG214,Heinz Kettler GmbH & Co KG,TG,Germany,DEU,,NONE,"Kettler - sports equipment, no API",NO_PORTAL
+TG216,Henes Co Ltd,TG,South Korea,KOR,,NONE,"Henes - Korean ride-on toys, no API",NO_PORTAL
+TG223,Hornby Plc,TG,United Kingdom,GBR,,NONE,"Hornby - model railways, no public API",NO_PORTAL
+TG224,Hot Toys Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Hot Toys - collectible figures, no API",NO_PORTAL
+TG225,HTI Group,TG,United Kingdom,GBR,,NONE,"HTI Group - UK toys, no developer API",NO_PORTAL
+TG228,Hudora GmbH,TG,Germany,DEU,,NONE,"Hudora - sports equipment, no API",NO_PORTAL
+TG231,iCom SpA,TG,Chile,CHL,,NONE,"iCom SpA - Chilean toys, no API",NO_PORTAL
+TG237,IMC Toys SA,TG,Spain,ESP,,NONE,"IMC Toys - Spanish toys, no developer API",NO_PORTAL
+TG240,Industrial Juguetera SA,TG,Spain,ESP,,NONE,"Industrial Juguetera - Spanish toys, no API",NO_PORTAL
+TG246,Intex Recreation Corp,TG,United States,USA,,NONE,"Intex Recreation - inflatable products, no API",NO_PORTAL
+TG248,JAKKS Pacific Inc,TG,United States,USA,,NONE,"JAKKS Pacific - toys, no public developer API",NO_PORTAL
+TG249,James Galt & Co Ltd,TG,United Kingdom,GBR,,NONE,"James Galt - UK toys, no developer API",NO_PORTAL
+TG251,Jazwares Inc,TG,United States,USA,,NONE,"Jazwares Inc - toys, no public API",NO_PORTAL
+TG252,Jazwares LLC,TG,United States,USA,,NONE,"Jazwares LLC - toys, no public API",NO_PORTAL
+TG255,Jellycat Toy Co Ltd,TG,United Kingdom,GBR,,NONE,"Jellycat - plush toys, no developer API",NO_PORTAL
+TG260,John GmbH,TG,Germany,DEU,,NONE,"John GmbH - sports toys, no API",NO_PORTAL
+TG263,Jouets Ecoiffier SAS,TG,France,FRA,,NONE,"Ecoiffier - French toys, no developer API",NO_PORTAL
+TG264,Jovi SA,TG,Spain,ESP,,NONE,"Jovi - art supplies, no API",NO_PORTAL
+TG273,Jumbo Spiele GmbH,TG,Germany,DEU,,NONE,"Jumbo Spiele - German games, no API",NO_PORTAL
+TG277,K'NEX Industries Ltd,TG,United States,USA,,NONE,"K'NEX - building toys, no developer API",NO_PORTAL
+TG278,K's Kids Inc,TG,Hong Kong SAR China,HKG,,NONE,"K's Kids - baby toys, no API",NO_PORTAL
+TG282,Kawada Co Ltd,TG,Japan,JPN,,NONE,"Kawada - Japanese toys, no developer API",NO_PORTAL
+TG283,Kayou (Shanghai) Cultural Creativity Co Ltd,TG,China,CHN,,NONE,"Kayou - Chinese collectibles, no API",NO_PORTAL
+TG290,Kiddieland Toys Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Kiddieland - ride-on toys, no API",NO_PORTAL
+TG293,Kids II Inc,TG,United States,USA,,NONE,"Kids II - baby products, no developer API",NO_PORTAL
+TG295,Kinlea Holdings Pty Ltd,TG,Australia,AUS,,NONE,"Kinlea Holdings - Australian toys, no API",NO_PORTAL
+TG307,La nuova Faro Srl,TG,Italy,ITA,,NONE,"La nuova Faro - Italian toys, no API",NO_PORTAL
+TG310,LaRose Industries LLC,TG,United States,USA,,NONE,"LaRose Industries - toys, no developer API",NO_PORTAL
+TG317,Libellud,TG,France,FRA,,NONE,"Libellud - French board games, no API",NO_PORTAL
+TG320,Liscianigiochi Spa,TG,Italy,ITA,,NONE,"Lisciani - Italian educational toys, no API",NO_PORTAL
+TG326,Magarete Steiff GmbH,TG,Germany,DEU,,NONE,"Steiff - plush toys, no developer API",NO_PORTAL
+TG328,Magic Box Int Toys SLU,TG,Spain,ESP,,NONE,"Magic Box - collectibles, no public API",NO_PORTAL
+TG331,Maison Joseph Battat Ltd,TG,Canada,CAN,,NONE,"Battat - Canadian toys, no developer API",NO_PORTAL
+TG332,Malte Haaning Plastic A/S,TG,Denmark,DNK,,NONE,"Hama Beads - craft beads, no API",NO_PORTAL
+TG340,Mattel Inc,TG,United States,USA,,NONE,"Mattel - works through partnerships, no public developer API",NO_PORTAL
+TG341,May Cheong Group,TG,Hong Kong SAR China,HKG,,NONE,"May Cheong Group - die-cast toys, no API",NO_PORTAL
+TG343,Mcfarlane Worldwide Inc,TG,United States,USA,,NONE,"McFarlane Toys - action figures, no API",NO_PORTAL
+TG349,Melissa & Doug LLC,TG,United States,USA,,NONE,"Melissa & Doug - wooden toys, no API",NO_PORTAL
+TG351,MGA Entertainment Inc,TG,United States,USA,,NONE,"MGA Entertainment - toys, no public API",NO_PORTAL
+TG353,Mimiworld Co Ltd,TG,South Korea,KOR,,NONE,"Mimiworld - Korean toys, no developer API",NO_PORTAL
+TG356,Mirae N Co Ltd,TG,South Korea,KOR,,NONE,"Mirae N - Korean educational, no API",NO_PORTAL
+TG358,Moltó y Cía SA,TG,Spain,ESP,,NONE,"Molto - Spanish toys, no developer API",NO_PORTAL
+TG359,Mondo SpA,TG,Italy,ITA,,NONE,"Mondo - Italian toys, no API",NO_PORTAL
+TG360,Mookie Toys Ltd,TG,United Kingdom,GBR,,NONE,"Mookie Toys - UK outdoor toys, no API",NO_PORTAL
+TG361,Moose Toys Pty Ltd,TG,Australia,AUS,,NONE,"Moose Toys - Australian toys, no API",NO_PORTAL
+TG370,National Geographic Society,TG,United States,USA,,NONE,"National Geographic Society - media org, no official public API",NO_PORTAL
+TG373,New Bright Industrial Co Ltd,TG,Hong Kong SAR China,HKG,,NONE,"New Bright - RC toys, no developer API",NO_PORTAL
+TG378,NICI GmbH,TG,Germany,DEU,,NONE,"NICI - German plush, no API",NO_PORTAL
+TG396,Peg Perego Pines SpA,TG,Italy,ITA,,NONE,"Peg Perego - ride-on toys, no API",NO_PORTAL
+TG400,People Co Ltd,TG,Japan,JPN,,NONE,"People Co - Japanese baby toys, no API",NO_PORTAL
+TG406,Pilot Ink Co Ltd,TG,Japan,JPN,,NONE,"Pilot Ink - FriXion pens, no developer API",NO_PORTAL
+TG412,PlayGo Toys Mfg Ltd,TG,Hong Kong SAR China,HKG,,NONE,"PlayGo - educational toys, no API",NO_PORTAL
+TG413,Playgro PTY Ltd,TG,Australia,AUS,,NONE,"Playgro - baby toys, no developer API",NO_PORTAL
+TG414,Playmates Toys Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Playmates Toys - action figures, no API",NO_PORTAL
+TG425,Prime Time Toys LLC,TG,United States,USA,,NONE,"Prime Time Toys - water toys, no API",NO_PORTAL
+TG426,Private Label,TG,United States,USA,,NONE,"Private Label - store brands, no API",NO_PORTAL
+TG431,Quercetti & C SpA,TG,Italy,ITA,,NONE,"Quercetti - Italian educational toys, no API",NO_PORTAL
+TG433,Radio Flyer Inc,TG,United States,USA,,NONE,"Radio Flyer - wagons/ride-ons, no API",NO_PORTAL
+TG435,Rainbow Spa,TG,Italy,ITA,,NONE,"Rainbow Spa - Italian toys, no developer API",NO_PORTAL
+TG436,Rainbow Srl,TG,Italy,ITA,,NONE,"Rainbow Srl - Winx Club, no public API",NO_PORTAL
+TG438,Rastar Group,TG,China,CHN,,NONE,"Rastar - RC cars, no developer API",NO_PORTAL
+TG439,Ravensburger AG,TG,Germany,DEU,,NONE,"Ravensburger - board games/puzzles, no public developer API",NO_PORTAL
+TG446,Redwood Ventures Ltd LLC,TG,United States,USA,,NONE,"Redwood Ventures - toys, no API",NO_PORTAL
+TG449,RenArt,TG,Belgium,BEL,,NONE,"RenArt - Belgian toys, no developer API",NO_PORTAL
+TG450,Revell Carrera GmbH,TG,Germany,DEU,,NONE,"Revell Carrera - model kits, no API",NO_PORTAL
+TG452,Roi Visual Co Ltd,TG,South Korea,KOR,,NONE,"Roi Visual - Korean animation, no API",NO_PORTAL
+TG453,Rovio Entertainment Ltd,TG,Finland,FIN,,NONE,"Rovio - now owned by Sega, no public developer API",NO_PORTAL
+TG455,Rubie's Costume Co Inc,TG,United States,USA,,NONE,"Rubie's Costume - costumes, no API",NO_PORTAL
+TG460,Sanrio Co Ltd,TG,Japan,JPN,,NONE,"Sanrio - Hello Kitty, works through licensing, no public API",NO_PORTAL
+TG461,Schleich GmbH,TG,Germany,DEU,,NONE,"Schleich - figurines, no developer API",NO_PORTAL
+TG462,Schmidt Spiele GmbH,TG,Germany,DEU,,NONE,"Schmidt Spiele - German games, no API",NO_PORTAL
+TG463,Science4you SA,TG,Portugal,PRT,,NONE,"Science4you - science kits, no API",NO_PORTAL
+TG465,Selecta Spielzeug AG,TG,Germany,DEU,,NONE,"Selecta Spielzeug - wooden toys, no API",NO_PORTAL
+TG467,SES Nederland BV,TG,Netherlands,NLD,,NONE,"SES Creative - craft toys, no API",NO_PORTAL
+TG476,Shantou MZ Model Co Ltd,TG,China,CHN,,NONE,"MZ Model - RC toys, no developer API",NO_PORTAL
+TG478,Sieper GmbH,TG,Germany,DEU,,NONE,"Sieper (SIKU) - die-cast toys, no API",NO_PORTAL
+TG480,Silverlit Toys Manufactory Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Silverlit - RC toys, no developer API",NO_PORTAL
+TG481,Simba-Dickie Group GmbH,TG,Germany,DEU,,NONE,"Simba-Dickie - German toys, no API",NO_PORTAL
+TG483,Simbat Toys OOO,TG,Russia,RUS,,NONE,"Simbat Toys - Russian toys, no API",NO_PORTAL
+TG488,Sonokong Co Ltd,TG,South Korea,KOR,,NONE,"Sonokong - Korean toys, no developer API",NO_PORTAL
+TG497,"Step 2 Co LLC, The",TG,United States,USA,,NONE,"Step2 - outdoor play, no developer API",NO_PORTAL
+TG502,Sunman Group,TG,Turkey,TUR,,NONE,"Sunman Group - Turkish toys, no API",NO_PORTAL
+TG505,Syma Model Aircraft Industrial Co Ltd,TG,China,CHN,,NONE,"Syma - RC drones, no public API",NO_PORTAL
+TG508,Tamiya Inc,TG,Japan,JPN,,NONE,"Tamiya - model kits, no developer API",NO_PORTAL
+TG516,Theo Klein GmbH,TG,Germany,DEU,,NONE,"Theo Klein - toy tools, no developer API",NO_PORTAL
+TG523,Tiny Love Ltd,TG,Israel,ISR,,NONE,"Tiny Love - baby toys, no API",NO_PORTAL
+TG527,Tomy Co Ltd,TG,Japan,JPN,,NONE,"Tomy - Japanese toys, no public API",NO_PORTAL
+TG531,Toy State Industrial Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Toy State - electronic toys, no API",NO_PORTAL
+TG533,ToyKraft Pvt Ltd,TG,India,IND,,NONE,"ToyKraft - Indian toys, no developer API",NO_PORTAL
+TG541,Trefl SA,TG,Poland,POL,,NONE,"Trefl - Polish puzzles/games, no API",NO_PORTAL
+TG544,Tru Kids Inc,TG,United States,USA,,NONE,"Tru Kids (Toys R Us) - retail, no API",NO_PORTAL
+TG546,Tucker Toys Inc,TG,United States,USA,,NONE,"Tucker Toys - toys, no developer API",NO_PORTAL
+TG548,Ty Inc,TG,United States,USA,,NONE,"Ty Inc - Beanie Babies, no public API",NO_PORTAL
+TG557,VTech Holdings Ltd,TG,Hong Kong SAR China,HKG,,NONE,"VTech - consumer electronics toys, no official public API",NO_PORTAL
+TG558,Vulli SAS,TG,France,FRA,,NONE,"Vulli (Sophie) - baby toys, no API",NO_PORTAL
+TG560,Wader & Wozniak Sp zoo,TG,Poland,POL,,NONE,"Wader - Polish toys, no developer API",NO_PORTAL
+TG561,Welly Die Casting Fty Ltd,TG,Hong Kong SAR China,HKG,,NONE,"Welly - die-cast toys, no API",NO_PORTAL
+TG562,Wham-O Inc,TG,United States,USA,,NONE,"Wham-O - outdoor toys, no developer API",NO_PORTAL
+TG564,Wiener Spielkartenfabrik Ferd Piatnik & Söhne,TG,Austria,AUT,,NONE,"Piatnik - Austrian cards/games, no API",NO_PORTAL
+TG574,WowWee Group Ltd,TG,Hong Kong SAR China,HKG,https://wowwee.com/about/labs,PUBLIC,"WowWee Labs - robotics toy SDKs for MiP, Chip, REV on GitHub",COMPLETE
+TG576,XinYu Art Toys Co Ltd,TG,China,CHN,,NONE,"XinYu Art Toys - Chinese toys, no API",NO_PORTAL
+TG580,Zapf Creation AG,TG,Germany,DEU,,NONE,"Zapf Creation - dolls, no developer API",NO_PORTAL
+TG588,Zuru Inc,TG,New Zealand,NZL,,NONE,"Zuru - NZ toys, no public developer API",NO_PORTAL
+TR1,Aegean Airlines SA,TR,Greece,GRC,,NONE,Aegean Airlines - no public developer API,NO_PORTAL
+TR3,Aeroenlaces Nacionales SA de CV,TR,Mexico,MEX,,NONE,VivaAerobus - no public developer API,NO_PORTAL
+TR4,Aeroflot Rossiyskiye Avialinii PAO,TR,Russia,RUS,,NONE,Aeroflot - no public developer API,NO_PORTAL
+TR5,Aerolíneas Argentinas SA,TR,Argentina,ARG,,NONE,Aerolíneas Argentinas - no public developer API,NO_PORTAL
+TR7,Aerovias de Mexico SA de CV,TR,Mexico,MEX,,NONE,Aeromexico - no public developer API,NO_PORTAL
+TR10,Air Arabia PJSC,TR,United Arab Emirates,ARE,,NONE,Air Arabia - no public developer API,NO_PORTAL
+TR11,Air Canada Inc,TR,Canada,CAN,https://ndc.aircanada.com/,RESTRICTED,Air Canada API access requires direct contract and certification through GDS partners.,NO_PORTAL
+TR12,Air China Co Ltd,TR,China,CHN,,NONE,Air China - no public developer API,NO_PORTAL
+TR14,Air France-KLM Group SA,TR,France,FRA,https://developer.airfranceklm.com/,REGISTRATION,Air France-KLM Developer Portal - NDC APIs free for travel agencies,COMPLETE
+TR15,Air India Ltd,TR,India,IND,,NONE,Air India - no public developer API,NO_PORTAL
+TR18,Air New Zealand Ltd,TR,New Zealand,NZL,,NONE,Air New Zealand - no public developer API,NO_PORTAL
+TR21,Air Philippines Corp,TR,Philippines,PHL,,NONE,Air Philippines - no public developer API,NO_PORTAL
+TR27,Al Tayyar Travel Group Holding Co,TR,Saudi Arabia,SAU,,NONE,"Al Tayyar Travel - travel agency, no developer API",NO_PORTAL
+TR28,Alaska Airlines Inc,TR,United States,USA,,NONE,Alaska Airlines - no public developer API,NO_PORTAL
+TR33,American Airlines Group Inc,TR,United States,USA,https://directconnect.aa.com/,REGISTRATION,American Airlines NDC Direct Connect - requires partner registration,COMPLETE
+TR34,Anex Tourism Group,TR,Turkey,TUR,,NONE,ANEX Tourism Group - no public developer API,NO_PORTAL
+TR36,Arkia Israeli Airlines Ltd,TR,Israel,ISR,,NONE,Arkia Airlines - no public developer API,NO_PORTAL
+TR39,Asiana Airlines Inc,TR,South Korea,KOR,,NONE,Asiana Airlines - no public developer API,NO_PORTAL
+TR41,Azul Linhas Aéreas Brasileiras SA,TR,Brazil,BRA,,NONE,Azul Airlines - no public developer API,NO_PORTAL
+TR42,Bangkok Airways PCL,TR,Thailand,THA,,NONE,Bangkok Airways - no public developer API,NO_PORTAL
+TR47,Bulgarian Airways Group EAD,TR,Bulgaria,BGR,,NONE,Bulgaria Air - no public developer API,NO_PORTAL
+TR48,Cathay Pacific Airways Ltd,TR,Hong Kong SAR China,HKG,,NONE,Cathay Pacific - no public developer API,NO_PORTAL
+TR49,Cebu Air Inc,TR,Philippines,PHL,,NONE,Cebu Pacific - no public developer API,NO_PORTAL
+TR50,Cemair (Pty) Ltd,TR,South Africa,ZAF,,NONE,Cemair - no public developer API,NO_PORTAL
+TR51,China Airlines Ltd,TR,Taiwan,TWN,,NONE,China Airlines - no public developer API,NO_PORTAL
+TR52,China Eastern Airlines Corp Ltd,TR,China,CHN,,NONE,China Eastern - no public developer API,NO_PORTAL
+TR53,China Southern Airlines Co Ltd,TR,China,CHN,,NONE,China Southern - no public developer API,NO_PORTAL
+TR56,Compagnia Aerea Italiana SpA,TR,Italy,ITA,,NONE,Alitalia/ITA - no public developer API,NO_PORTAL
+TR57,Condor Flugdienst GmbH,TR,Germany,DEU,,NONE,Condor - no public developer API,NO_PORTAL
+TR58,Copa Holdings SA,TR,Panama,,,NONE,Copa Airlines - no public developer API,NO_PORTAL
+TR61,Delta Air Lines Inc,TR,United States,USA,https://apiportal.delta.com/,NONE,Reclassified to NONE (Feb 2026): Delta developer portal (developer.delta.com) no longer resolves. Gemini verification returned UNCERTAIN - portal taken down.,COMPLETE
+TR62,Dubai Aviation Corp,TR,United Arab Emirates,ARE,,NONE,FlyDubai - no public developer API,NO_PORTAL
+TR67,easyJet plc,TR,United Kingdom,GBR,,NONE,easyJet - no public developer API,NO_PORTAL
+TR68,EgyptAir Co,TR,Egypt,EGY,,NONE,EgyptAir - no public developer API,NO_PORTAL
+TR69,El Al Israel Airlines Ltd,TR,Israel,ISR,,NONE,El Al - no public developer API,NO_PORTAL
+TR70,Emirates Group Plc,TR,United Arab Emirates,ARE,https://developer.emirates.group/,REGISTRATION,Emirates Developer Portal - B2B API for partners,COMPLETE
+TR71,Enter Air Sp zoo,TR,Poland,POL,,NONE,Enter Air - no public developer API,NO_PORTAL
+TR72,Ethiopian Airlines Group,TR,Ethiopia,,,NONE,Ethiopian Airlines - no public developer API,NO_PORTAL
+TR73,Etihad Aviation Group,TR,United Arab Emirates,ARE,,NONE,Etihad Airways - no public developer API,NO_PORTAL
+TR75,Finnair Oyj,TR,Finland,FIN,,NONE,Finnair - no public developer API,NO_PORTAL
+TR76,FLC Group,TR,Vietnam,VNM,,NONE,FLC (Bamboo Airways) - no public developer API,NO_PORTAL
+TR81,Garuda Indonesia Tbk PT,TR,Indonesia,IDN,,NONE,Garuda Indonesia - no public developer API,NO_PORTAL
+TR84,Globalia Group,TR,Spain,ESP,,NONE,Globalia (Air Europa) - no public developer API,NO_PORTAL
+TR85,GOL Linhas Aéreas Inteligentes SA,TR,Brazil,BRA,,NONE,GOL Airlines - no public developer API,NO_PORTAL
+TR87,Gulf Air Co LLC,TR,Bahrain,,,NONE,Gulf Air - no public developer API,NO_PORTAL
+TR92,HiSky Europe SRL,TR,Romania,ROU,,NONE,HiSky - no public developer API,NO_PORTAL
+TR95,Hong Kong Airlines Ltd,TR,Hong Kong SAR China,HKG,,NONE,Hong Kong Airlines - no public developer API,NO_PORTAL
+TR99,InterGlobe Enterprises Pvt Ltd,TR,India,IND,,NONE,IndiGo (InterGlobe) - no public developer API,NO_PORTAL
+TR100,International Consolidated Airlines Group SA,TR,Spain,ESP,https://developer.iairgroup.com/,REGISTRATION,"IAG Developer Portal (BA, Iberia, Aer Lingus) - NDC API",COMPLETE
+TR102,Israir Airlines & Tourism Ltd,TR,Israel,ISR,,NONE,Israir Airlines - no public developer API,NO_PORTAL
+TR103,Italia Trasporto Aereo SpA,TR,Italy,ITA,,NONE,ITA Airways - no public developer API,NO_PORTAL
+TR104,Japan Airlines Co Ltd,TR,Japan,JPN,,NONE,Japan Airlines - no public developer API,NO_PORTAL
+TR106,Jet2 Plc,TR,United Kingdom,GBR,,NONE,Jet2 - no public developer API,NO_PORTAL
+TR107,JetBlue Airways Corp,TR,United States,USA,,NONE,JetBlue - no public developer API,NO_PORTAL
+TR109,JetSMART Airlines SpA,TR,Chile,CHL,,NONE,JetSMART - no public developer API,NO_PORTAL
+TR110,Jetstar Asia Airways Pte Ltd,TR,Singapore,SGP,,NONE,Jetstar Asia - no public developer API,NO_PORTAL
+TR113,Jin Air Co Ltd,TR,South Korea,KOR,,NONE,Jin Air - no public developer API,NO_PORTAL
+TR115,Kenya Airways Ltd,TR,Kenya,KEN,,NONE,Kenya Airways - no public developer API,NO_PORTAL
+TR116,Korean Air Lines Co Ltd,TR,South Korea,KOR,,NONE,Korean Air - no public developer API,NO_PORTAL
+TR117,LATAM Airlines Group SA,TR,Chile,CHL,,NONE,LATAM Airlines - no public developer API,NO_PORTAL
+TR118,Lion Air Group,TR,Indonesia,IDN,,NONE,Lion Air - no public developer API,NO_PORTAL
+TR119,Malaysia Airlines Berhad,TR,Malaysia,MYS,,NONE,Malaysia Airlines - no public developer API,NO_PORTAL
+TR121,National Air Services (NAS),TR,Saudi Arabia,SAU,,NONE,NAS (Flynas) - no public developer API,NO_PORTAL
+TR125,Nok Airlines PCL,TR,Thailand,THA,,NONE,Nok Airlines - no public developer API,NO_PORTAL
+TR127,Norwegian Air Shuttle ASA,TR,Norway,NOR,,NONE,Norwegian Air Shuttle - no public developer API,NO_PORTAL
+TR130,Pegasus Hava Tasimaciligi AS,TR,Turkey,TUR,,NONE,Pegasus Airlines - no public developer API,NO_PORTAL
+TR131,Philippine Airlines Inc,TR,Philippines,PHL,,NONE,Philippine Airlines - no public developer API,NO_PORTAL
+TR132,Polskie Linie Lotnicze LOT SA (PPL LOT SA),TR,Poland,POL,,NONE,LOT Polish Airlines - no public developer API,NO_PORTAL
+TR135,Qantas Airways Ltd,TR,Australia,AUS,https://www.qantas.com/distributionplatform/,RESTRICTED,Qantas Distribution Platform - NDC requires partner agreement,COMPLETE
+TR136,Qatar Airways Group Plc,TR,Qatar,QAT,,NONE,Qatar Airways - no public developer portal,NO_PORTAL
+TR141,Royal Air Maroc SA,TR,Morocco,MAR,,NONE,Royal Air Maroc - no public developer API,NO_PORTAL
+TR142,Ryanair Holdings Plc,TR,Ireland,IRL,,NONE,Ryanair - no public developer API,NO_PORTAL
+TR143,S7 Group ZAO,TR,Russia,RUS,,NONE,S7 Airlines - no public developer API,NO_PORTAL
+TR144,Safair Operations (Pty) Ltd,TR,South Africa,ZAF,,NONE,Safair (FlySafair) - no public developer API,NO_PORTAL
+TR146,SAS Group,TR,Sweden,SWE,,NONE,SAS Scandinavian - no public developer API,NO_PORTAL
+TR147,"SATA SGPS, Grupo",TR,Portugal,PRT,,NONE,SATA Azores - no public developer API,NO_PORTAL
+TR149,Saudi Arabian Airlines Corp,TR,Saudi Arabia,SAU,,NONE,Saudia - no public developer API,NO_PORTAL
+TR152,Singapore Airlines Ltd (SIA),TR,Singapore,SGP,https://developer.singaporeair.com/,REGISTRATION,Singapore Airlines KrisConnect - API portal with NDC,COMPLETE
+TR153,Sky Airline SA,TR,Chile,CHL,,NONE,Sky Airline - no public developer API,NO_PORTAL
+TR154,Sky Express,TR,Greece,GRC,,NONE,Sky Express - no public developer API,NO_PORTAL
+TR159,Smartwings as,TR,Czech Republic,CZE,,NONE,Smartwings - no public developer API,NO_PORTAL
+TR160,South African Airlink Ltd,TR,South Africa,ZAF,,NONE,Airlink - no public developer API,NO_PORTAL
+TR161,South African Airways (PTY) Ltd,TR,South Africa,ZAF,,NONE,South African Airways - no public developer API,NO_PORTAL
+TR162,Southwest Airlines Co,TR,United States,USA,,NONE,Southwest Airlines - no public developer API,NO_PORTAL
+TR164,Spirit Airlines Inc,TR,United States,USA,,NONE,Spirit Airlines - no public developer API,NO_PORTAL
+TR169,Starlux Airlines Co Ltd,TR,Taiwan,TWN,,NONE,Starlux Airlines - no public developer API,NO_PORTAL
+TR171,Sunclass Airlines A/S,TR,Denmark,DNK,,NONE,Sunclass Airlines - no public developer API,NO_PORTAL
+TR172,SunExpress AS,TR,Turkey,TUR,,NONE,SunExpress - no public developer API,NO_PORTAL
+TR173,Synergy Group,TR,Colombia,COL,,NONE,Synergy Group (Avianca) - no public developer API,NO_PORTAL
+TR174,"TAP SGPS SA, Grupo",TR,Portugal,PRT,,NONE,TAP Air Portugal - no public developer API,NO_PORTAL
+TR175,Tarom SA Cia Nationala de Transporturi Aeriene Romane,TR,Romania,ROU,,NONE,TAROM - no public developer API,NO_PORTAL
+TR177,Thai Airways International PCL,TR,Thailand,THA,,NONE,Thai Airways - no public developer API,NO_PORTAL
+TR179,Turkish Airlines AS,TR,Turkey,TUR,,NONE,Turkish Airlines - no public developer API,NO_PORTAL
+TR181,United Continental Holdings Inc,TR,United States,USA,https://developer.staralliance.com/,REGISTRATION,United via Star Alliance Developer Portal - requires registration,COMPLETE
+TR184,VietJet Aviation JSC,TR,Vietnam,VNM,,NONE,VietJet - no public developer API,NO_PORTAL
+TR185,Vietnam Airlines Co Ltd,TR,Vietnam,VNM,,NONE,Vietnam Airlines - no public developer API,NO_PORTAL
+TR186,Volotea SA,TR,Spain,ESP,,NONE,Volotea - no public developer API,NO_PORTAL
+TR187,Vuela Cía de Aviación,TR,Mexico,MEX,,NONE,Volaris - no public developer API,NO_PORTAL
+TR190,WestJet Airlines Ltd,TR,Canada,CAN,,NONE,WestJet - no public developer API,NO_PORTAL
+TR191,Wizz Air Hungary Ltd,TR,Hungary,HUN,,NONE,Wizz Air - no public developer API,NO_PORTAL
+VG6,Ankama SARL,VG,France,FRA,,NONE,No official developer portal - community APIs only,COMPLETED
+VG8,ArenaNet LLC,VG,United States,USA,https://api.guildwars2.com/v2,PUBLIC,Guild Wars 2 API - public endpoints with optional API key auth,COMPLETED
+VG12,Astragon Entertainment GmbH,VG,Germany,DEU,,NONE,"No evidence found of any public developer portal, API, or SDK for external developers to build apps or integrations.",COMPLETED
+VG13,Atari SA,VG,France,FRA,,NONE,Session 10: No scrapeable developer portal. Changed PLAT to NONE.,COMPLETED
+VG16,BANDAI NAMCO Group,VG,Japan,JPN,,NONE,No public developer portal,COMPLETED
+VG26,ByteDance Ltd,VG,China,CHN,https://developer.picoxr.com/,PUBLIC,PICO VR Developer Platform,COMPLETED
+VG27,Capcom Co Ltd,VG,Japan,JPN,,NONE,No public developer portal,COMPLETED
+VG28,CCP ehf,VG,Iceland,ISL,https://developers.eveonline.com,REGISTRATION,"CCP Games provides a public developer portal at developers.eveonline.com for EVE Online API access, but requires free account registration and verification (including payment requirement with valid payment methods other than PLEX).",COMPLETED
+VG29,CD Projekt SA,VG,Poland,POL,https://devportal.gog.com/,RESTRICTED,GOG Developer Portal requires approval,COMPLETED
+VG37,CyberAgent Inc,VG,Japan,JPN,,NONE,CyberAgent has GitHub repositories and internal SDKs but no public developer portal or APIs for third-party developers to access their services.,COMPLETED
+VG41,Digital Bros SpA Group,VG,Italy,ITA,,NONE,Digital Bros SpA Group is a video game publisher/developer with no evidence of public APIs or developer portals for external third-party developers.,COMPLETED
+VG44,Electronic Arts Inc,VG,United States,USA,,NONE,No public developer portal,COMPLETED
+VG46,Emp Electronics SA,VG,Spain,ESP,,NONE,Emp Electronics SA is an electronics wholesaler based in Argentina (not Spain) dealing with computer equipment and machinery - not a video game company with no developer resources found.,COMPLETED
+VG47,Epic Games Inc,VG,United States,USA,https://dev.epicgames.com/,PUBLIC,Epic Developer Portal,COMPLETED
+VG66,Gamevil Inc,VG,South Korea,KOR,https://platform.withhive.com/,PUBLIC,Com2uS Holdings (formerly Gamevil Inc.) operates the Hive platform with publicly accessible website and SDK documentation. The Hive SDK is available through public repositories like Maven Central for third-party developers to integrate game services.,COMPLETED
+VG67,Gamigo Group,VG,Germany,DEU,,NONE,"Extensive searches found no evidence of a public developer portal, API documentation, or SDK resources for external third-party developers. Gamigo Group appears to be primarily a game publisher/operator that focuses on publishing existing games rather than providing developer resources for external integration.",COMPLETED
+VG72,GungHo Online Entertainment Inc,VG,Japan,JPN,,NONE,No evidence of a public developer portal or API for third-party developers was found across multiple searches. GungHo is a game publisher/developer but appears to focus on their own game development rather than providing platform services.,COMPLETED
+VG73,Halfbrick Studios Pty Ltd,VG,Australia,AUS,,NONE,No developer portal or public API exists for third-party developers. Only internal APIs mentioned for their own game infrastructure.,COMPLETED
+VG75,Hello Games Ltd,VG,United Kingdom,GBR,,NONE,"Set to NONE - original parse error, needs Gemini verification",COMPLETED
+VG76,Hi-Rez Studios Inc,VG,United States,USA,https://webcdn.hirezstudios.com/hirez-studios/legal/smite-api-developer-guide.pdf,REGISTRATION,"Hi-Rez Studios provides a public API for their games (Smite, Paladins, Realm Royale) that requires developers to apply and receive approved credentials (Developer ID and Authentication Key) before accessing the API endpoints.",COMPLETED
+VG79,HP Inc,VG,United States,USA,https://developers.hp.com/,REGISTRATION,"HP Inc has a comprehensive developer portal at developers.hp.com with extensive APIs and SDKs for third-party developers, but requires registration and approval for API credentials to access most services.",COMPLETED
+VG80,HTC Corp,VG,Taiwan,TWN,https://developer.vive.com/,PUBLIC,HTC VIVE Developer,COMPLETED
+VG82,I Got Games Inc,VG,China,CHN,,NONE,"No evidence found of any developer portal, API, or SDK for third-party developers. IGG focuses on developing their own mobile games rather than providing development platforms for external developers.",COMPLETED
+VG85,Jagex Ltd,VG,United Kingdom,GBR,,NONE,"Set to NONE - original parse error, needs Gemini verification",COMPLETED
+VG91,KaKao Corp,VG,South Korea,KOR,https://developers.kakao.com/,REGISTRATION,Kakao Developers,COMPLETED
+VG92,Kiloo Group,VG,Denmark,DNK,,NONE,Company closed in 2023,COMPLETED
+VG95,Koch Media GmbH,VG,Germany,DEU,,NONE,"Set to NONE - original parse error, needs Gemini verification",COMPLETED
+VG96,Koei Tecmo Holdings Co Ltd,VG,Japan,JPN,,NONE,"No developer portal, API, or SDK found for third-party developers. Company focuses solely on internal game development and publishing.",COMPLETED
+VG97,Konami Corp,VG,Japan,JPN,,NONE,No public developer portal,COMPLETED
+VG98,Krafton Inc,VG,South Korea,KOR,https://developer.pubg.com,REGISTRATION,"Krafton operates a public PUBG API developer portal at developer.pubg.com where external developers can register for free API keys to access game data, requiring account creation but no approval process.",COMPLETED
+VG102,LEGO Group,VG,Denmark,DNK,https://developer.lego.com/,RESTRICTED,Corrected from HUMAN_CODING_RESULTS.csv (was parse error),COMPLETED
+VG112,Machine Zone Inc,VG,United States,USA,,NONE,No developer portal or public API exists for third-party developers. Company was sold to Tripledot Studios in 2025 after being acquired by AppLovin in 2020.,COMPLETED
+VG120,Meta Platforms Inc,VG,United States,USA,https://developers.facebook.com/,PUBLIC,Meta for Developers,COMPLETED
+VG121,Microsoft Corp,VG,United States,USA,https://developer.microsoft.com/en-us/games/,RESTRICTED,Xbox Game Developers requires approval,COMPLETED
+VG122,miHoYo Co Ltd,VG,China,CHN,,NONE,No public developer portal,COMPLETED
+VG124,Mind Candy Ltd,VG,United Kingdom,GBR,,NONE,Mind Candy Ltd does not offer a public developer portal or API for third-party developers. The company focuses on developing their own mobile games and entertainment products internally.,COMPLETED
+VG129,Monolith Productions Inc,VG,United States,USA,,NONE,"Monolith Productions was closed by Warner Bros. Games on February 25, 2025. The company never maintained a public developer portal or API for third-party developers during its existence.",COMPLETED
+VG130,Moon Active Ltd,VG,Israel,ISR,,NONE,"Moon Active is a mobile game company that develops Coin Master and other games, but shows no evidence of providing public developer portals, APIs, or SDKs for third-party external developers.",COMPLETED
+VG131,NCsoft Corp,VG,South Korea,KOR,https://developers.plaync.com/,REGISTRATION,"A PLAYNC Developers portal exists at developers.plaync.com with API-related content, but access appears to require registration or authentication to view documentation.",COMPLETED
+VG135,NetEase Inc,VG,China,CHN,,NONE,No public developer portal,COMPLETED
+VG136,Netmarble Corp,VG,South Korea,KOR,,NONE,No public developer portal,COMPLETED
+VG138,Nexon Co Ltd,VG,Japan,JPN,https://openapi.nexon.com/,REGISTRATION,Nexon Open API,COMPLETED
+VG139,NHN Corp,VG,South Korea,KOR,https://docs.nhncloud.com,REGISTRATION,"NHN Cloud provides extensive API documentation and SDKs for external developers, but requires free account registration and API key setup to access services.",COMPLETED
+VG140,Niantic Inc,VG,United States,USA,https://lightship.dev/,PUBLIC,Niantic Lightship,COMPLETED
+VG142,Nintendo Co Ltd,VG,Japan,JPN,https://developer.nintendo.com/,RESTRICTED,Nintendo Developer Portal,COMPLETED
+VG152,Perfect World Co Ltd,VG,China,CHN,,NONE,"Perfect World Co Ltd appears to only have unofficial third-party developer community sites and PHP scripts for game server integration, with no official developer portal or API for external developers.",COMPLETED
+VG155,Plarium Global Ltd,VG,Israel,ISR,https://partner.plarium.com/,REGISTRATION,"Plarium has a developer portal (partner.plarium.com) with comprehensive APIs for payments, user management, and game integration, but requires Plarium ID registration and appears to involve a review process for access.",COMPLETED
+VG156,Playrix Entertainment LLC,VG,Ireland,IRL,,NONE,"Playrix is a mobile game developer focused on their own games like Township, Fishdom, Gardenscapes, and Homescapes. No evidence found of a public developer portal or API for third-party developers.",COMPLETED
+VG160,Psyonix Inc,VG,United States,USA,,NONE,Session 10: No scrapeable developer portal. Changed PLAT to NONE.,COMPLETED
+VG161,Roblox Corp,VG,United States,USA,https://create.roblox.com/,PUBLIC,Roblox Create,COMPLETED
+VG163,Samsung Corp,VG,South Korea,KOR,https://developer.samsung.com/,PUBLIC,Samsung Developers,COMPLETED
+VG165,Scopely Inc,VG,United States,USA,,NONE,"While Scopely has a developer portal at developer.scopely.com, it appears focused on internal platform tools rather than public APIs for third-party developers to build external integrations.",COMPLETED
+VG168,Sea Ltd,VG,Singapore,SGP,,NONE,Session 10: No scrapeable developer portal. Changed PLAT to NONE.,COMPLETED
+VG171,Sega Sammy Holdings Inc,VG,Japan,JPN,,NONE,No public developer portal,COMPLETED
+VG173,Shanghai Lilith Technology Co Ltd,VG,China,CHN,https://www.lilith.com/3rdsdk,REGISTRATION,Corrected from HUMAN_CODING_RESULTS.csv (was parse error),COMPLETED
+VG175,SmileGate Inc,VG,South Korea,KOR,,NONE,Game developer only,COMPLETED
+VG180,Sony Corp,VG,Japan,JPN,https://partners.playstation.net/,RESTRICTED,PlayStation Partners,COMPLETED
+VG182,Spin Master Ltd,VG,Canada,CAN,,NONE,Spin Master Ltd does not offer a public developer portal or API for third-party developers. The company focuses on toy manufacturing and children's entertainment but does not provide development resources for external integration.,COMPLETED
+VG183,Square Enix Holdings Co Ltd,VG,Japan,JPN,,NONE,No public developer portal,COMPLETED
+VG189,Take-Two Interactive Software Inc,VG,United States,USA,,NONE,No public developer portal,COMPLETED
+VG193,Tencent Holdings Ltd,VG,China,CHN,https://developer.wegame.com/,REGISTRATION,WeGame Developer,COMPLETED
+VG196,Type-Moon Co Ltd,VG,Japan,JPN,,NONE,Type-Moon is a visual novel and content company that collaborates with other game studios but does not provide any public API or developer portal for third-party developers.,COMPLETED
+VG197,Ubisoft Entertainment SA,VG,France,FRA,https://creatorsprogram.ubisoft.com/,REGISTRATION,Ubisoft Creators Program,COMPLETED
+VG198,Valve Corp,VG,United States,USA,https://partner.steamgames.com/,REGISTRATION,Steamworks,COMPLETED
+VG199,Vivendi SE,VG,France,FRA,,NONE,Vivendi is primarily an investment company that owns Gameloft (which has some internal APIs mentioned) but does not offer any public developer portal or API for external third-party developers to access.,COMPLETED
+VG201,Walt Disney Co The,VG,United States,USA,,NONE,"Disney has open source projects and a Disney+ ADK for licensed partners, but no public developer portal or API exists for general third-party developers.",COMPLETED
+VG202,Wargaming Group Ltd,VG,Cyprus,CYP,https://developers.wargaming.net/,REGISTRATION,Wargaming has a developer portal at developers.wargaming.net that provides API access but requires users to log in with a Wargaming.net account and register their application to get an application_id for API usage.,COMPLETED
+VG204,Warner Bros Entertainment Inc,VG,United States,USA,,NONE,Warner Bros Entertainment Inc operates primarily through licensing deals with third-party developers rather than providing public APIs or developer portals. Their technical infrastructure is focused on internal game development across their owned studios.,COMPLETED
+VG206,Webzen Inc,VG,South Korea,KOR,,NONE,No evidence found of any developer portal or API for third-party developers. Webzen operates as a traditional game publisher focused on their own MMORPGs.,COMPLETED

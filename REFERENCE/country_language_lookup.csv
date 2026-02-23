@@ -1,0 +1,58 @@
+host_country_iso3c,host_country_name,official_languages,official_language_count,english_proficiency,english_counts_as_covered
+ARG,Argentina,Spanish,1,Moderate,0
+AUS,Australia,English,1,High,1
+AUT,Austria,German,1,High,1
+BEL,Belgium,Dutch;French;German,3,High,1
+BRA,Brazil,Portuguese,1,Low,0
+BGR,Bulgaria,Bulgarian,1,Moderate,0
+CAN,Canada,English;French,2,High,1
+CHL,Chile,Spanish,1,Moderate,0
+CHN,China,Chinese,1,Low,0
+COL,Colombia,Spanish,1,Low,0
+HRV,Croatia,Croatian,1,Moderate,0
+CZE,Czech Republic,Czech,1,Moderate,0
+DNK,Denmark,Danish,1,High,1
+ECU,Ecuador,Spanish,1,Low,0
+EGY,Egypt,Arabic,1,Low,0
+FIN,Finland,Finnish;Swedish,2,High,1
+FRA,France,French,1,Moderate,0
+DEU,Germany,German,1,High,1
+GRC,Greece,Greek,1,Moderate,0
+HKG,Hong Kong,Chinese;English,2,High,1
+HUN,Hungary,Hungarian,1,Moderate,0
+IND,India,Hindi;English,2,Moderate,0
+IDN,Indonesia,Indonesian,1,Low,0
+IRL,Ireland,English;Irish,2,High,1
+ISR,Israel,Hebrew;Arabic,2,High,1
+ITA,Italy,Italian,1,Low,0
+JPN,Japan,Japanese,1,Low,0
+KEN,Kenya,English;Swahili,2,Moderate,0
+MYS,Malaysia,Malay,1,Moderate,0
+MEX,Mexico,Spanish,1,Low,0
+MAR,Morocco,Arabic;Berber,2,Low,0
+NLD,Netherlands,Dutch,1,High,1
+NZL,New Zealand,English;Maori,2,High,1
+NGA,Nigeria,English,1,Moderate,0
+NOR,Norway,Norwegian,1,High,1
+PER,Peru,Spanish,1,Low,0
+PHL,Philippines,Filipino;English,2,High,1
+POL,Poland,Polish,1,Moderate,0
+PRT,Portugal,Portuguese,1,Moderate,0
+ROU,Romania,Romanian,1,Moderate,0
+RUS,Russia,Russian,1,Low,0
+SAU,Saudi Arabia,Arabic,1,Moderate,0
+SGP,Singapore,English;Malay;Chinese;Tamil,4,High,1
+SVK,Slovakia,Slovak,1,Moderate,0
+ZAF,South Africa,English;Afrikaans;Zulu;Xhosa;Sotho;Tswana;Tsonga;Swati;Venda;Ndebele,10,High,1
+KOR,South Korea,Korean,1,Moderate,0
+ESP,Spain,Spanish,1,Moderate,0
+SWE,Sweden,Swedish,1,High,1
+CHE,Switzerland,German;French;Italian;Romansh,4,High,1
+TWN,Taiwan,Chinese,1,Moderate,0
+THA,Thailand,Thai,1,Low,0
+TUR,Turkey,Turkish,1,Low,0
+UKR,Ukraine,Ukrainian,1,Low,0
+ARE,United Arab Emirates,Arabic,1,High,1
+GBR,United Kingdom,English,1,High,1
+USA,United States,English,1,High,1
+VNM,Vietnam,Vietnamese,1,Low,0

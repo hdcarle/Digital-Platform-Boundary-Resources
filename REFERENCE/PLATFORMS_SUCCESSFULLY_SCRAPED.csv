@@ -1,0 +1,100 @@
+platform_ID,platform_name,industry,PLAT,developer_portal_url,scrape_status
+CA16,CE Info Systems Ltd,CA,PUBLIC,https://www.mapmyindia.com/api/,COMPLETE
+CA27,Faurecia SA,CA,REGISTRATION,https://appning.com/developers/,COMPLETE
+CA63,Navitel Poland Sp zoo,CA,REGISTRATION,https://navitel.ru/en/developers,COMPLETE
+CC109,Capital One Financial Corp,CC,PUBLIC,https://developer.capitalone.com/,COMPLETE
+CC125,Citigroup Inc,CC,REGISTRATION,https://developer.citi.com/,COMPLETE
+CC141,DBS Group Holdings Ltd,CC,REGISTRATION,https://www.dbs.com/dbsdevelopers/,COMPLETE
+CC172,Grupo Santander,CC,RESTRICTED,https://developer.santander.co.uk/,COMPLETE
+CC179,HSBC Holdings Plc,CC,REGISTRATION,https://develop.hsbc.com/,COMPLETE
+CC18,American Express Co,CC,REGISTRATION,https://developer.americanexpress.com/,COMPLETE
+CC189,ING Groep NV,CC,REGISTRATION,https://developer.ing.com/,COMPLETE
+CC199,JP Morgan Chase & Co,CC,REGISTRATION,https://developer.chase.com/,COMPLETE
+CC62,Banco Santander SA,CC,RESTRICTED,https://developer.santander.co.uk/,COMPLETE
+CC77,Bank of America Corp,CC,REGISTRATION,https://developer.bankofamerica.com/,COMPLETE
+CC90,Barclays Plc,CC,REGISTRATION,https://developer.barclays.com/,COMPLETE
+CP127,Xiaomi Corp,CP,PUBLIC,https://global.developer.mi.com/,COMPLETE
+CP20,Brother Industries Ltd,CP,PUBLIC,https://developerprogram.brother-usa.com/,COMPLETE
+CP29,Dell Technologies Inc,CP,REGISTRATION,https://developer.dell.com/,COMPLETE
+CP5,Alphabet Inc,CP,PUBLIC,https://developers.google.com,COMPLETE
+CP50,Huawei Technologies Co Ltd,CP,PUBLIC,https://developer.huawei.com,COMPLETE
+CP6,Alza.cz as,CP,REGISTRATION,https://trade.alza.cz/cs/info/api,COMPLETE
+CP61,Karbonn Mobile India Pvt Ltd,CP,REGISTRATION,https://developers.karbonhq.com/,COMPLETE
+CP66,Koninklijke Philips NV,CP,REGISTRATION,https://developers.meethue.com/,COMPLETE
+CP67,Kyocera Corp,CP,REGISTRATION,https://www.kyoceradocumentsolutions.eu/en/products/developers-partner-programme.html,COMPLETE
+CP7,Amazon.com Inc,CP,REGISTRATION,https://developer.amazon.com,COMPLETE
+CP74,Micro-Star International Co Ltd,CP,REGISTRATION,https://partner.msi.com/,COMPLETE
+CP8,Apex Technology Co Ltd,CP,REGISTRATION,https://apexfintechsolutions.com/developers/,COMPLETE
+CP81,NEC Corp,CP,REGISTRATION,https://www.univergeblue.com/cloud-services/extend/api-platform/,COMPLETE
+CP85,Nokia Corp,CP,PUBLIC,https://network.developer.nokia.com/,COMPLETE
+CP89,Panasonic Corp,CP,REGISTRATION,https://hangar.panasonic.aero/sdk,COMPLETE
+CP9,Apple Inc,CP,PUBLIC,https://developer.apple.com,COMPLETE
+CP98,Razer Inc,CP,PUBLIC,https://developer.razer.com/,COMPLETE
+CP99,Ricoh Co Ltd,CP,REGISTRATION,https://www.ricoh-usa.com/en/developer-program,COMPLETE
+FO11,Deliveroo Plc,FO,REGISTRATION,https://developers.deliveroo.com/,COMPLETE
+FO12,Delivery Hero SE,FO,REGISTRATION,https://developers.deliveryhero.com/,COMPLETE
+FO17,DoorDash Inc,FO,REGISTRATION,https://developer.doordash.com/,COMPLETE
+FO30,GoTo Group,FO,REGISTRATION,https://www.gojek.io/developers/,COMPLETE
+FO31,Grab Holdings Inc,FO,REGISTRATION,https://developer.grab.com/,COMPLETE
+FO4,Bolt Technology OÜ,FO,RESTRICTED,https://developer.bolt.eu/,COMPLETE
+FO41,Just Eat Takeaway.com NV,FO,REGISTRATION,https://developers.just-eat.com/,COMPLETE
+FO42,Line Corp,FO,REGISTRATION,https://developers.line.biz/,COMPLETE
+FO60,Rappi Inc,FO,REGISTRATION,https://dev-portal.rappi.com/,COMPLETE
+FO71,Takeaway.com Group BV,FO,REGISTRATION,https://developers.just-eat.com/,COMPLETE
+FO74,Uber Technologies Inc,FO,REGISTRATION,https://developer.uber.com/docs/eats,COMPLETE
+FO79,Zomato Ltd,FO,REGISTRATION,https://www.zomato.com/developer/integration/,COMPLETE
+HO111,Expedia Group Inc,HO,REGISTRATION,https://developers.expediagroup.com/,COMPLETE
+HO165,Hilton Worldwide Holdings Inc,HO,REGISTRATION,https://developer.hilton.io/,COMPLETE
+HO192,"Iberostar SA, Grupo",HO,REGISTRATION,https://portalservices.iberostar.com/,COMPLETE
+HO2,AccorHotels Group,HO,REGISTRATION,https://developer.accor.com/,COMPLETE
+HO233,Marriott International Inc,HO,REGISTRATION,https://devportalprod.marriott.com/,COMPLETE
+HO307,S Group,HO,REGISTRATION,https://www.s-group.dev/,COMPLETE
+HO326,Southern Sun Ltd,HO,REGISTRATION,https://mews-systems.gitbook.io/connector-api,COMPLETE
+HO368,TripAdvisor Inc,HO,REGISTRATION,https://developer-tripadvisor.com,COMPLETE
+HO45,"Barceló, Grupo",HO,REGISTRATION,https://developer.synxis.com/,COMPLETE
+HO5,Airbnb Inc,HO,RESTRICTED,https://developer.airbnb.com,COMPLETE
+HO56,Booking Holdings Inc,HO,RESTRICTED,https://developers.booking.com,COMPLETE
+HO70,Choice Hotels International Inc,HO,RESTRICTED,https://developers.choice.dev,COMPLETE
+IH11,Cencosud SA,IH,REGISTRATION,https://developers.ecomm.cencosud.com/,COMPLETE
+IH25,Falabella SACI,IH,PUBLIC,https://developers.falabella.com/,COMPLETE
+IH73,Vestel Ticaret AS,IH,RESTRICTED,http://b2bsupport.vestel.com.tr,COMPLETE
+IH76,Vizio Inc,IH,REGISTRATION,https://developer.vizio.com/,COMPLETE
+PE131,Nikon Corp,PE,REGISTRATION,https://sdk.nikonimaging.com/,COMPLETE
+PE145,Polar Electro Oy,PE,REGISTRATION,https://www.polar.com/en/developers,COMPLETE
+PE153,Rakuten Group Inc,PE,REGISTRATION,https://developers.rakuten.com/,COMPLETE
+PE154,Rakuten Kobo Inc,PE,REGISTRATION,https://developers.rakuten.com/,COMPLETE
+PE179,Sonos Inc,PE,REGISTRATION,https://developer.sonos.com/,COMPLETE
+PE187,SZ DJI Technology Co Ltd,PE,REGISTRATION,https://developer.dji.com/,COMPLETE
+PE197,TomTom International BV,PE,REGISTRATION,https://developer.tomtom.com/,COMPLETE
+PE210,Western Digital Corp,PE,PUBLIC,https://developer.westerndigital.com/,COMPLETE
+PE212,Withings SA,PE,REGISTRATION,https://developer.withings.com/,COMPLETE
+PE216,Yandex NV,PE,PUBLIC,https://yandex.com/dev/,COMPLETE
+PE219,Zepp Health Corp,PE,PUBLIC,https://developer.zepp.com/,COMPLETE
+PE24,Bang & Olufsen A/S,PE,PUBLIC,https://bang-olufsen.github.io/mozart-open-api/,COMPLETE
+PE33,Bose Corp,PE,PUBLIC,https://developer.bose.com/,COMPLETE
+PE67,Garmin Ltd,PE,PUBLIC,https://developer.garmin.com/,COMPLETE
+PE72,GoPro Inc,PE,PUBLIC,https://gopro.github.io/OpenGoPro/,COMPLETE
+PE8,Alibaba Group Holding Ltd,PE,REGISTRATION,https://openapi.alibaba.com/,COMPLETE
+TG574,WowWee Group Ltd,TG,PUBLIC,https://wowwee.com/about/labs,COMPLETE
+TR100,International Consolidated Airlines Group SA,TR,REGISTRATION,https://developer.iairgroup.com/,COMPLETE
+TR135,Qantas Airways Ltd,TR,RESTRICTED,https://www.qantas.com/distributionplatform/,COMPLETE
+TR14,Air France-KLM Group SA,TR,REGISTRATION,https://developer.airfranceklm.com/,COMPLETE
+TR152,Singapore Airlines Ltd (SIA),TR,REGISTRATION,https://developer.singaporeair.com/,COMPLETE
+TR181,United Continental Holdings Inc,TR,REGISTRATION,https://developer.staralliance.com/,COMPLETE
+TR33,American Airlines Group Inc,TR,REGISTRATION,https://directconnect.aa.com/,COMPLETE
+TR70,Emirates Group Plc,TR,REGISTRATION,https://developer.emirates.group/,COMPLETE
+VG12,Astragon Entertainment GmbH,VG,PUBLIC,https://api.guildwars2.com/v2,COMPLETE
+VG120,Meta Platforms Inc,VG,PUBLIC,https://developers.facebook.com/,COMPLETE
+VG129,Monolith Productions Inc,VG,REGISTRATION,https://developers.line.biz/,COMPLETE
+VG140,Niantic Inc,VG,PUBLIC,https://lightship.dev/,COMPLETE
+VG155,Plarium Global Ltd,VG,REGISTRATION,https://partner.plarium.com/,COMPLETE
+VG163,Samsung Corp,VG,REGISTRATION,https://developer.samsung.com/,COMPLETE
+VG165,Scopely Inc,VG,PUBLIC,https://lightship.dev/,COMPLETE
+VG180,Sony Corp,VG,PUBLIC,https://partners.playstation.net/,COMPLETE
+VG197,Ubisoft Entertainment SA,VG,PUBLIC,https://creatorsprogram.ubisoft.com/,COMPLETE
+VG198,Valve Corp,VG,REGISTRATION,https://partner.steamgames.com/,COMPLETE
+VG28,CCP ehf,VG,REGISTRATION,https://developers.eveonline.com,COMPLETE
+VG37,CyberAgent Inc,VG,RESTRICTED,https://devportal.gog.com/,COMPLETE
+VG41,"Digital Bros SpA, Group",VG,PUBLIC,https://forums.codemasters.com/,COMPLETE
+VG79,HP Inc,VG,PUBLIC,https://developers.hp.com/,COMPLETE
+VG95,Koch Media GmbH,VG,PUBLIC,https://developer.vive.com/,COMPLETE

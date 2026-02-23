@@ -1,0 +1,31 @@
+platform_ID,platform_name,industry,PLAT,developer_portal_url,scrape_error
+CA70,Pioneer Corp,CA,REGISTRATION,https://pioneer-carsound.eu/partner-api,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+CA86,Thinkware Co Ltd,CA,REGISTRATION,https://developer.thinkware.com,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+CP101,Seiko Epson Corp,CP,REGISTRATION,https://www.epson.net/developernetwork/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+CP126,Xerox Corp,CP,REGISTRATION,https://developer.xerox.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+CP130,ZTE Corp,CP,REGISTRATION,https://developer.zte.com.cn/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+CP21,Canon Inc,CP,REGISTRATION,https://www.developersupport.canon.com/,Main page: Page load timeout
+CP40,Fujifilm Holdings Corp,CP,REGISTRATION,https://developers.fujifilm.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+CP71,Lenovo Group Ltd,CP,REGISTRATION,https://lenovodev.com/,Main page: Page load timeout
+CP72,LG Corp,CP,REGISTRATION,https://developers.us.lg.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+HO183,HouseTrip SA,HO,REGISTRATION,https://dev.housetrip.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+HO254,NH Hotel Group SA,HO,RESTRICTED,https://docs.getimpala.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+HO370,TUI Group,HO,REGISTRATION,https://developer.tui.com,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+PE110,Logitech International SA,PE,PUBLIC,https://developers.logitech.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+TR11,Air Canada Inc,TR,RESTRICTED,http://www.ac2uaircanada.com,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+TR61,Delta Air Lines Inc,TR,REGISTRATION,https://apiportal.delta.com/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"
+VG73,Halfbrick Studios Pty Ltd,VG,REGISTRATION,https://dev-portal.gaijin.net/,"Main page: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133"

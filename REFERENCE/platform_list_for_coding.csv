@@ -1,0 +1,904 @@
+platform_name,platform_ID,IND,home_country,developer_portal_url,num_host_countries
+Acegame SA,CP2,Computers and Peripherals,Argentina,,1
+Acer Inc,CP3,Computers and Peripherals,Taiwan,,45
+Alphabet Inc,CP5,Computers and Peripherals,United States,,37
+Alza.cz as,CP6,Computers and Peripherals,Czech Republic,,1
+Amazon.com Inc,CP7,Computers and Peripherals,United States,,28
+Apex Technology Co Ltd,CP8,Computers and Peripherals,China,,17
+Apple Inc,CP9,Computers and Peripherals,United States,,47
+Archos SA,CP11,Computers and Peripherals,France,,2
+Asbisc Enterprises Plc,CP13,Computers and Peripherals,Cyprus,,4
+AsusTek Computer Inc,CP14,Computers and Peripherals,Taiwan,,47
+BBK Electronics Corp Ltd,CP17,Computers and Peripherals,China,,41
+BenQ Corp,CP18,Computers and Peripherals,Taiwan,,19
+Blackview International Group,CP19,Computers and Peripherals,China,,2
+Brother Industries Ltd,CP20,Computers and Peripherals,Japan,,33
+CCE da Amazonia SA,CP23,Computers and Peripherals,Brazil,,1
+Canon Inc,CP21,Computers and Peripherals,Japan,,46
+Casper Computer AS,CP22,Computers and Peripherals,Turkey,,1
+Cosmic Technologies Inc,CP26,Computers and Peripherals,Philippines,,1
+DNS OOO,CP34,Computers and Peripherals,Russia,,1
+Dell Technologies Inc,CP29,Computers and Peripherals,United States,,46
+Denver Electronics A/S,CP30,Computers and Peripherals,Denmark,,2
+Dynabook Inc,CP35,Computers and Peripherals,Japan,,2
+Dyname SA,CP36,Computers and Peripherals,Argentina,,1
+Exo SA,CP39,Computers and Peripherals,Argentina,,1
+Fujifilm Holdings Corp,CP40,Computers and Peripherals,Japan,,24
+General Mobile Inc,CP41,Computers and Peripherals,Turkey,,1
+Goclever Sp zoo,CP43,Computers and Peripherals,Poland,,1
+Haier Group,CP45,Computers and Peripherals,China,,9
+Huawei Technologies Co Ltd,CP50,Computers and Peripherals,China,,45
+Intech Surya Abadi PT,CP56,Computers and Peripherals,Indonesia,,1
+Intex Technologies (India) Ltd,CP58,Computers and Peripherals,India,,1
+Karbonn Mobile India Pvt Ltd,CP61,Computers and Peripherals,India,,1
+Komplett AS,CP63,Computers and Peripherals,Norway,,2
+Koninklijke Philips NV,CP66,Computers and Peripherals,Netherlands,,40
+Kyocera Corp,CP67,Computers and Peripherals,Japan,,4
+LG Corp,CP72,Computers and Peripherals,South Korea,,47
+Lava International Ltd,CP69,Computers and Peripherals,India,,1
+Lechpol,CP70,Computers and Peripherals,Poland,,1
+Lenovo Group Ltd,CP71,Computers and Peripherals,China,,46
+MNI SA,CP76,Computers and Peripherals,Poland,,1
+Micro-Star International Co Ltd,CP74,Computers and Peripherals,Taiwan,,18
+Microlab Electronics Co Ltd,CP75,Computers and Peripherals,China,,1
+Multilaser Industrial SA,CP78,Computers and Peripherals,Brazil,,1
+NEC Corp,CP81,Computers and Peripherals,Japan,,2
+Network One Distribution SRL,CP82,Computers and Peripherals,Romania,,1
+New San SA,CP83,Computers and Peripherals,Argentina,,1
+Nippon Klick Corp,CP84,Computers and Peripherals,Japan,,1
+Nokia Corp,CP85,Computers and Peripherals,Finland,,39
+OKI Electric Industry Co Ltd,CP87,Computers and Peripherals,Japan,,3
+Panasonic Corp,CP89,Computers and Peripherals,Japan,,41
+Pantum International Ltd,CP90,Computers and Peripherals,China,,2
+Piranha Bilisim Teknolojileri Ltd Sti,CP93,Computers and Peripherals,Turkey,,1
+Plaisio Computers SA,CP94,Computers and Peripherals,Greece,,1
+Positivo Tecnologia SA,CP95,Computers and Peripherals,Brazil,,1
+Prism Tech Pvt Ltd,CP96,Computers and Peripherals,India,,2
+Quatrotec Electrónica SL,CP97,Computers and Peripherals,Spain,,1
+Razer Inc,CP98,Computers and Peripherals,Singapore,,2
+Ricoh Co Ltd,CP99,Computers and Peripherals,Japan,,7
+Seiko Epson Corp,CP101,Computers and Peripherals,Japan,,46
+Sencor Europe Sro,CP103,Computers and Peripherals,Czech Republic,,3
+Shenzhen Zhixin New Information Technology Co Ltd,CP106,Computers and Peripherals,China,,16
+Sigma Mobile TOV,CP107,Computers and Peripherals,Ukraine,,1
+Star Telecom Alliance Resources Inc,CP110,Computers and Peripherals,Canada,,1
+TCL Corp,CP112,Computers and Peripherals,China,,42
+TPV Technology Ltd,CP116,Computers and Peripherals,Hong Kong SAR China,,28
+Toshiba Corp,CP115,Computers and Peripherals,Japan,,13
+Transsion Holdings,CP117,Computers and Peripherals,China,,23
+Vaio Corp,CP122,Computers and Peripherals,Japan,,2
+Vestel Elektronik AS,CP123,Computers and Peripherals,Turkey,,1
+ViewSonic Corp,CP124,Computers and Peripherals,United States,,25
+Visual Fan SRL,CP125,Computers and Peripherals,Romania,,2
+Xerox Corp,CP126,Computers and Peripherals,United States,,9
+Xiaomi Corp,CP127,Computers and Peripherals,China,,45
+ZTE Corp,CP130,Computers and Peripherals,China,,21
+iiyama Electric Co Ltd,CP53,Computers and Peripherals,Japan,,2
+Aram Meem LLC,FO2,Consumer Foodservice Online Ordering,United Arab Emirates,,1
+Bolt Technology OÜ,FO4,Consumer Foodservice Online Ordering,Estonia,,7
+Capital A Bhd,FO5,Consumer Foodservice Online Ordering,Malaysia,,9
+Coupang Corp,FO8,Consumer Foodservice Online Ordering,South Korea,,1
+Deliveroo Plc,FO11,Consumer Foodservice Online Ordering,United Kingdom,,8
+Delivery Hero SE,FO12,Consumer Foodservice Online Ordering,Germany,,30
+Demaecan Co Ltd,FO13,Consumer Foodservice Online Ordering,Japan,,1
+Didi Chuxing Technology Co Ltd,FO14,Consumer Foodservice Online Ordering,China,,3
+Domino's Pizza Inc,FO16,Consumer Foodservice Online Ordering,United States,,20
+DoorDash Inc,FO17,Consumer Foodservice Online Ordering,United States,,15
+Easi Australia Pty Ltd,FO18,Consumer Foodservice Online Ordering,Australia,,1
+F&B Investment Holding Srl,FO21,Consumer Foodservice Online Ordering,Romania,,1
+GS Holdings Corp,FO35,Consumer Foodservice Online Ordering,Philippines,,1
+Getir Perakende Lojistik AS,FO29,Consumer Foodservice Online Ordering,Turkey,,1
+GoTo Group,FO30,Consumer Foodservice Online Ordering,Indonesia,,1
+Grab Holdings Inc,FO31,Consumer Foodservice Online Ordering,Singapore,,6
+Jahez International Co for Information & Technology,FO38,Consumer Foodservice Online Ordering,Saudi Arabia,,1
+Jerry's Pizza SRL,FO39,Consumer Foodservice Online Ordering,Romania,,1
+Just Eat Takeaway.com NV,FO41,Consumer Foodservice Online Ordering,Netherlands,,18
+Line Corp,FO42,Consumer Foodservice Online Ordering,Japan,,1
+McDonald's Corp,FO44,Consumer Foodservice Online Ordering,United States,,11
+Meituan Inc,FO45,Consumer Foodservice Online Ordering,China,,2
+Minor International PCL,FO47,Consumer Foodservice Online Ordering,Thailand,,4
+Mrsool Inc,FO48,Consumer Foodservice Online Ordering,Saudi Arabia,,1
+Naspers Ltd,FO49,Consumer Foodservice Online Ordering,South Africa,,3
+Orkla Group,FO52,Consumer Foodservice Online Ordering,Norway,,2
+Papa John's International Inc,FO54,Consumer Foodservice Online Ordering,United States,,4
+Pizza Delivery SRL,FO55,Consumer Foodservice Online Ordering,Romania,,1
+Pizza Fan Delivery SA,FO56,Consumer Foodservice Online Ordering,Greece,,1
+Pizza Venchur OOO,FO58,Consumer Foodservice Online Ordering,Russia,,1
+Rappi Inc,FO60,Consumer Foodservice Online Ordering,Colombia,,6
+Restaurant Brands International Inc,FO61,Consumer Foodservice Online Ordering,Canada,,3
+Smood SA,FO64,Consumer Foodservice Online Ordering,Switzerland,,1
+Sodexo Pass Israel Ltd,FO65,Consumer Foodservice Online Ordering,Israel,,1
+Takeaway.com Group BV,FO71,Consumer Foodservice Online Ordering,Netherlands,,1
+Tasty Bidco SL,FO72,Consumer Foodservice Online Ordering,Spain,,3
+Uber Technologies Inc,FO74,Consumer Foodservice Online Ordering,United States,,21
+Vivartia SA,FO76,Consumer Foodservice Online Ordering,Greece,,1
+Yum! Brands Inc,FO77,Consumer Foodservice Online Ordering,United States,,15
+Zinox Technologies Ltd,FO78,Consumer Foodservice Online Ordering,Nigeria,,1
+Zomato Ltd,FO79,Consumer Foodservice Online Ordering,India,,1
+elmenus Egypt LLC,FO20,Consumer Foodservice Online Ordering,Egypt,,1
+ABN AMRO Bank NV,CC1,Credit Card Transactions,Netherlands,,2
+AEON Group,CC6,Credit Card Transactions,Japan,,4
+ANZ Banking Group Ltd,CC19,Credit Card Transactions,Australia,,1
+Absa Group Ltd,CC2,Credit Card Transactions,South Africa,,1
+Abu Dhabi Commercial Bank,CC3,Credit Card Transactions,United Arab Emirates,,1
+Access Bank Plc,CC5,Credit Card Transactions,Nigeria,,1
+Agos Ducato SpA,CC8,Credit Card Transactions,Italy,,1
+Agricultural Bank of China Ltd,CC9,Credit Card Transactions,China,,1
+Akbank TAS,CC10,Credit Card Transactions,Turkey,,1
+Al Rajhi Banking & Investment Corp,CC11,Credit Card Transactions,Saudi Arabia,,1
+Alfa Group Consortium,CC12,Credit Card Transactions,Russia,,1
+Alpha Bank SA,CC16,Credit Card Transactions,Greece,,2
+American Express Co,CC18,Credit Card Transactions,United States,,17
+Arab National Bank,CC20,Credit Card Transactions,Saudi Arabia,,1
+AttijariWafa Bank,CC23,Credit Card Transactions,Morocco,,1
+"Aval, Grupo",CC25,Credit Card Transactions,Colombia,,1
+Axis Bank Ltd,CC26,Credit Card Transactions,India,,1
+BAWAG PSK AG,CC91,Credit Card Transactions,Austria,,1
+BDO Unibank Inc,CC93,Credit Card Transactions,Philippines,,1
+BMCE,CC95,Credit Card Transactions,Morocco,,1
+BMCI,CC96,Credit Card Transactions,Morocco,,1
+"BNP Paribas, Groupe",CC97,Credit Card Transactions,France,,10
+BOC Credit Card (International) Ltd,CC98,Credit Card Transactions,Hong Kong SAR China,,1
+BPCE SA (Banques Populaires Caisses d'Epargne Groupe),CC99,Credit Card Transactions,France,,1
+Bailican Ltd,CC27,Credit Card Transactions,Ukraine,,1
+BanColombia SA,CC64,Credit Card Transactions,Colombia,,1
+Banca Comerciala Romana SA,CC28,Credit Card Transactions,Romania,,1
+Banca Transilvania Sa,CC30,Credit Card Transactions,Romania,,1
+Banco Bilbao Vizcaya Argentaria SA,CC32,Credit Card Transactions,Spain,,5
+Banco Bradesco SA,CC34,Credit Card Transactions,Brazil,,1
+Banco Colpatria Multibanca Colpatria SA,CC37,Credit Card Transactions,Colombia,,1
+Banco Comercial Português SA,CC40,Credit Card Transactions,Portugal,,2
+Banco Davivienda SA,CC44,Credit Card Transactions,Colombia,,1
+Banco Falabella SA,CC55,Credit Card Transactions,Chile,,1
+Banco Macro BanSud SA,CC59,Credit Card Transactions,Argentina,,1
+Banco Santander SA,CC62,Credit Card Transactions,Spain,,11
+Banco de Chile,CC45,Credit Card Transactions,Chile,,1
+Banco de Crédito Inversiones SA,CC47,Credit Card Transactions,Chile,,1
+Banco de Crédito del Perú,CC46,Credit Card Transactions,Peru,,1
+Banco de Galicia Y Buenos Aires SA,CC48,Credit Card Transactions,Argentina,,1
+Banco de la Nación Argentina,CC50,Credit Card Transactions,Argentina,,1
+Banco de la Provincia de Buenos Aires SA,CC51,Credit Card Transactions,Argentina,,1
+Banco do Brasil SA,CC54,Credit Card Transactions,Brazil,,1
+Bancoppel SA,CC65,Credit Card Transactions,Mexico,,1
+Bangkok Bank PCL,CC66,Credit Card Transactions,Thailand,,1
+Bank Al Jazira,CC67,Credit Card Transactions,Saudi Arabia,,1
+Bank CIMB Niaga Tbk PT,CC70,Credit Card Transactions,Indonesia,,1
+Bank Central Asia Tbk PT,CC69,Credit Card Transactions,Indonesia,,1
+Bank Mandiri (Persero) Tbk PT,CC73,Credit Card Transactions,Indonesia,,1
+Bank Mega Tbk PT,CC74,Credit Card Transactions,Indonesia,,1
+Bank Negara Indonesia (Persero) Tbk PT,CC76,Credit Card Transactions,Indonesia,,1
+Bank Polska Kasa Opieki SA - Pekao SA Group,CC85,Credit Card Transactions,Poland,,1
+Bank for Investment & Development of Vietnam (BIDV),CC72,Credit Card Transactions,Vietnam,,1
+Bank of America Corp,CC77,Credit Card Transactions,United States,,1
+Bank of Ayudhya PCL,CC78,Credit Card Transactions,Thailand,,1
+Bank of China Ltd,CC79,Credit Card Transactions,China,,2
+Bank of Communications Co Ltd,CC80,Credit Card Transactions,China,,1
+Bank of Montreal Financial Group,CC82,Credit Card Transactions,Canada,,1
+"Bank of Nova Scotia, The",CC83,Credit Card Transactions,Canada,,4
+Bank of the Philippine Islands - BPI,CC84,Credit Card Transactions,Philippines,,1
+Bankinter SA,CC88,Credit Card Transactions,Spain,,1
+Barclays Plc,CC90,Credit Card Transactions,United Kingdom,,4
+CAT Administradora de Tarjetas SA,CC112,Credit Card Transactions,Chile,,1
+CIMB Bank Bhd,CC123,Credit Card Transactions,Malaysia,,2
+CITIC Group,CC124,Credit Card Transactions,China,,1
+"Caixa Económica Montepio Geral, Grupo",CC103,Credit Card Transactions,Portugal,,1
+"Caixa Geral de Depósitos, Grupo",CC104,Credit Card Transactions,Portugal,,1
+Caixabank SA,CC105,Credit Card Transactions,Spain,,2
+Canadian Imperial Bank of Commerce (CIBC),CC106,Credit Card Transactions,Canada,,1
+Capital One Financial Corp,CC109,Credit Card Transactions,United States,,3
+Carrefour SA,CC111,Credit Card Transactions,France,,1
+Cathay Financial Holding Co Ltd,CC113,Credit Card Transactions,Taiwan,,1
+Chevron Corp,CC116,Credit Card Transactions,United States,,2
+China Construction Bank Corp,CC117,Credit Card Transactions,China,,1
+China Everbright Bank Co Ltd,CC118,Credit Card Transactions,China,,1
+China Guangfa Bank Co Ltd,CC119,Credit Card Transactions,China,,1
+China Merchants Bank Co Ltd,CC120,Credit Card Transactions,China,,1
+China Minsheng Banking Corp Ltd,CC121,Credit Card Transactions,China,,1
+Chinatrust Financial Holding Co Ltd,CC122,Credit Card Transactions,Taiwan,,1
+Citigroup Inc,CC125,Credit Card Transactions,United States,,15
+Commercial International Bank,CC127,Credit Card Transactions,Egypt,,1
+Commerzbank AG,CC128,Credit Card Transactions,Germany,,2
+Commonwealth Bank of Australia (CBA),CC129,Credit Card Transactions,Australia,,1
+Credit Europe Bank NV,CC133,Credit Card Transactions,Netherlands,,1
+Credit Saison Co Ltd,CC135,Credit Card Transactions,Japan,,1
+"Crédit Agricole, Groupe",CC131,Credit Card Transactions,France,,4
+"Crédit Mutuel, Groupe",CC134,Credit Card Transactions,France,,1
+DBS Bank (Taiwan) Ltd,CC139,Credit Card Transactions,Taiwan,,1
+DBS Group Holdings Ltd,CC141,Credit Card Transactions,Singapore,,2
+DNB ASA,CC148,Credit Card Transactions,Norway,,1
+Danske Bank Group,CC138,Credit Card Transactions,Denmark,,3
+Desjardins Group,CC142,Credit Card Transactions,Canada,,1
+Deutsche Bank AG,CC143,Credit Card Transactions,Germany,,2
+Deutsche Lufthansa AG,CC144,Credit Card Transactions,Germany,,34
+Deutscher Sparkassen- & Giroverband eV (DSGV),CC145,Credit Card Transactions,Germany,,1
+E Sun Financial Holding Co Ltd,CC151,Credit Card Transactions,Taiwan,,1
+EFG Eurobank Ergasias SA,CC154,Credit Card Transactions,Greece,,1
+East West Banking Corp,CC153,Credit Card Transactions,Philippines,,1
+Emirates NBD,CC156,Credit Card Transactions,United Arab Emirates,,2
+EnterCard Group AB,CC157,Credit Card Transactions,Sweden,,2
+Erste Group Bank AG,CC158,Credit Card Transactions,Austria,,3
+FBN Holdings Plc,CC161,Credit Card Transactions,Nigeria,,1
+Fidelity Bank Plc,CC162,Credit Card Transactions,Nigeria,,1
+First Abu Dhabi Bank PJSC,CC164,Credit Card Transactions,United Arab Emirates,,1
+FirstRand Bank Ltd,CC166,Credit Card Transactions,South Africa,,1
+Fubon Financial Holding Co Ltd,CC167,Credit Card Transactions,Taiwan,,2
+Garanti Bankasi AS,CC168,Credit Card Transactions,Turkey,,2
+Groupe BCP,CC169,Credit Card Transactions,Morocco,,1
+Grupo Financiero Banorte SAB de CV,CC170,Credit Card Transactions,Mexico,,1
+Grupo Santander,CC172,Credit Card Transactions,Spain,,1
+Guaranty Trust Bank Plc,CC173,Credit Card Transactions,Nigeria,,1
+HDFC Bank Ltd,CC176,Credit Card Transactions,India,,1
+HSBC Holdings Plc,CC179,Credit Card Transactions,United Kingdom,,15
+Hana Financial Group Inc,CC174,Credit Card Transactions,South Korea,,1
+Hang Seng Bank Ltd,CC175,Credit Card Transactions,Hong Kong SAR China,,1
+Hong Leong Bank Bhd,CC178,Credit Card Transactions,Malaysia,,1
+Hyundai Group,CC182,Credit Card Transactions,South Korea,,1
+ICC CAL Ltd,CC184,Credit Card Transactions,Israel,,1
+ICICI Bank Ltd,CC185,Credit Card Transactions,India,,1
+ING Groep NV,CC189,Credit Card Transactions,Netherlands,,5
+Industrial & Commercial Bank of China Ltd,CC187,Credit Card Transactions,China,,3
+Industrial Bank Co Ltd,CC188,Credit Card Transactions,China,,1
+Intercorp Perú Ltd,CC190,Credit Card Transactions,Peru,,1
+International Card Services BV,CC191,Credit Card Transactions,Netherlands,,1
+Investec Bank Ltd,CC194,Credit Card Transactions,South Africa,,1
+IsraCard Ltd,CC195,Credit Card Transactions,Israel,,1
+Itaú Unibanco Holding SA,CC196,Credit Card Transactions,Brazil,,3
+JCB Co Ltd,CC198,Credit Card Transactions,Japan,,1
+JP Morgan Chase & Co,CC199,Credit Card Transactions,United States,,1
+JSC Bank for Foreign Trade of Vietnam (Vietcombank),CC200,Credit Card Transactions,Vietnam,,1
+Jyske Bank A/S,CC201,Credit Card Transactions,Denmark,,1
+KB Kookmin Card Co Ltd,CC203,Credit Card Transactions,South Korea,,1
+KBC Bank & Insurance Holding Co,CC204,Credit Card Transactions,Belgium,,2
+Kasikorn Bank PCL,CC202,Credit Card Transactions,Thailand,,1
+Krung Thai Bank PCL,CC206,Credit Card Transactions,Thailand,,1
+"La Poste, Groupe",CC207,Credit Card Transactions,France,,1
+LaSer Group,CC209,Credit Card Transactions,France,,1
+Landesbank Berlin Holding AG,CC208,Credit Card Transactions,Germany,,1
+Lloyds Banking Group Plc,CC211,Credit Card Transactions,United Kingdom,,1
+Lotte Group,CC212,Credit Card Transactions,South Korea,,3
+MBH Bank Nyrt,CC216,Credit Card Transactions,Hungary,,1
+MLP AG,CC220,Credit Card Transactions,Germany,,1
+Malayan Banking Bhd,CC213,Credit Card Transactions,Malaysia,,3
+Mashreq Bank,CC215,Credit Card Transactions,United Arab Emirates,,1
+Metropolitan Bank & Trust Co - Metrobank - MBTC,CC217,Credit Card Transactions,Philippines,,1
+Military Commercial Joint Stock Bank,CC218,Credit Card Transactions,Vietnam,,1
+Mitsubishi UFJ Financial Group Inc,CC219,Credit Card Transactions,Japan,,1
+Moneta Money Bank as,CC221,Credit Card Transactions,Czech Republic,,1
+NOBA Bank Group AB,CC233,Credit Card Transactions,Sweden,,1
+NatWest Group Plc,CC229,Credit Card Transactions,United Kingdom,,1
+National Australia Bank Group (NAB),CC223,Credit Card Transactions,Australia,,1
+National Bank of Egypt,CC225,Credit Card Transactions,Egypt,,1
+National Bank of Greece SA,CC226,Credit Card Transactions,Greece,,1
+Nedbank Group Ltd,CC230,Credit Card Transactions,South Africa,,1
+Nexi Payments SpA,CC232,Credit Card Transactions,Italy,,1
+NongHyup Financial Group Inc,CC234,Credit Card Transactions,South Korea,,1
+Nordea Bank Abp,CC235,Credit Card Transactions,Finland,,3
+Novo Banco SA,CC236,Credit Card Transactions,Portugal,,1
+Nu Pagamentos SA,CC237,Credit Card Transactions,Brazil,,2
+OTP Bank NyRt,CC239,Credit Card Transactions,Hungary,,4
+Oversea-Chinese Banking Corp Ltd (OCBC Bank),CC240,Credit Card Transactions,Singapore,,2
+PKO Bank Polski SA,CC246,Credit Card Transactions,Poland,,1
+PPF Group NV,CC248,Credit Card Transactions,Netherlands,,1
+Paybox Bank AG,CC241,Credit Card Transactions,Austria,,1
+Ping An Insurance Co of China Ltd,CC244,Credit Card Transactions,China,,1
+Piraeus Bank SA,CC245,Credit Card Transactions,Greece,,1
+PrivatBank KB AT,CC250,Credit Card Transactions,Ukraine,,1
+Public Bank Bhd,CC252,Credit Card Transactions,Malaysia,,1
+Qatar National Bank SAQ,CC253,Credit Card Transactions,Qatar,,2
+Rabobank Groep NV,CC254,Credit Card Transactions,Netherlands,,1
+Raiffeisen Bank International AG,CC255,Credit Card Transactions,Austria,,1
+Raiffeisen Zentralbank AG,CC256,Credit Card Transactions,Austria,,4
+Ripley Corp SA,CC258,Credit Card Transactions,Chile,,2
+Riyad Bank,CC259,Credit Card Transactions,Saudi Arabia,,1
+Rizal Commercial Banking Corp - RCBC,CC260,Credit Card Transactions,Philippines,,1
+Royal Bank of Canada (RBC),CC261,Credit Card Transactions,Canada,,1
+Russkiy Standart Bank AO,CC262,Credit Card Transactions,Russia,,1
+SBI Cards & Payment Services Ltd,CC268,Credit Card Transactions,India,,1
+Saigon Thuong Tin Commercial JSB,CC264,Credit Card Transactions,Vietnam,,1
+Saudi National Bank SNB,CC266,Credit Card Transactions,Saudi Arabia,,1
+Sberbank PAO,CC267,Credit Card Transactions,Russia,,1
+Security Bank Corp,CC270,Credit Card Transactions,Philippines,,1
+Shanghai Pudong Development Bank Co Ltd,CC274,Credit Card Transactions,China,,1
+Shell Plc,CC275,Credit Card Transactions,United Kingdom,,2
+Shinhan Group,CC277,Credit Card Transactions,South Korea,,1
+Shinhan Vietnam Bank Ltd,CC278,Credit Card Transactions,Vietnam,,1
+"Siam Commercial Bank PCL, The",CC279,Credit Card Transactions,Thailand,,1
+Skandinaviska Enskilda Banken AB,CC281,Credit Card Transactions,Sweden,,3
+Société Générale SA,CC282,Credit Card Transactions,France,,4
+Standard Bank of South Africa,CC285,Credit Card Transactions,South Africa,,1
+Standard Chartered Bank Plc,CC286,Credit Card Transactions,United Kingdom,,5
+Sumitomo Mitsui Financial Group Inc,CC288,Credit Card Transactions,Japan,,1
+Svenska Handelsbanken AB,CC290,Credit Card Transactions,Sweden,,2
+Swedbank AB,CC291,Credit Card Transactions,Sweden,,1
+Sydbank A/S,CC292,Credit Card Transactions,Denmark,,1
+TD Bank Financial Group,CC299,Credit Card Transactions,Canada,,1
+TKS Bank AO,CC303,Credit Card Transactions,Russia,,1
+Taishin Financial Holding Co Ltd,CC294,Credit Card Transactions,Taiwan,,1
+Tarjeta Naranja SA,CC298,Credit Card Transactions,Argentina,,1
+Tien Phong Commercial JSB,CC302,Credit Card Transactions,Vietnam,,1
+Turkiye Cumhuriyeti Ziraat Bankasi AS,CC308,Credit Card Transactions,Turkey,,1
+Turkiye Halk Bankasi AS,CC309,Credit Card Transactions,Turkey,,1
+Turkiye Is Bankasi AS (Isbank),CC310,Credit Card Transactions,Turkey,,1
+Turkiye Vakiflar Bankasi TAO,CC311,Credit Card Transactions,Turkey,,1
+Tuya SA,CC312,Credit Card Transactions,Colombia,,1
+UniCredit Group,CC314,Credit Card Transactions,Italy,,5
+Union Bank of the Philippines Inc,CC316,Credit Card Transactions,Philippines,,1
+United Overseas Bank Ltd,CC319,Credit Card Transactions,Singapore,,3
+Universo IME SA,CC320,Credit Card Transactions,Spain,,1
+VTB Bank PAO,CC335,Credit Card Transactions,Russia,,1
+Vietnam International Commercial JSB,CC328,Credit Card Transactions,Vietnam,,1
+Vietnam JSC Bank for Industry & Trade (Vietinbank),CC329,Credit Card Transactions,Vietnam,,1
+Vietnam Prosperity Commercial JCB,CC331,Credit Card Transactions,Vietnam,,1
+Vietnam Technological & Commercial Bank,CC332,Credit Card Transactions,Vietnam,,1
+Virgin Group Ltd,CC333,Credit Card Transactions,United Kingdom,,3
+Värde Partners Inc,CC325,Credit Card Transactions,United States,,2
+Warburg Pincus Financial Holdings (Israel) Ltd,CC337,Credit Card Transactions,Israel,,1
+Westpac Banking Corp,CC339,Credit Card Transactions,Australia,,1
+Woori Finance Holdings Co Ltd,CC341,Credit Card Transactions,South Korea,,1
+Yapi ve Kredi Bankasi AS,CC342,Credit Card Transactions,Turkey,,1
+Zenith Bank UK Ltd,CC344,Credit Card Transactions,Nigeria,,1
+AROBS Transilvania Software SRL,CA6,In-Car Entertainment,Romania,,1
+Akai Electric Co Ltd,CA1,In-Car Entertainment,Japan,,3
+Alemar Argentina SA,CA2,In-Car Entertainment,Argentina,,1
+Alps Alpine Co Ltd,CA3,In-Car Entertainment,Japan,,40
+Aquarius Brasil Indústria e Comércio Ltda,CA4,In-Car Entertainment,Brazil,,1
+Audio Mobile Americas SA,CA7,In-Car Entertainment,Argentina,,1
+Avtolock TOV,CA10,In-Car Entertainment,Ukraine,,1
+Better Corp,CA12,In-Car Entertainment,Taiwan,,1
+Boss Audio Systems Inc,CA13,In-Car Entertainment,United States,,2
+CE Info Systems Ltd,CA16,In-Car Entertainment,India,,1
+Carnavi Corp,CA15,In-Car Entertainment,South Korea,,1
+Chal-Tec GmbH,CA17,In-Car Entertainment,Germany,,3
+Coagent Group,CA19,In-Car Entertainment,Taiwan,,2
+Delco Elektronik Pazarlama San Tic AS,CA20,In-Car Entertainment,Turkey,,1
+Denso Corp,CA21,In-Car Entertainment,Japan,,2
+Don 20 SRL,CA22,In-Car Entertainment,Romania,,1
+E-Lead Electronic Co Ltd,CA23,In-Car Entertainment,Taiwan,,1
+ETI Sound Systems Inc,CA26,In-Car Entertainment,United States,,1
+Elettromedia Srl,CA25,In-Car Entertainment,Italy,,9
+Faurecia SA,CA27,In-Car Entertainment,France,,9
+Fine Digital Corp,CA29,In-Car Entertainment,South Korea,,1
+Flyaudio Corp,CA30,In-Car Entertainment,China,,1
+Focal-JMlab SAS,CA31,In-Car Entertainment,France,,4
+Funai Electric Co Ltd,CA32,In-Car Entertainment,Japan,,2
+Huizhou Foryou General Electronics Co Ltd,CA42,In-Car Entertainment,China,,1
+Hyundai Corp,CA43,In-Car Entertainment,South Korea,,5
+JL Audio Inc,CA47,In-Car Entertainment,United States,,2
+Kovan International Co Ltd,CA48,In-Car Entertainment,Taiwan,,1
+Maction Technologies Inc,CA50,In-Car Entertainment,Taiwan,,2
+Maestro Badenia Akustik & Elektronik GmbH,CA51,In-Car Entertainment,Germany,,1
+Maka Technologies Group,CA52,In-Car Entertainment,China,,1
+Marvel Autor SRL,CA54,In-Car Entertainment,Romania,,1
+MiTAC International Corp,CA59,In-Car Entertainment,Taiwan,,16
+Mitek Corp,CA60,In-Car Entertainment,Japan,,5
+Movilson SRL,CA61,In-Car Entertainment,Argentina,,1
+Mystery Electronics Ltd,CA62,In-Car Entertainment,Russia,,2
+Navitel Poland Sp zoo,CA63,In-Car Entertainment,Poland,,2
+PST Eletrônica SA,CA73,In-Car Entertainment,Brazil,,1
+Panasonic Automotive Systems Co Ltd,CA68,In-Car Entertainment,Japan,,7
+Pioneer Corp,CA70,In-Car Entertainment,Japan,,46
+Premier Elektronik Paz Dag San ve Tic AS,CA72,In-Car Entertainment,Turkey,,1
+Roadstar Group,CA75,In-Car Entertainment,Germany,,5
+Rockford Corp,CA76,In-Car Entertainment,United States,,3
+Sansui Electric Co Ltd,CA78,In-Car Entertainment,Japan,,2
+Saturn Hi-Tech Group AG,CA79,In-Car Entertainment,Germany,,2
+Sound United LLC,CA81,In-Car Entertainment,United States,,10
+Stillwater Designs Inc,CA82,In-Car Entertainment,United States,,1
+Supra Technologies Ltd,CA83,In-Car Entertainment,Russia,,1
+Symphony Inc,CA84,In-Car Entertainment,Egypt,,1
+Thinkware Co Ltd,CA86,In-Car Entertainment,South Korea,,1
+Thomas K L Indústria de Alto Falantes Ltda,CA87,In-Car Entertainment,Brazil,,2
+Tuning 86 Bistrita Srl,CA89,In-Car Entertainment,Romania,,1
+Voxx International Corp,CA91,In-Car Entertainment,United States,,6
+Winterpine Marketing Corp,CA93,In-Car Entertainment,Philippines,,1
+Amiral OOO,IH1,In-Home Consumer Electronics,Russia,,2
+Atmaca Elektronik San ve Tic Ltd Sti,IH3,In-Home Consumer Electronics,Turkey,,1
+Beko Corp,IH5,In-Home Consumer Electronics,Turkey,,5
+Cencosud SA,IH11,In-Home Consumer Electronics,Chile,,2
+Challenger SAS,IH13,In-Home Consumer Electronics,Colombia,,1
+Colombiana de Comercio SA,IH14,In-Home Consumer Electronics,Colombia,,1
+El Araby Group,IH22,In-Home Consumer Electronics,Egypt,,1
+Falabella SACI,IH25,In-Home Consumer Electronics,Chile,,2
+Hartono Istana Teknologi PT,IH29,In-Home Consumer Electronics,Indonesia,,1
+Heran Co Ltd,IH30,In-Home Consumer Electronics,Taiwan,,1
+Nexgen Mediatech Inc,IH48,In-Home Consumer Electronics,Taiwan,,1
+Sampo Corp,IH53,In-Home Consumer Electronics,Taiwan,,1
+Shenzhen MTC Co Ltd,IH55,In-Home Consumer Electronics,China,,2
+Shenzhen Skyworth-RGB Electronic Co Ltd,IH56,In-Home Consumer Electronics,China,,1
+Sichuan Changhong Electric Co Ltd,IH58,In-Home Consumer Electronics,China,,4
+SkyTec Group Ltd,IH61,In-Home Consumer Electronics,Netherlands,,4
+Skyworth Group Co Ltd,IH62,In-Home Consumer Electronics,China,,10
+Unionaire Group,IH72,In-Home Consumer Electronics,Egypt,,1
+Vestel Ticaret AS,IH73,In-Home Consumer Electronics,Turkey,,1
+Vityaz OAO,IH75,In-Home Consumer Electronics,Belarus,,1
+Vizio Inc,IH76,In-Home Consumer Electronics,United States,,2
+Yamaha Corp,IH80,In-Home Consumer Electronics,Japan,,16
+ANA Group,HO20,Lodging (Destination),Japan,,5
+AccorHotels Group,HO2,Lodging (Destination),France,,51
+Acorn International Hotels Corp,HO3,Lodging (Destination),Philippines,,1
+Airbnb Inc,HO5,Lodging (Destination),United States,,53
+Albena AD,HO8,Lodging (Destination),Bulgaria,,1
+Aman Resorts International,HO16,Lodging (Destination),Singapore,,2
+Apple Leisure Group,HO24,Lodging (Destination),United States,,1
+Arp-Hansen Hotel Group,HO28,Lodging (Destination),Denmark,,1
+Atlas Group Hotles Ltd,HO34,Lodging (Destination),Croatia,,2
+B&B Hotels SAS,HO40,Lodging (Destination),France,,4
+Banyan Tree Holdings Ltd,HO44,Lodging (Destination),Singapore,,5
+"Barceló, Grupo",HO45,Lodging (Destination),Spain,,5
+Best Western International Inc,HO52,Lodging (Destination),United States,,25
+Booking Holdings Inc,HO56,Lodging (Destination),United States,,29
+China Lodging Group Ltd,HO68,Lodging (Destination),China,,1
+China National Travel Service (HK) Group Corp,HO69,Lodging (Destination),China,,2
+Choice Hotels International Inc,HO70,Lodging (Destination),United States,,15
+City Lodge Hotels Ltd,HO72,Lodging (Destination),South Africa,,1
+Club Méditerranée SA,HO75,Lodging (Destination),France,,2
+Dalata Hotel Group Plc,HO82,Lodging (Destination),Ireland,,1
+Dan Hotels Corp,HO83,Lodging (Destination),Israel,,1
+Danubius Hotels Zrt,HO84,Lodging (Destination),Hungary,,3
+De Historiske Hotel & Spisesteder SA,HO86,Lodging (Destination),Norway,,1
+Diego de Almagro,HO89,Lodging (Destination),Chile,,1
+Dusit Hotels & Resorts LLC,HO97,Lodging (Destination),Thailand,,3
+EIH Ltd,HO99,Lodging (Destination),India,,2
+"Erawan Group Plc, The",HO106,Lodging (Destination),Thailand,,2
+Event Hospitality & Entertainment Ltd,HO109,Lodging (Destination),Australia,,2
+Evergreen Group,HO110,Lodging (Destination),Taiwan,,1
+Expedia Group Inc,HO111,Lodging (Destination),United States,,36
+Falkensteiner Michaeler Tourism Group AG,HO112,Lodging (Destination),Austria,,3
+Fattal Hotel Management Ltd,HO113,Lodging (Destination),Israel,,3
+First Hotels AS,HO120,Lodging (Destination),Norway,,3
+Four Seasons Hotels Ltd,HO124,Lodging (Destination),Canada,,28
+G6 Hospitality LLC,HO130,Lodging (Destination),United States,,2
+Genting Bhd,HO132,Lodging (Destination),Malaysia,,1
+Great Eagle Holdings Ltd,HO144,Lodging (Destination),Hong Kong SAR China,,3
+Hilton Worldwide Holdings Inc,HO165,Lodging (Destination),United States,,41
+Hong Kong & Shanghai Hotels Ltd,HO168,Lodging (Destination),Hong Kong SAR China,,3
+Hoteles Dann,HO177,Lodging (Destination),Colombia,,2
+HouseTrip SA,HO183,Lodging (Destination),Switzerland,,2
+Hutchison Whampoa Ltd,HO190,Lodging (Destination),Hong Kong SAR China,,1
+Hyatt Hotels Corp,HO191,Lodging (Destination),United States,,30
+"Iberostar SA, Grupo",HO192,Lodging (Destination),Spain,,2
+Indian Hotels Co Ltd,HO195,Lodging (Destination),India,,4
+InterContinental Hotels Group Plc,HO197,Lodging (Destination),United Kingdom,,50
+Jin Jiang International Co Ltd,HO205,Lodging (Destination),China,,26
+Kempinski AG,HO211,Lodging (Destination),Germany,,14
+LVMH Moët Hennessy Louis Vuitton SA,HO227,Lodging (Destination),France,,5
+Las Vegas Sands Corp,HO218,Lodging (Destination),United States,,1
+"Leading Hotels of the World Ltd, The",HO220,Lodging (Destination),United States,,2
+Mandarin Oriental Hotel Group Ltd,HO230,Lodging (Destination),Hong Kong SAR China,,13
+Marriott International Inc,HO233,Lodging (Destination),United States,,53
+Masan Group Corp,HO235,Lodging (Destination),Vietnam,,1
+Meliá Hotels International SA,HO238,Lodging (Destination),Spain,,15
+Millennium & Copthorne Hotels Plc,HO242,Lodging (Destination),United Kingdom,,4
+Muong Thanh Group,HO250,Lodging (Destination),Vietnam,,1
+NH Hotel Group SA,HO254,Lodging (Destination),Spain,,11
+New World Development Ltd,HO252,Lodging (Destination),Hong Kong SAR China,,2
+Olav Thon Gruppen,HO256,Lodging (Destination),Norway,,2
+One Hotels & Resorts AG,HO261,Lodging (Destination),Switzerland,,2
+Pickalbatros Group,HO279,Lodging (Destination),Egypt,,1
+Red Sea Hotels Group,HO294,Lodging (Destination),Egypt,,1
+Regal Hotels International Holdings Ltd,HO295,Lodging (Destination),Hong Kong SAR China,,1
+Riu Hoteles SA,HO299,Lodging (Destination),Spain,,4
+Rocco Forte & Family (Hotel Management) Ltd,HO302,Lodging (Destination),United Kingdom,,2
+Rosewood Hotels & Resorts LLC,HO304,Lodging (Destination),Hong Kong SAR China,,3
+Rotana Hotels Management Corp PJSC,HO305,Lodging (Destination),United Arab Emirates,,4
+S Group,HO307,Lodging (Destination),Finland,,1
+Sarova Hotels Ltd,HO312,Lodging (Destination),Kenya,,1
+Scandic Hotels AB,HO314,Lodging (Destination),Sweden,,6
+Shangri-La International Hotel Management Ltd,HO318,Lodging (Destination),Hong Kong SAR China,,16
+Southern Sun Ltd,HO326,Lodging (Destination),South Africa,,1
+Stichting Toekan BV,HO329,Lodging (Destination),Netherlands,,2
+Sunrise Resorts & Cruises SA,HO335,Lodging (Destination),Egypt,,1
+TUI Group,HO370,Lodging (Destination),Germany,,14
+Travco Group Holding SAE,HO363,Lodging (Destination),Egypt,,3
+TripAdvisor Inc,HO368,Lodging (Destination),United States,,4
+Valamar Hotels & Resorts,HO376,Lodging (Destination),Croatia,,1
+"Wharf (Holdings) Ltd, The",HO384,Lodging (Destination),Hong Kong SAR China,,2
+Whitbread Plc,HO385,Lodging (Destination),United Kingdom,,1
+Wyndham Hotels & Resorts Inc,HO389,Lodging (Destination),United States,,27
+1More Inc,PE1,Portable Consumer Electronics,China,,2
+AVenture AT,PE21,Portable Consumer Electronics,Austria,,1
+Alibaba Group Holding Ltd,PE8,Portable Consumer Electronics,China,,2
+AliphCom Inc,PE9,Portable Consumer Electronics,United States,,2
+Anker Innovations Technology Co Ltd,PE11,Portable Consumer Electronics,China,,45
+Arashi Vision Co Ltd,PE12,Portable Consumer Electronics,China,,2
+Audio Partnership Plc,PE17,Portable Consumer Electronics,United Kingdom,,2
+Audio Pro AB,PE18,Portable Consumer Electronics,Sweden,,3
+Audio Technica Corp,PE19,Portable Consumer Electronics,Japan,,2
+Bang & Olufsen A/S,PE24,Portable Consumer Electronics,Denmark,,6
+Blaupunkt Group,PE29,Portable Consumer Electronics,Germany,,18
+Bose Corp,PE33,Portable Consumer Electronics,United States,,42
+Caliber Europe BV,PE35,Portable Consumer Electronics,Netherlands,,1
+Casio Computer Co Ltd,PE36,Portable Consumer Electronics,Japan,,2
+Commaxx International NV,PE40,Portable Consumer Electronics,Netherlands,,4
+Cowon Systems Inc,PE43,Portable Consumer Electronics,South Korea,,2
+Creative Technology Ltd,PE44,Portable Consumer Electronics,Singapore,,5
+DORO AB,PE50,Portable Consumer Electronics,Sweden,,6
+Devialet SA,PE45,Portable Consumer Electronics,France,,3
+Divoom Europe GmbH,PE47,Portable Consumer Electronics,China,,2
+Dongguan Liesheng Electronic Technology Co Ltd,PE49,Portable Consumer Electronics,China,,4
+E-Boda Distribution SRL,PE51,Portable Consumer Electronics,Romania,,1
+Edifier International Ltd,PE52,Portable Consumer Electronics,China,,4
+Electrolux AB,PE54,Portable Consumer Electronics,Sweden,,4
+Emporia Telecom GmbH & Co KG,PE57,Portable Consumer Electronics,Austria,,3
+Energy Sistem Technology SA,PE58,Portable Consumer Electronics,Spain,,4
+Explay ZAO,PE61,Portable Consumer Electronics,Russia,,1
+Fossil Group Inc,PE65,Portable Consumer Electronics,United States,,20
+GN Store Nord A/S,PE71,Portable Consumer Electronics,Denmark,,12
+GP Acoustics GmbH,PE74,Portable Consumer Electronics,United Kingdom,,1
+Garmin Ltd,PE67,Portable Consumer Electronics,Switzerland,,45
+Gionee Communication Equipment Co Ltd,PE69,Portable Consumer Electronics,China,,2
+GoPro Inc,PE72,Portable Consumer Electronics,United States,,22
+HIFI Orient Thai PCL,PE79,Portable Consumer Electronics,Thailand,,1
+Hisense Group,PE80,Portable Consumer Electronics,China,,42
+Hon Hai Precision Industry Co Ltd,PE83,Portable Consumer Electronics,Taiwan,,28
+Hungaro Flotta Kft,PE85,Portable Consumer Electronics,Hungary,,1
+Imagine Marketing Pvt Ltd,PE87,Portable Consumer Electronics,India,,1
+JVC Kenwood Corp,PE98,Portable Consumer Electronics,Japan,,44
+Japan Industrial Partners Inc,PE95,Portable Consumer Electronics,Japan,,6
+Jlab Audio international,PE97,Portable Consumer Electronics,United States,,2
+Kale Elektronik Dis Tic AS,PE99,Portable Consumer Electronics,Turkey,,1
+Kjell Group AB,PE100,Portable Consumer Electronics,Sweden,,2
+Kodak Alaris Inc,PE101,Portable Consumer Electronics,United States,,3
+Kronoz LLC,PE104,Portable Consumer Electronics,Switzerland,,6
+Lautsprecher Teufel GmbH,PE107,Portable Consumer Electronics,Germany,,1
+Logitech International SA,PE110,Portable Consumer Electronics,Switzerland,,29
+Manta SA,PE111,Portable Consumer Electronics,Poland,,1
+Marshall Amplification Plc,PE113,Portable Consumer Electronics,United Kingdom,,6
+Meizu Telecom Equipment Co Ltd,PE117,Portable Consumer Electronics,China,,3
+Micromax Informatics Ltd,PE120,Portable Consumer Electronics,India,,1
+New Majestic SpA,PE130,Portable Consumer Electronics,Italy,,1
+Nikon Corp,PE131,Portable Consumer Electronics,Japan,,39
+Noise Retail Private Ltd,PE132,Portable Consumer Electronics,India,,1
+Nothing Technology Ltd,PE134,Portable Consumer Electronics,United Kingdom,,2
+Onkyo Corp,PE138,Portable Consumer Electronics,Japan,,30
+Onyx International Inc,PE139,Portable Consumer Electronics,China,,4
+Orion Electric Co Ltd,PE140,Portable Consumer Electronics,Japan,,2
+PLR Ecommerce LLC,PE143,Portable Consumer Electronics,United States,,3
+PocketBook International SA,PE144,Portable Consumer Electronics,Switzerland,,10
+Polar Electro Oy,PE145,Portable Consumer Electronics,Finland,,22
+Rakuten Group Inc,PE153,Portable Consumer Electronics,Japan,,10
+Rakuten Kobo Inc,PE154,Portable Consumer Electronics,Canada,,3
+SPC Group,PE181,Portable Consumer Electronics,Spain,,2
+SVEN Scandinavia Ltd,PE186,Portable Consumer Electronics,Russia,,2
+SZ DJI Technology Co Ltd,PE187,Portable Consumer Electronics,China,,4
+Salora International BV,PE159,Portable Consumer Electronics,Netherlands,,1
+Sennheiser Electronic GmbH & Co KG,PE162,Portable Consumer Electronics,Germany,,12
+Shokz LLC,PE170,Portable Consumer Electronics,United States,,6
+Sitecom Europe BV,PE171,Portable Consumer Electronics,Netherlands,,2
+Skullcandy Inc,PE174,Portable Consumer Electronics,United States,,9
+Sonos Inc,PE179,Portable Consumer Electronics,United States,,21
+Soul Ltd,PE180,Portable Consumer Electronics,China,,2
+Telefunken Licenses GmbH,PE193,Portable Consumer Electronics,Germany,,9
+Tinno Mobile Technology Corp,PE195,Portable Consumer Electronics,China,,6
+TomTom International BV,PE197,Portable Consumer Electronics,Netherlands,,31
+Trust International BV,PE201,Portable Consumer Electronics,Netherlands,,4
+Tura Group AB,PE203,Portable Consumer Electronics,Sweden,,3
+U Watch (HK) Co Ltd,PE204,Portable Consumer Electronics,Hong Kong SAR China,,2
+Unibell Argentina SA,PE205,Portable Consumer Electronics,Argentina,,1
+Urbanista AB,PE206,Portable Consumer Electronics,Sweden,,4
+Western Digital Corp,PE210,Portable Consumer Electronics,United States,,5
+Withings SA,PE212,Portable Consumer Electronics,France,,4
+XPLORA Mobile AS,PE215,Portable Consumer Electronics,Norway,,3
+Yandex NV,PE216,Portable Consumer Electronics,Russia,,1
+Zepp Health Corp,PE219,Portable Consumer Electronics,China,,12
+Zound Industries International AB,PE221,Portable Consumer Electronics,Sweden,,3
+4M Industrial Development Ltd,TG1,Traditional Toys and Games,Hong Kong SAR China,,10
+999 Games BV,TG2,Traditional Toys and Games,Netherlands,,2
+Alpha Group,TG10,Traditional Toys and Games,China,,3
+Amigo Spiel + Freizeit Gmbh,TG14,Traditional Toys and Games,Germany,,3
+Artsana Gruppo,TG23,Traditional Toys and Games,Italy,,17
+Aurora World Corp,TG24,Traditional Toys and Games,South Korea,,3
+BRUDER Spielwaren GmbH + Co KG,TG49,Traditional Toys and Games,Germany,,5
+BanBao Co Ltd,TG27,Traditional Toys and Games,China,,2
+Beijing PopMart Culture Creative Co Ltd,TG28,Traditional Toys and Games,China,,6
+Bestway Inflatables & Material Corp,TG35,Traditional Toys and Games,China,,5
+Biemme SpA,TG38,Traditional Toys and Games,Italy,,2
+Bojeux,TG42,Traditional Toys and Games,Canada,,2
+Build-A-Bear Workshop Inc,TG51,Traditional Toys and Games,United States,,2
+Bullyland GmbH,TG53,Traditional Toys and Games,Germany,,2
+Bushiroad Inc,TG56,Traditional Toys and Games,Japan,,2
+Castor Drukarnia i Wydawnictwo Sp j,TG68,Traditional Toys and Games,Poland,,2
+Cepia LLC,TG74,Traditional Toys and Games,United States,,5
+Clementoni SpA,TG86,Traditional Toys and Games,Italy,,14
+Cobi SA,TG87,Traditional Toys and Games,Poland,,2
+Diset SA,TG112,Traditional Toys and Games,Spain,,2
+Djeco SAS,TG114,Traditional Toys and Games,France,,2
+Dolu Oyuncak San ve Tic AS,TG115,Traditional Toys and Games,Turkey,,2
+Donerland Co Ltd,TG116,Traditional Toys and Games,South Korea,,2
+"Dream Makers, Group of Cos",TG119,Traditional Toys and Games,Belarus,,2
+DreamWorks Animation SKG Inc,TG120,Traditional Toys and Games,United States,,3
+Edu-Science (HK) Ltd,TG127,Traditional Toys and Games,Hong Kong SAR China,,7
+Embracer Group AB,TG134,Traditional Toys and Games,Sweden,,8
+Epoch Co Ltd,TG138,Traditional Toys and Games,Japan,,16
+Faber-Castell AG,TG140,Traditional Toys and Games,Germany,,2
+Franckh-Kosmos Verlags-GmbH & CO KG,TG154,Traditional Toys and Games,Germany,,4
+Funko LLC,TG158,Traditional Toys and Games,United States,,13
+Funtime Toys Co Ltd,TG159,Traditional Toys and Games,Hong Kong SAR China,,2
+Funville Ltd,TG160,Traditional Toys and Games,Hong Kong SAR China,,3
+Genius Toy Taiwan Co Ltd,TG163,Traditional Toys and Games,Taiwan,,2
+Geobra Brandstätter GmbH & Co KG,TG164,Traditional Toys and Games,Germany,,26
+Giochi Preziosi SpA,TG166,Traditional Toys and Games,Italy,,13
+Goliath BV,TG170,Traditional Toys and Games,Netherlands,,4
+Good Time Holding GmbH,TG174,Traditional Toys and Games,Germany,,2
+Granna Sp zoo,TG179,Traditional Toys and Games,Poland,,2
+Grow'n Up Ltd,TG183,Traditional Toys and Games,Hong Kong SAR China,,2
+Guangdong Alpha Animation & Culture Co Ltd,TG187,Traditional Toys and Games,China,,4
+Guangdong Huile Toys Industrial Co Ltd,TG189,Traditional Toys and Games,China,,2
+Guangdong Loongon Animation & Culture Co Ltd,TG190,Traditional Toys and Games,China,,2
+Guangdong Qman Toys Industry Co Ltd,TG191,Traditional Toys and Games,China,,2
+HTI Group,TG225,Traditional Toys and Games,United Kingdom,,3
+Habermaass GmbH,TG199,Traditional Toys and Games,Germany,,5
+Hallmark Cards Inc,TG202,Traditional Toys and Games,United States,,26
+Hape Holding AG,TG207,Traditional Toys and Games,Germany,,2
+Hasbro Inc,TG210,Traditional Toys and Games,United States,,32
+Heinz Kettler GmbH & Co KG,TG214,Traditional Toys and Games,Germany,,2
+Henes Co Ltd,TG216,Traditional Toys and Games,South Korea,,2
+Hornby Plc,TG223,Traditional Toys and Games,United Kingdom,,3
+Hot Toys Ltd,TG224,Traditional Toys and Games,Hong Kong SAR China,,2
+Hudora GmbH,TG228,Traditional Toys and Games,Germany,,2
+IMC Toys SA,TG237,Traditional Toys and Games,Spain,,5
+Industrial Juguetera SA,TG240,Traditional Toys and Games,Spain,,2
+Intex Recreation Corp,TG246,Traditional Toys and Games,United States,,4
+JAKKS Pacific Inc,TG248,Traditional Toys and Games,United States,,9
+James Galt & Co Ltd,TG249,Traditional Toys and Games,United Kingdom,,3
+Jazwares Inc,TG251,Traditional Toys and Games,United States,,2
+Jazwares LLC,TG252,Traditional Toys and Games,United States,,7
+Jellycat Toy Co Ltd,TG255,Traditional Toys and Games,United Kingdom,,2
+John GmbH,TG260,Traditional Toys and Games,Germany,,2
+Jouets Ecoiffier SAS,TG263,Traditional Toys and Games,France,,3
+Jovi SA,TG264,Traditional Toys and Games,Spain,,2
+Jumbo Spiele GmbH,TG273,Traditional Toys and Games,Germany,,2
+K'NEX Industries Ltd,TG277,Traditional Toys and Games,United States,,6
+K's Kids Inc,TG278,Traditional Toys and Games,Hong Kong SAR China,,2
+Kawada Co Ltd,TG282,Traditional Toys and Games,Japan,,2
+Kayou (Shanghai) Cultural Creativity Co Ltd,TG283,Traditional Toys and Games,China,,1
+Kiddieland Toys Ltd,TG290,Traditional Toys and Games,Hong Kong SAR China,,8
+Kids II Inc,TG293,Traditional Toys and Games,United States,,3
+Kinlea Holdings Pty Ltd,TG295,Traditional Toys and Games,Australia,,3
+La nuova Faro Srl,TG307,Traditional Toys and Games,Italy,,2
+LaRose Industries LLC,TG310,Traditional Toys and Games,United States,,3
+Libellud,TG317,Traditional Toys and Games,France,,2
+Liscianigiochi Spa,TG320,Traditional Toys and Games,Italy,,2
+MGA Entertainment Inc,TG351,Traditional Toys and Games,United States,,29
+Magarete Steiff GmbH,TG326,Traditional Toys and Games,Germany,,3
+Magic Box Int Toys SLU,TG328,Traditional Toys and Games,Spain,,2
+Maison Joseph Battat Ltd,TG331,Traditional Toys and Games,Canada,,2
+Malte Haaning Plastic A/S,TG332,Traditional Toys and Games,Denmark,,3
+Mattel Inc,TG340,Traditional Toys and Games,United States,,32
+May Cheong Group,TG341,Traditional Toys and Games,Hong Kong SAR China,,19
+Mcfarlane Worldwide Inc,TG343,Traditional Toys and Games,United States,,3
+Melissa & Doug LLC,TG349,Traditional Toys and Games,United States,,8
+Mimiworld Co Ltd,TG353,Traditional Toys and Games,South Korea,,2
+Mirae N Co Ltd,TG356,Traditional Toys and Games,South Korea,,4
+Moltó y Cía SA,TG358,Traditional Toys and Games,Spain,,3
+Mondo SpA,TG359,Traditional Toys and Games,Italy,,2
+Mookie Toys Ltd,TG360,Traditional Toys and Games,United Kingdom,,2
+Moose Toys Pty Ltd,TG361,Traditional Toys and Games,Australia,,19
+NICI GmbH,TG378,Traditional Toys and Games,Germany,,5
+National Geographic Society,TG370,Traditional Toys and Games,United States,,3
+New Bright Industrial Co Ltd,TG373,Traditional Toys and Games,Hong Kong SAR China,,5
+Peg Perego Pines SpA,TG396,Traditional Toys and Games,Italy,,5
+People Co Ltd,TG400,Traditional Toys and Games,Japan,,2
+Pilot Ink Co Ltd,TG406,Traditional Toys and Games,Japan,,2
+PlayGo Toys Mfg Ltd,TG412,Traditional Toys and Games,Hong Kong SAR China,,6
+Playgro PTY Ltd,TG413,Traditional Toys and Games,Australia,,5
+Playmates Toys Ltd,TG414,Traditional Toys and Games,Hong Kong SAR China,,18
+Prime Time Toys LLC,TG425,Traditional Toys and Games,United States,,2
+Private Label,TG426,Traditional Toys and Games,United States,,17
+Quercetti & C SpA,TG431,Traditional Toys and Games,Italy,,3
+Radio Flyer Inc,TG433,Traditional Toys and Games,United States,,2
+Rainbow Spa,TG435,Traditional Toys and Games,Italy,,2
+Rainbow Srl,TG436,Traditional Toys and Games,Italy,,3
+Rastar Group,TG438,Traditional Toys and Games,China,,8
+Ravensburger AG,TG439,Traditional Toys and Games,Germany,,16
+Redwood Ventures Ltd LLC,TG446,Traditional Toys and Games,United States,,2
+RenArt,TG449,Traditional Toys and Games,Belgium,,2
+Revell Carrera GmbH,TG450,Traditional Toys and Games,Germany,,12
+Roi Visual Co Ltd,TG452,Traditional Toys and Games,South Korea,,4
+Rovio Entertainment Ltd,TG453,Traditional Toys and Games,Finland,,2
+Rubie's Costume Co Inc,TG455,Traditional Toys and Games,United States,,7
+SES Nederland BV,TG467,Traditional Toys and Games,Netherlands,,4
+Sanrio Co Ltd,TG460,Traditional Toys and Games,Japan,,11
+Schleich GmbH,TG461,Traditional Toys and Games,Germany,,5
+Schmidt Spiele GmbH,TG462,Traditional Toys and Games,Germany,,2
+Science4you SA,TG463,Traditional Toys and Games,Portugal,,2
+Selecta Spielzeug AG,TG465,Traditional Toys and Games,Germany,,2
+Shantou MZ Model Co Ltd,TG476,Traditional Toys and Games,China,,3
+Sieper GmbH,TG478,Traditional Toys and Games,Germany,,4
+Silverlit Toys Manufactory Ltd,TG480,Traditional Toys and Games,Hong Kong SAR China,,14
+Simba-Dickie Group GmbH,TG481,Traditional Toys and Games,Germany,,19
+Simbat Toys OOO,TG483,Traditional Toys and Games,Russia,,2
+Sonokong Co Ltd,TG488,Traditional Toys and Games,South Korea,,1
+"Step 2 Co LLC, The",TG497,Traditional Toys and Games,United States,,9
+Sunman Group,TG502,Traditional Toys and Games,Turkey,,1
+Syma Model Aircraft Industrial Co Ltd,TG505,Traditional Toys and Games,China,,2
+Tamiya Inc,TG508,Traditional Toys and Games,Japan,,5
+Theo Klein GmbH,TG516,Traditional Toys and Games,Germany,,3
+Tiny Love Ltd,TG523,Traditional Toys and Games,Israel,,3
+Tomy Co Ltd,TG527,Traditional Toys and Games,Japan,,26
+Toy State Industrial Ltd,TG531,Traditional Toys and Games,Hong Kong SAR China,,13
+ToyKraft Pvt Ltd,TG533,Traditional Toys and Games,India,,2
+Trefl SA,TG541,Traditional Toys and Games,Poland,,3
+Tru Kids Inc,TG544,Traditional Toys and Games,United States,,2
+Tucker Toys Inc,TG546,Traditional Toys and Games,United States,,2
+Ty Inc,TG548,Traditional Toys and Games,United States,,14
+VTech Holdings Ltd,TG557,Traditional Toys and Games,Hong Kong SAR China,,29
+Vulli SAS,TG558,Traditional Toys and Games,France,,2
+Wader & Wozniak Sp zoo,TG560,Traditional Toys and Games,Poland,,2
+Welly Die Casting Fty Ltd,TG561,Traditional Toys and Games,Hong Kong SAR China,,4
+Wham-O Inc,TG562,Traditional Toys and Games,United States,,2
+Wiener Spielkartenfabrik Ferd Piatnik & Söhne,TG564,Traditional Toys and Games,Austria,,2
+WowWee Group Ltd,TG574,Traditional Toys and Games,Hong Kong SAR China,,4
+XinYu Art Toys Co Ltd,TG576,Traditional Toys and Games,China,,2
+Zapf Creation AG,TG580,Traditional Toys and Games,Germany,,12
+Zuru Inc,TG588,Traditional Toys and Games,New Zealand,,3
+iCom SpA,TG231,Traditional Toys and Games,Chile,,3
+Aegean Airlines SA,TR1,Travel Modes,Greece,,4
+Aeroenlaces Nacionales SA de CV,TR3,Travel Modes,Mexico,,2
+Aeroflot Rossiyskiye Avialinii PAO,TR4,Travel Modes,Russia,,1
+Aerolíneas Argentinas SA,TR5,Travel Modes,Argentina,,1
+Aerovias de Mexico SA de CV,TR7,Travel Modes,Mexico,,3
+Air Arabia PJSC,TR10,Travel Modes,United Arab Emirates,,3
+Air Canada Inc,TR11,Travel Modes,Canada,,3
+Air China Co Ltd,TR12,Travel Modes,China,,3
+Air France-KLM Group SA,TR14,Travel Modes,France,,36
+Air India Ltd,TR15,Travel Modes,India,,2
+Air New Zealand Ltd,TR18,Travel Modes,New Zealand,,3
+Air Philippines Corp,TR21,Travel Modes,Philippines,,1
+Al Tayyar Travel Group Holding Co,TR27,Travel Modes,Saudi Arabia,,2
+Alaska Airlines Inc,TR28,Travel Modes,United States,,2
+American Airlines Group Inc,TR33,Travel Modes,United States,,9
+Anex Tourism Group,TR34,Travel Modes,Turkey,,2
+Arkia Israeli Airlines Ltd,TR36,Travel Modes,Israel,,1
+Asiana Airlines Inc,TR39,Travel Modes,South Korea,,2
+Azul Linhas Aéreas Brasileiras SA,TR41,Travel Modes,Brazil,,1
+Bangkok Airways PCL,TR42,Travel Modes,Thailand,,1
+Bulgarian Airways Group EAD,TR47,Travel Modes,Bulgaria,,1
+Cathay Pacific Airways Ltd,TR48,Travel Modes,Hong Kong SAR China,,20
+Cebu Air Inc,TR49,Travel Modes,Philippines,,1
+Cemair (Pty) Ltd,TR50,Travel Modes,South Africa,,1
+China Airlines Ltd,TR51,Travel Modes,Taiwan,,2
+China Eastern Airlines Corp Ltd,TR52,Travel Modes,China,,3
+China Southern Airlines Co Ltd,TR53,Travel Modes,China,,3
+Compagnia Aerea Italiana SpA,TR56,Travel Modes,Italy,,3
+Condor Flugdienst GmbH,TR57,Travel Modes,Germany,,2
+Copa Holdings SA,TR58,Travel Modes,Panama,,8
+Delta Air Lines Inc,TR61,Travel Modes,United States,,8
+Dubai Aviation Corp,TR62,Travel Modes,United Arab Emirates,,7
+EgyptAir Co,TR68,Travel Modes,Egypt,,3
+El Al Israel Airlines Ltd,TR69,Travel Modes,Israel,,1
+Emirates Group Plc,TR70,Travel Modes,United Arab Emirates,,32
+Enter Air Sp zoo,TR71,Travel Modes,Poland,,1
+Ethiopian Airlines Group,TR72,Travel Modes,Ethiopia,,2
+Etihad Aviation Group,TR73,Travel Modes,United Arab Emirates,,22
+FLC Group,TR76,Travel Modes,Vietnam,,1
+Finnair Oyj,TR75,Travel Modes,Finland,,2
+GOL Linhas Aéreas Inteligentes SA,TR85,Travel Modes,Brazil,,3
+Garuda Indonesia Tbk PT,TR81,Travel Modes,Indonesia,,3
+Globalia Group,TR84,Travel Modes,Spain,,3
+Gulf Air Co LLC,TR87,Travel Modes,Bahrain,,2
+HiSky Europe SRL,TR92,Travel Modes,Romania,,1
+Hong Kong Airlines Ltd,TR95,Travel Modes,Hong Kong SAR China,,1
+InterGlobe Enterprises Pvt Ltd,TR99,Travel Modes,India,,2
+International Consolidated Airlines Group SA,TR100,Travel Modes,Spain,,27
+Israir Airlines & Tourism Ltd,TR102,Travel Modes,Israel,,1
+Italia Trasporto Aereo SpA,TR103,Travel Modes,Italy,,6
+Japan Airlines Co Ltd,TR104,Travel Modes,Japan,,4
+Jet2 Plc,TR106,Travel Modes,United Kingdom,,3
+JetBlue Airways Corp,TR107,Travel Modes,United States,,4
+JetSMART Airlines SpA,TR109,Travel Modes,Chile,,5
+Jetstar Asia Airways Pte Ltd,TR110,Travel Modes,Singapore,,2
+Jin Air Co Ltd,TR113,Travel Modes,South Korea,,2
+Kenya Airways Ltd,TR115,Travel Modes,Kenya,,1
+Korean Air Lines Co Ltd,TR116,Travel Modes,South Korea,,2
+LATAM Airlines Group SA,TR117,Travel Modes,Chile,,7
+Lion Air Group,TR118,Travel Modes,Indonesia,,4
+Malaysia Airlines Berhad,TR119,Travel Modes,Malaysia,,3
+National Air Services (NAS),TR121,Travel Modes,Saudi Arabia,,2
+Nok Airlines PCL,TR125,Travel Modes,Thailand,,1
+Norwegian Air Shuttle ASA,TR127,Travel Modes,Norway,,11
+Pegasus Hava Tasimaciligi AS,TR130,Travel Modes,Turkey,,4
+Philippine Airlines Inc,TR131,Travel Modes,Philippines,,2
+Polskie Linie Lotnicze LOT SA (PPL LOT SA),TR132,Travel Modes,Poland,,4
+Qantas Airways Ltd,TR135,Travel Modes,Australia,,3
+Qatar Airways Group Plc,TR136,Travel Modes,Qatar,,22
+Royal Air Maroc SA,TR141,Travel Modes,Morocco,,2
+Ryanair Holdings Plc,TR142,Travel Modes,Ireland,,24
+S7 Group ZAO,TR143,Travel Modes,Russia,,1
+SAS Group,TR146,Travel Modes,Sweden,,12
+"SATA SGPS, Grupo",TR147,Travel Modes,Portugal,,1
+Safair Operations (Pty) Ltd,TR144,Travel Modes,South Africa,,1
+Saudi Arabian Airlines Corp,TR149,Travel Modes,Saudi Arabia,,4
+Singapore Airlines Ltd (SIA),TR152,Travel Modes,Singapore,,22
+Sky Airline SA,TR153,Travel Modes,Chile,,3
+Sky Express,TR154,Travel Modes,Greece,,1
+Smartwings as,TR159,Travel Modes,Czech Republic,,5
+South African Airlink Ltd,TR160,Travel Modes,South Africa,,1
+South African Airways (PTY) Ltd,TR161,Travel Modes,South Africa,,1
+Southwest Airlines Co,TR162,Travel Modes,United States,,2
+Spirit Airlines Inc,TR164,Travel Modes,United States,,3
+Starlux Airlines Co Ltd,TR169,Travel Modes,Taiwan,,1
+SunExpress AS,TR172,Travel Modes,Turkey,,2
+Sunclass Airlines A/S,TR171,Travel Modes,Denmark,,3
+Synergy Group,TR173,Travel Modes,Colombia,,5
+"TAP SGPS SA, Grupo",TR174,Travel Modes,Portugal,,3
+Tarom SA Cia Nationala de Transporturi Aeriene Romane,TR175,Travel Modes,Romania,,1
+Thai Airways International PCL,TR177,Travel Modes,Thailand,,7
+Turkish Airlines AS,TR179,Travel Modes,Turkey,,18
+United Continental Holdings Inc,TR181,Travel Modes,United States,,11
+VietJet Aviation JSC,TR184,Travel Modes,Vietnam,,3
+Vietnam Airlines Co Ltd,TR185,Travel Modes,Vietnam,,1
+Volotea SA,TR186,Travel Modes,Spain,,5
+Vuela Cía de Aviación,TR187,Travel Modes,Mexico,,3
+WestJet Airlines Ltd,TR190,Travel Modes,Canada,,1
+Wizz Air Hungary Ltd,TR191,Travel Modes,Hungary,,18
+easyJet plc,TR67,Travel Modes,United Kingdom,,20
+Ankama SARL,VG3,Video Game software,France,,4
+ArenaNet LLC,VG5,Video Game software,United States,,3
+Astragon Entertainment GmbH,VG8,Video Game software,Germany,,3
+Atari SA,VG9,Video Game software,France,,2
+BANDAI NAMCO Group,VG12,Video Game software,Japan,,29
+ByteDance Ltd,VG20,Video Game software,China,,6
+CCP ehf,VG22,Video Game software,Iceland,,6
+CD Projekt SA,VG23,Video Game software,Poland,,14
+Capcom Co Ltd,VG21,Video Game software,Japan,,20
+CyberAgent Inc,VG29,Video Game software,Japan,,2
+"Digital Bros SpA, Group",VG33,Video Game software,Italy,,3
+Electronic Arts Inc,VG36,Video Game software,United States,,32
+Emp Electronics SA,VG38,Video Game software,Greece,,1
+Epic Games Inc,VG39,Video Game software,United States,,26
+Gamevil Inc,VG56,Video Game software,South Korea,,3
+Gamigo Group,VG57,Video Game software,Germany,,8
+GungHo Online Entertainment Inc,VG60,Video Game software,Japan,,2
+HP Inc,VG66,Video Game software,United States,,46
+HTC Corp,VG67,Video Game software,Taiwan,,25
+Halfbrick Studios Pty Ltd,VG61,Video Game software,Australia,,8
+Hello Games Ltd,VG63,Video Game software,United Kingdom,,3
+Hi-Rez Studios Inc,VG64,Video Game software,United States,,7
+I Got Games Inc,VG69,Video Game software,China,,3
+Jagex Ltd,VG72,Video Game software,United Kingdom,,2
+KaKao Corp,VG77,Video Game software,South Korea,,1
+Kiloo Group,VG78,Video Game software,Denmark,,2
+Koch Media GmbH,VG80,Video Game software,Germany,,4
+Koei Tecmo Holdings Co Ltd,VG81,Video Game software,Japan,,2
+Konami Corp,VG82,Video Game software,Japan,,20
+Krafton Inc,VG83,Video Game software,South Korea,,16
+LEGO Group,VG86,Video Game software,Denmark,,32
+Machine Zone Inc,VG94,Video Game software,United States,,11
+Meta Platforms Inc,VG102,Video Game software,United States,,11
+Microsoft Corp,VG103,Video Game software,United States,,40
+Mind Candy Ltd,VG105,Video Game software,United Kingdom,,4
+Monolith Productions Inc,VG110,Video Game software,United States,,2
+Moon Active Ltd,VG111,Video Game software,Israel,,2
+NCsoft Corp,VG112,Video Game software,South Korea,,15
+NHN Corp,VG119,Video Game software,South Korea,,2
+NetEase Inc,VG116,Video Game software,China,,3
+Netmarble Corp,VG117,Video Game software,South Korea,,5
+Nexon Co Ltd,VG118,Video Game software,Japan,,5
+Niantic Inc,VG120,Video Game software,United States,,23
+Nintendo Co Ltd,VG122,Video Game software,Japan,,34
+Perfect World Co Ltd,VG128,Video Game software,China,,4
+Plarium Global Ltd,VG131,Video Game software,Israel,,2
+Playrix Entertainment LLC,VG132,Video Game software,Ireland,,4
+Psyonix Inc,VG136,Video Game software,United States,,6
+Roblox Corp,VG137,Video Game software,United States,,10
+Samsung Corp,VG138,Video Game software,South Korea,,47
+Scopely Inc,VG140,Video Game software,United States,,2
+Sea Ltd,VG143,Video Game software,Singapore,,8
+Sega Sammy Holdings Inc,VG146,Video Game software,Japan,,22
+Shanghai Lilith Technology Co Ltd,VG148,Video Game software,China,,2
+SmileGate Inc,VG149,Video Game software,South Korea,,3
+Sony Corp,VG154,Video Game software,Japan,,49
+Spin Master Ltd,VG156,Video Game software,Canada,,30
+Square Enix Holdings Co Ltd,VG157,Video Game software,Japan,,24
+Take-Two Interactive Software Inc,VG162,Video Game software,United States,,30
+Tencent Holdings Ltd,VG164,Video Game software,China,,31
+Type-Moon Co Ltd,VG166,Video Game software,Japan,,1
+Ubisoft Entertainment SA,VG167,Video Game software,France,,26
+Valve Corp,VG168,Video Game software,United States,,23
+Vivendi SE,VG169,Video Game software,France,,16
+"Walt Disney Co, The",VG171,Video Game software,United States,,19
+Wargaming Group Ltd,VG172,Video Game software,Cyprus,,15
+Warner Bros Entertainment Inc,VG174,Video Game software,United States,,20
+Webzen Inc,VG176,Video Game software,South Korea,,2
+miHoYo Co Ltd,VG104,Video Game software,China,,5

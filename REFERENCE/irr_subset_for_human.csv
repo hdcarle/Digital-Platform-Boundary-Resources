@@ -1,0 +1,25 @@
+platform_ID,platform_name,home_country_name,home_country_iso3c,PLAT,developer_portal_url
+VG1,Activision Blizzard Inc,United States,USA,REGISTRATION,https://develop.battle.net/
+VG4,Alphabet Inc,United States,USA,PUBLIC,https://developers.google.com/games
+VG7,AppLovin Corp,United States,USA,PUBLIC,https://www.applovin.com/developers/
+VG26,ByteDance Ltd,China,CHN,PUBLIC,https://developer.picoxr.com/
+VG28,CCP ehf,Iceland,ISL,REGISTRATION,https://developers.eveonline.com
+VG29,CD Projekt SA,Poland,POL,RESTRICTED,https://devportal.gog.com/
+VG76,Hi-Rez Studios Inc,United States,USA,REGISTRATION,https://webcdn.hirezstudios.com/hirez-studios/legal/smite-api-developer-guide.pdf
+VG79,HP Inc,United States,USA,REGISTRATION,https://developers.hp.com/
+VG80,HTC Corp,Taiwan,TWN,PUBLIC,https://developer.vive.com/
+VG91,KaKao Corp,South Korea,KOR,REGISTRATION,https://developers.kakao.com/
+VG98,Krafton Inc,South Korea,KOR,REGISTRATION,https://developer.pubg.com
+VG100,Kyivstar PrAT,Ukraine,UKR,REGISTRATION,https://api-gateway.kyivstar.ua/
+VG102,LEGO Group,Denmark,DNK,RESTRICTED,https://developer.lego.com/
+VG110,LY Corp,Japan,JPN,REGISTRATION,https://developers.line.biz/
+VG121,Microsoft Corp,United States,USA,RESTRICTED,https://developer.microsoft.com/en-us/games/
+VG131,NCsoft Corp,South Korea,KOR,REGISTRATION,https://developers.plaync.com/
+VG138,Nexon Co Ltd,Japan,JPN,REGISTRATION,https://openapi.nexon.com/
+VG140,Niantic Inc,United States,USA,PUBLIC,https://lightship.dev/
+VG153,Pico Immersive Pte Ltd,China,CHN,PUBLIC,https://developer.picoxr.com/
+VG161,Roblox Corp,United States,USA,PUBLIC,https://create.roblox.com/
+VG163,Samsung Corp,South Korea,KOR,PUBLIC,https://developer.samsung.com/
+VG173,Shanghai Lilith Technology Co Ltd,China,CHN,REGISTRATION,https://www.lilith.com/3rdsdk
+VG180,Sony Corp,Japan,JPN,RESTRICTED,https://partners.playstation.net/
+VG200,Voodoo SAS,France,FRA,REGISTRATION,https://voodoo.io/academy

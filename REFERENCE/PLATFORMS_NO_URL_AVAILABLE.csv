@@ -1,0 +1,17 @@
+platform_ID,platform_name,industry,PLAT,developer_portal_url,notes
+CA3,Alps Alpine Co Ltd,CA,RESTRICTED,,"Alps Alpine - Car electronics, B2B partner APIs only"
+CA43,Hyundai Corp,CA,RESTRICTED,,Hyundai - Connected car services are dealer/B2B restricted
+CP115,Toshiba Corp,CP,RESTRICTED,,Toshiba - B2B partner programs only
+CP123,Vestel Elektronik AS,CP,RESTRICTED,,Vestel Elektronik - B2B portal only
+CP14,AsusTek Computer Inc,CP,RESTRICTED,,ASUS - ROG SDK is partner-only
+CP3,Acer Inc,CP,RESTRICTED,,Acer - Partner programs for gaming/enterprise only
+CP35,Dynabook Inc,CP,RESTRICTED,,Dynabook (ex-Toshiba) - B2B programs only
+CP45,Haier Group,CP,RESTRICTED,,Haier - Smart home APIs are B2B restricted
+FO14,Didi Chuxing Technology Co Ltd,FO,RESTRICTED,,"Didi - Partner APIs only, no public developer portal"
+FO45,Meituan Inc,FO,RESTRICTED,,"Meituan - Chinese platform, no English developer portal"
+FO8,Coupang Corp,FO,RESTRICTED,,"Coupang Korea - Partner APIs only, no public access"
+HO197,InterContinental Hotels Group Plc,HO,RESTRICTED,,IHG - Partner APIs through GDS/connectivity providers
+HO20,ANA Group,HO,RESTRICTED,,ANA Group - B2B airline/hotel systems
+HO389,Wyndham Hotels & Resorts Inc,HO,RESTRICTED,,"Wyndham has developer portals for franchise operations, APIs available through partnerships only."
+IH62,Skyworth Group Co Ltd,IH,RESTRICTED,,"Skyworth Group offers smart home IoT SDK for enterprise partners through business agreements, but no publicly accessible developer portal."
+IH80,Yamaha Corp,IH,RESTRICTED,,"Yamaha MusicCast - API exists but no official public developer portal, community docs only"

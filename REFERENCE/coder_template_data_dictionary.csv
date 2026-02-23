@@ -1,0 +1,103 @@
+Variable,Description
+platform_ID,Text - unique ID from CODE_BOOK
+platform_name,Text - company/platform name
+developer_portal_url,URL - main developer portal
+IND,"Text - Industry code (VG, CP, PE, etc.)"
+PLAT,"Binary - 1 if platform/API exists, 0 if not"
+PLAT_Notes,Text - observations about platform presence
+AGE,"Numeric - count of API versions (v1, v2, v3 = 3)"
+API_YEAR,Year - year first API version was published
+API,Numeric - count of distinct APIs available
+API_pages,Numeric - count of API documentation pages
+APIspecs,Numeric - count of API specification languages
+APIspec_list,"Text - list of spec languages (OpenAPI, RAML, etc.)"
+END,Numeric - count of top-level endpoints
+END_Pages,Numeric - count of endpoint documentation pages
+METH,"Numeric - count of HTTP methods (GET, POST, etc.)"
+METH_list,Text - list of methods found
+DEVP,Binary - 1 if developer portal exists
+DOCS,Binary - 1 if documentation exists
+SDK,Binary - 1 if SDKs available
+SDK_lang,Numeric - count of natural languages for SDK docs
+SDK_lang_list,Text - list of natural languages (semicolon separated)
+SDK_prog_lang,Numeric - count of programming languages
+SDK_prog_lang_list,Text - list of programming languages
+BUG,Binary - 1 if debug/test tools available
+BUG_types,Text - types of debugger tools
+BUG_prog_lang_list,Text - programming languages in debug tools
+STAN,Binary - 1 if third-party standards used
+STAN_list,"Text - list of standards (IETF, ISO, W3C, etc.)"
+AI_MODEL,Binary - 1 if AI model access/APIs available
+AI_MODEL_types,Text - types of AI models
+AI_AGENT,Binary - 1 if AI agent integration available
+AI_AGENT_platforms,Text - AI agent platforms supported
+AI_ASSIST,Binary - 1 if AI coding assistants available
+AI_ASSIST_tools,Text - AI assistant tools
+AI_DATA,Binary - 1 if AI data protocols available
+AI_DATA_protocols,Text - data protocols
+AI_MKT,Binary - 1 if AI marketplace exists
+AI_MKT_type,Text - type of AI marketplace
+COM,Numeric - count of communication channels
+COM_lang,Numeric - count of natural languages
+COM_lang_list,Text - list of natural languages
+COM_social_media,Numeric - count of social media channels
+COM_forum,Binary - 1 if forum exists
+COM_blog,Binary - 1 if blog exists
+COM_help_support,Binary - 1 if help/support exists
+COM_live_chat,Binary - 1 if live chat exists
+COM_Slack,Binary - 1 if Slack channel exists
+COM_Discord,Binary - 1 if Discord exists
+COM_stackoverflow,Binary - 1 if StackOverflow tag exists
+COM_training,Binary - 1 if training resources exist
+COM_FAQ,Binary - 1 if FAQ exists
+COM_tutorials,Binary - 1 if tutorials exist
+COM_Other,Binary - 1 if other channels exist
+COM_Other_notes,Text - other communication notes
+GIT,Binary - 1 if Github/repo exists
+GIT_url,URL - Github URL
+GIT_lang,Numeric - count of natural languages on Github
+GIT_lang_list,Text - list of natural languages
+GIT_prog_lang,Numeric - count of programming languages
+GIT_prog_lang_list,Text - list of programming languages
+MON,Binary - 1 if monetization programs exist
+EVENT,Binary - 1 if developer events exist
+EVENT_webinars,Binary - 1 if webinars exist
+EVENT_virtual,Binary - 1 if virtual events exist
+EVENT_in_person,Binary - 1 if in-person events exist
+EVENT_conference,Binary - 1 if conferences exist
+EVENT_hackathon,Binary - 1 if hackathons exist
+EVENT_other,Binary - 1 if other events exist
+EVENT_countries,Text - countries where events are held
+SPAN,Binary - 1 if spanning resources exist
+SPAN_internal,Binary - 1 if internal spanning
+SPAN_communities,Binary - 1 if community spanning
+SPAN_external,Binary - 1 if external spanning
+SPAN_lang,Numeric - count of natural languages
+SPAN_lang_list,Text - list of natural languages
+SPAN_countries,Text - countries for spanning resources
+ROLE,Binary - 1 if role-based access exists
+ROLE_lang,Numeric - count of natural languages
+ROLE_lang_list,Text - list of natural languages
+DATA,Binary - 1 if data governance policies exist
+DATA_lang,Numeric - count of natural languages
+DATA_lang_list,Text - list of natural languages
+STORE,Binary - 1 if app store/marketplace exists
+STORE_lang,Numeric - count of natural languages
+STORE_lang_list,Text - list of natural languages
+CERT,Binary - 1 if certification program exists
+CERT_lang,Numeric - count of natural languages
+CERT_lang_list,Text - list of natural languages
+OPEN,"Numeric - 0=open, 1=partially open, 2=closed"
+OPEN_lang,Numeric - count of natural languages
+OPEN_lang_list,Text - list of natural languages
+LINGUISTIC_VARIETY,Numeric - unique languages across all resources
+linguistic_variety_list,Text - deduplicated language list
+programming_lang_variety,Numeric - unique programming languages
+programming_lang_variety_list,Text - deduplicated programming language list
+pages_analyzed,Numeric - count of pages reviewed
+Coder,"Text - coder name (Claude, ChatGPT, Human)"
+analysis_date,Date - YYYY-MM-DD format
+coding_notes,Text - general observations
+ID IND,Text - Industry ID (copied from platform_list)
+home_primary_lang,Text - Primary language of home country
+language_notes,Text - Notes about language observations
