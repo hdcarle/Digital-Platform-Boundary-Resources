@@ -30,21 +30,21 @@ Methodology documentation, coding instructions, and workflow guides:
 - `PROGRAMMING_LANGUAGES_INDEX.md` — Official list of 50 valid programming languages with mapping rules
 - `SCRAPING_AND_LANG_CODING_CONTEXT.md` — Context document for web scraping and language coding
 
-### Python Scripts (`dissertation_batch_api/`)
+### Python Scripts (`Scripts/`)
 
 Automated data collection pipeline — 18 scripts covering web scraping, GitHub data enrichment, AI coding, inter-rater reliability, and result merging:
 
 | Script | Stage | Purpose |
 |--------|-------|---------|
 | `selenium_scraper.py` | Scraping | Selenium + headless Chrome, crawl depth 3, max 100 pages |
-| `claude_coder.py` | AI Coding | Codes boundary resources via Claude 3.5 Sonnet (Anthropic API) |
+| `claude_coder.py` | AI Coding | Codes boundary resources via Claude Sonnet 4 (Anthropic API) |
 | `chatgpt_coder.py` | AI Coding | Codes boundary resources via GPT-4o (OpenAI API) |
 | `irr_calculator.py` | IRR | Gwet's AC1, Cohen's Kappa, Krippendorff's Alpha, ICC |
 | `merge_results.py` | Merge | Consensus-rule merge into MASTER_CODEBOOK |
 
 See `COMPLETE_BEGINNER_GUIDE.md` in that directory for step-by-step instructions.
 
-### R Scripts (`dissertation analysis/`)
+### R Scripts (`R SCripts/`)
 
 Statistical analysis pipeline — 14 sequential scripts from data import through SEM and cluster analysis:
 
@@ -60,11 +60,11 @@ Statistical analysis pipeline — 14 sequential scripts from data import through
 
 - **`REFERENCE/MASTER_CODEBOOK.xlsx`** — Master codebook: 6,617 firm-country dyad rows × 126 columns
 - **`REFERENCE/ALL_PLATFORMS_URL_TRACKER.csv`** — 901 platforms across 10 industries with developer portal URLs
-- **`dissertation_batch_api/claude_results/`** — Claude AI coding output (~242 JSON files)
-- **`dissertation_batch_api/chatgpt_results/`** — ChatGPT AI coding output (~242 JSON files)
-- **`dissertation_batch_api/adjudicated_results/`** — Final consensus-resolved codings (~903 JSON files)
-- **`dissertation_batch_api/irr_test/`** — 16-platform IRR subset results (JSON only)
-- **`dissertation analysis/`** — R output CSVs (correlation matrices, PCA loadings, cluster assignments, etc.)
+- **`Results/claude_results/`** — Claude AI coding output (~242 JSON files)
+- **`Results/chatgpt_results/`** — ChatGPT AI coding output (~242 JSON files)
+- **`Results/adjudicated_results/`** — Final consensus-resolved codings (~903 JSON files)
+- **`Results/irr_test/`** — 16-platform IRR subset results (JSON only)
+- **`Output CSV/`** — R output CSVs (correlation matrices, PCA loadings, cluster assignments, etc.)
 
 ### AI Coding Agent (`boundary-resource-coder/`)
 
