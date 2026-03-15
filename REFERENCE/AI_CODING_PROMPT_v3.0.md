@@ -3,6 +3,8 @@ vMarch 15, 2026
 
 This document contains the complete coding instructions provided to both Claude and ChatGPT AI coders for the dissertation data collection on platform boundary resources. This v3.0 is extracted directly from the embedded prompts in `claude_coder.py` and `chatgpt_coder.py` (which were identical) to accurately reflect the instructions actually passed to the AI agents via API.
 
+> **Note:** This replaces the prior standalone file (`AI_CODING_PROMPT_v2.0_FINAL.md`) which omitted some keywords, location guidance, PLAT-conditional rules, common error notes, and calibration examples that were present in the actual embedded prompts. This v3.0 restores those elements.
+
 ---
 
 ## Role Assignment
