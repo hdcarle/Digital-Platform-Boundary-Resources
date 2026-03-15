@@ -57,18 +57,11 @@ Statistical analysis pipeline — 14 sequential scripts from data import through
 | `14_cluster_performance.R` | Cluster analysis of resource profiles |
 
 ### Data Files
-
 - **`REFERENCE/MASTER_CODEBOOK.xlsx`** — Master codebook: 6,617 firm-country dyad rows × 126 columns
 - **`REFERENCE/ALL_PLATFORMS_URL_TRACKER.csv`** — 901 platforms across 10 industries with developer portal URLs
-- **`Results/claude_results/`** — Claude AI coding output (~242 JSON files)
-- **`Results/chatgpt_results/`** — ChatGPT AI coding output (~242 JSON files)
-- **`Results/adjudicated_results/`** — Final consensus-resolved codings (~903 JSON files)
-- **`Results/irr_test/`** — 16-platform IRR subset results (JSON only)
 - **`Output CSV/`** — R output CSVs (correlation matrices, PCA loadings, cluster assignments, etc.)
 
-### AI Coding Agent (`boundary-resource-coder/`)
 
-Claude skill definition and reference files used by the AI boundary resource coding agent.
 
 ---
 
