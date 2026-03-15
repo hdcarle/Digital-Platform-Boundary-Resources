@@ -99,7 +99,7 @@ python3 validate_github_urls.py scraped_content/ --token ghp_...
 
 Both AI coders receive identical:
 - Scraped developer portal content (including GitHub language section if available)
-- Coding prompt (see `AI_CODING_PROMPT_v2.0_FINAL.md`)
+- Coding prompt (see `AI_CODING_PROMPT_v3.0.md`)
 - Platform metadata (ID, name, portal URL, PLAT status)
 
 ### Stage 3b: GitHub Augmentation (AFTER AI Coding)
@@ -168,7 +168,7 @@ dissertation_batch_api/
 │
 REFERENCE/
 ├── PROGRAMMING_LANGUAGES_INDEX.md  # 50 valid languages + mapping rules
-├── AI_CODING_PROMPT_v2.0_FINAL.md  # Coding instructions for AI coders
+├── AI_CODING_PROMPT_v3.0.md  # Coding instructions for AI coders
 └── FULL_DATASET_TASK_CONTEXT.md    # Master task tracking document
 ```
 
