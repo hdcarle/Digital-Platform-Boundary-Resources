@@ -1,5 +1,5 @@
 # AI Boundary Resource Coding Prompt v3.0
-## Corrected Version - March 15, 2026
+March 15, 2026
 
 This document contains the complete coding instructions provided to both Claude and ChatGPT AI coders for the dissertation data collection on platform boundary resources. This v3.0 is extracted directly from the embedded prompts in `claude_coder.py` and `chatgpt_coder.py` (which were identical) to accurately reflect the instructions actually passed to the AI agents via API.
 
