@@ -1,5 +1,5 @@
 # AI Boundary Resource Coding Prompt v2.0
-## Final Version - February 15, 2026
+## vFebruary 15, 2026 - OUT OF DATE. REPLACED WITH v3.0
 
 This document contains the complete coding instructions provided to both Claude and ChatGPT AI coders for the dissertation data collection on platform boundary resources.
 
