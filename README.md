@@ -25,7 +25,7 @@ This repository contains the source data files used for panel data as well as th
 Methodology documentation, coding instructions, and workflow guides:
 
 - `MULTI_CODER_WORKFLOW_v2.0_FINAL.md` — Full 9-stage pipeline workflow from URL collection through adjudication
-- `AI_CODING_PROMPT_v2.0_FINAL.md` — Complete coding instructions provided to both Claude and ChatGPT AI coders (76 variables across 5 boundary resource classes)
+- `AI_CODING_PROMPT_v3.0_FINAL.md` — Complete coding instructions provided to both Claude and ChatGPT AI coders (76 variables across 5 boundary resource classes)
 - `Data_Collection_Codebook_v2.0.md` — Human-oriented codebook with detailed variable definitions
 - `PROGRAMMING_LANGUAGES_INDEX.md` — Official list of 50 valid programming languages with mapping rules
 - `SCRAPING_AND_LANG_CODING_CONTEXT.md` — Context document for web scraping and language coding
