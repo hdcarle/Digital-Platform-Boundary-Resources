@@ -1,0 +1,693 @@
+{
+  "date": "2026-02-20 08:24",
+  "mode": "live",
+  "scraped_dir": "scraped_content/",
+  "results_dir": "claude_results/",
+  "total_updated": 84,
+  "changes": [
+    {
+      "platform_id": "CA16",
+      "file": "CA16_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Swift; HTML; Kotlin; Dart; Java; TypeScript\" \u2192 \"Dart; HTML/CSS; Java; Kotlin; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC109",
+      "file": "CC109_claude.json",
+      "changes": {
+        "GIT_prog_lang": "6 \u2192 5",
+        "GIT_prog_lang_list": "\"Python; Go; JavaScript; TypeScript; R; Jupyter Notebook\" \u2192 \"Go; JavaScript; Python; R; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC12",
+      "file": "CC12_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; TypeScript; Java; C#; Swift; CSS\" \u2192 \"C#; HTML/CSS; Java; JavaScript; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC134",
+      "file": "CC134_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; Python; CSS\" \u2192 \"HTML/CSS; Java; Python\""
+      }
+    },
+    {
+      "platform_id": "CC138",
+      "file": "CC138_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; C#; JavaScript; Python\" \u2192 \"C#; Java; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "CC141",
+      "file": "CC141_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"HTML; Python; JavaScript\" \u2192 \"HTML/CSS; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "CC143",
+      "file": "CC143_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; C#; TypeScript\" \u2192 \"C#; Java; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC179",
+      "file": "CC179_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; Java; Go; HTML/CSS; Swift; C#; Kotlin\" \u2192 \"C#; Go; HTML/CSS; Java; Kotlin; Python; Swift\""
+      }
+    },
+    {
+      "platform_id": "CC189",
+      "file": "CC189_claude.json",
+      "changes": {
+        "GIT_prog_lang": "11 \u2192 10",
+        "GIT_prog_lang_list": "\"Go; Python; TypeScript; Scala; Java; HTML/CSS; JavaScript; C++; Shell; Kotlin; SQL\" \u2192 \"Bash/Shell; C++; Go; HTML/CSS; Java; JavaScript; Kotlin; Python; Scala; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC194",
+      "file": "CC194_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/Investec-Developer-Community\" \u2192 \"https://github.com/investec\""
+      }
+    },
+    {
+      "platform_id": "CC199",
+      "file": "CC199_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"Python; TypeScript; Java; Kotlin; JavaScript\" \u2192 \"Java; Kotlin; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC19",
+      "file": "CC19_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; C; JavaScript; TypeScript; Ruby; Java; Bash/Shell\" \u2192 \"Bash/Shell; C; Go; Java; JavaScript; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC226",
+      "file": "CC226_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 6",
+        "GIT_prog_lang_list": "\"Python; HTML; C#; JavaScript; PHP\" \u2192 \"Bash/Shell; C#; HTML/CSS; JavaScript; PHP; Python\""
+      }
+    },
+    {
+      "platform_id": "CC254",
+      "file": "CC254_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; Java; Kotlin; Ruby; JavaScript\" \u2192 \"Go; Java; JavaScript; Kotlin; Ruby\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC267",
+      "file": "CC267_claude.json",
+      "changes": {
+        "GIT_prog_lang": "3 \u2192 1",
+        "GIT_prog_lang_list": "\"Python; Dockerfile; Jupyter Notebook\" \u2192 \"Python\""
+      }
+    },
+    {
+      "platform_id": "CC303",
+      "file": "CC303_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Scala; TypeScript; JavaScript; C#; Java; HTML; Go; Python; Shell\" \u2192 \"Bash/Shell; C#; Go; HTML/CSS; Java; JavaScript; Python; Scala; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC312",
+      "file": "CC312_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"C; TypeScript; Python; Java; Objective-C; Kotlin; JavaScript; Ruby; Swift; HTML\" \u2192 \"C; HTML/CSS; Java; JavaScript; Kotlin; Objective-C; Python; Ruby; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC32",
+      "file": "CC32_claude.json",
+      "changes": {
+        "GIT_prog_lang": "11 \u2192 8",
+        "GIT_prog_lang_list": "\"C++; JavaScript; Python; Go; HTML/CSS; TypeScript; Scala; Haskell\" \u2192 \"C++; Go; HTML/CSS; Haskell; JavaScript; Python; Scala; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC335",
+      "file": "CC335_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"HTML; Go; TypeScript; JavaScript\" \u2192 \"Go; HTML/CSS; JavaScript; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC54",
+      "file": "CC54_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; TypeScript; CSS; JavaScript; HTML/CSS\" \u2192 \"Go; HTML/CSS; JavaScript; Python; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CP115",
+      "file": "CP115_claude.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 6",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Java; Perl; Python\""
+      }
+    },
+    {
+      "platform_id": "CP127",
+      "file": "CP127_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 3",
+        "GIT_prog_lang_list": "\"C; Java; Python; Makefile; Smali\" \u2192 \"C; Java; Python\""
+      }
+    },
+    {
+      "platform_id": "CP14",
+      "file": "CP14_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"C; C++; Java; Shell; Makefile\" \u2192 \"Bash/Shell; C; C++; Java\""
+      }
+    },
+    {
+      "platform_id": "CP29",
+      "file": "CP29_claude.json",
+      "changes": {
+        "GIT_url": "\"https://developer.dell.com/open-source\" \u2192 \"https://github.com/dell\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; Go; HTML/CSS; Java; JavaScript; PowerShell; Python\""
+      }
+    },
+    {
+      "platform_id": "CP50",
+      "file": "CP50_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/huawei\"",
+        "GIT_prog_lang": "0 \u2192 8",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C#; Go; HTML/CSS; Java; PowerShell; Python\""
+      }
+    },
+    {
+      "platform_id": "CP5",
+      "file": "CP5_claude.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C++; Go; HTML/CSS; Java; JavaScript; Python; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP66",
+      "file": "CP66_claude.json",
+      "changes": {
+        "GIT_prog_lang": "11 \u2192 9",
+        "GIT_prog_lang_list": "\"Go; TypeScript; C++; Bash/Shell; C; Python; Java; PowerShell; C#; HTML/CSS; JavaScript\" \u2192 \"Bash/Shell; C; C#; C++; Go; Java; PowerShell; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP71",
+      "file": "CP71_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/lenovo\"",
+        "GIT_prog_lang": "0 \u2192 8",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Java; JavaScript; PowerShell; Python; Ruby\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CP7",
+      "file": "CP7_claude.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C++; Java; Kotlin; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP85",
+      "file": "CP85_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/readthedocs/sphinx_rtd_theme\" \u2192 \"https://github.com/nokia\"",
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; Go; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP8",
+      "file": "CP8_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; Python; Java; C#; HTML; Scala\" \u2192 \"C#; HTML/CSS; Java; JavaScript; Python; Scala\""
+      }
+    },
+    {
+      "platform_id": "CP98",
+      "file": "CP98_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/razerofficial\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C#; C++; Java; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "CP9",
+      "file": "CP9_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/apple\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C#; C++; Java; Kotlin; Python; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO11",
+      "file": "FO11_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/deliveroo\"",
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Go; HTML/CSS; Ruby; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO12",
+      "file": "FO12_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 3",
+        "GIT_prog_lang_list": "\"Go; Python; Kotlin; HCL; Mustache\" \u2192 \"Go; Kotlin; Python\""
+      }
+    },
+    {
+      "platform_id": "FO14",
+      "file": "FO14_claude.json",
+      "changes": {
+        "GIT_prog_lang": "9 \u2192 8",
+        "GIT_prog_lang_list": "\"Java; JavaScript; Go; TypeScript; C; Objective-C; Kotlin; Dart; HTML/CSS\" \u2192 \"C; Dart; Go; Java; JavaScript; Kotlin; Objective-C; TypeScript\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)"
+      }
+    },
+    {
+      "platform_id": "FO17",
+      "file": "FO17_claude.json",
+      "changes": {
+        "GIT_url": "\"github.com\" \u2192 \"https://github.com/doordash\"",
+        "GIT_prog_lang": "6 \u2192 5",
+        "GIT_prog_lang_list": "\"JavaScript; Python; PHP; Java; Kotlin; C#\" \u2192 \"C; Java; JavaScript; Objective-C; Python\""
+      }
+    },
+    {
+      "platform_id": "FO30",
+      "file": "FO30_claude.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 7",
+        "GIT_prog_lang_list": "\"Go; JavaScript; Swift; Kotlin; Python; Dart; Clojure; C++\" \u2192 \"Clojure; Dart; Go; JavaScript; Kotlin; Python; Swift\""
+      }
+    },
+    {
+      "platform_id": "FO31",
+      "file": "FO31_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"C++; Go; HTML; Java; JavaScript; Kotlin; PHP; Python; Ruby; TypeScript\" \u2192 \"C++; Go; HTML/CSS; Java; JavaScript; Kotlin; PHP; Python; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO41",
+      "file": "FO41_claude.json",
+      "changes": {
+        "GIT_prog_lang": "9 \u2192 7",
+        "GIT_prog_lang_list": "\"Swift; C#; JavaScript; CSS; Scala; TypeScript; PowerShell; HTML; SCSS\" \u2192 \"C#; HTML/CSS; JavaScript; PowerShell; Scala; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO42",
+      "file": "FO42_claude.json",
+      "changes": {
+        "GIT_prog_lang": "11 \u2192 10",
+        "GIT_prog_lang_list": "\"TypeScript; Java; Kotlin; Python; Ruby; JavaScript; PHP; Go; C++; Objective-C; MDX\" \u2192 \"C++; Go; Java; JavaScript; Kotlin; Objective-C; PHP; Python; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO4",
+      "file": "FO4_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/boltapp\"",
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C#; C++; Go; JavaScript; PHP; Python; Ruby; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO71",
+      "file": "FO71_claude.json",
+      "changes": {
+        "GIT_prog_lang": "9 \u2192 7",
+        "GIT_prog_lang_list": "\"Swift; C#; JavaScript; CSS; Scala; TypeScript; PowerShell; HTML; SCSS\" \u2192 \"C#; HTML/CSS; JavaScript; PowerShell; Scala; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO74",
+      "file": "FO74_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/uber\"",
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; Go; HTML/CSS; Java; JavaScript; Objective-C; Python; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO79",
+      "file": "FO79_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/zomato\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Go; Java; Kotlin; Ruby\""
+      }
+    },
+    {
+      "platform_id": "HO111",
+      "file": "HO111_claude.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 7",
+        "GIT_prog_lang_list": "\"Java; TypeScript; Kotlin; JavaScript; Python; Shell; Go; HCL\" \u2192 \"Bash/Shell; Go; Java; JavaScript; Kotlin; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "HO307",
+      "file": "HO307_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; Java; HTML; Python; Bash/Shell\" \u2192 \"Bash/Shell; HTML/CSS; Java; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "HO368",
+      "file": "HO368_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; TypeScript; Perl\" \u2192 \"Java; Perl; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "HO56",
+      "file": "HO56_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/bookingcom\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Go; JavaScript; Python; Swift\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "HO5",
+      "file": "HO5_claude.json",
+      "changes": {
+        "GIT_prog_lang": "10 \u2192 9",
+        "GIT_prog_lang_list": "\"Java; TypeScript; Kotlin; Swift; Python; Ruby; JavaScript; Scala; HTML; C#\" \u2192 \"HTML/CSS; Java; JavaScript; Kotlin; Python; Ruby; Scala; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "PE110",
+      "file": "PE110_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/Logitech\"",
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C#; C++; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "PE153",
+      "file": "PE153_claude.json",
+      "changes": {
+        "GIT_prog_lang": "12 \u2192 11",
+        "GIT_prog_lang_list": "\"Go; Swift; Kotlin; Python; JavaScript; Ruby; Groovy; PHP; TypeScript; Rust; HTML/CSS; Jupyter Notebook\" \u2192 \"Go; Groovy; HTML/CSS; JavaScript; Kotlin; PHP; Python; Ruby; Rust; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "PE179",
+      "file": "PE179_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; Rust; JavaScript; C\" \u2192 \"C; JavaScript; Python; Rust\""
+      }
+    },
+    {
+      "platform_id": "PE187",
+      "file": "PE187_claude.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C#; C++; HTML/CSS; Java; JavaScript; Objective-C; Python; Ruby\""
+      }
+    },
+    {
+      "platform_id": "PE197",
+      "file": "PE197_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/tomtom-international/\" \u2192 \"https://github.com/tomtom-international\"",
+        "GIT_prog_lang_list": "\"Swift; TypeScript; Python; Kotlin; Go; C++; Java; Groovy; HTML; Ruby\" \u2192 \"C++; Go; Groovy; HTML/CSS; Java; Kotlin; Python; Ruby; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "PE210",
+      "file": "PE210_claude.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/westerndigitalcorporation\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Go; JavaScript; Python; Rust\""
+      }
+    },
+    {
+      "platform_id": "PE216",
+      "file": "PE216_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; Go; Dart; Swift; C++; TypeScript; C; Ruby; C#; Kotlin\" \u2192 \"C; C#; C++; Dart; Go; Kotlin; Python; Ruby; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "PE219",
+      "file": "PE219_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"JavaScript; C; HTML; Shell\" \u2192 \"Bash/Shell; C; HTML/CSS; JavaScript\""
+      }
+    },
+    {
+      "platform_id": "PE24",
+      "file": "PE24_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/bang-olufsen/mozart-open-api\" \u2192 \"https://github.com/bang-olufsen/mozart-open-api/blob/main/LICENSE\""
+      }
+    },
+    {
+      "platform_id": "PE33",
+      "file": "PE33_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; Python; C\" \u2192 \"C; Go; Python\""
+      }
+    },
+    {
+      "platform_id": "PE67",
+      "file": "PE67_claude.json",
+      "changes": {
+        "GIT_prog_lang": "14 \u2192 11",
+        "GIT_prog_lang_list": "\"C++; Java; JavaScript; Python; Objective-C; Swift; C#; C; Kotlin; Monkey C; Ruby; BitBake; Batchfile; Jsonnet\" \u2192 \"Bash/Shell; C; C#; C++; Java; JavaScript; Kotlin; Objective-C; Python; Ruby; Swift\""
+      }
+    },
+    {
+      "platform_id": "PE72",
+      "file": "PE72_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/gopro/OpenGoPro\" \u2192 \"https://github.com/gopro/OpenGoPro/tree/main/demos\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; HTML/CSS; Kotlin; Python\""
+      }
+    },
+    {
+      "platform_id": "PE8",
+      "file": "PE8_claude.json",
+      "changes": {
+        "GIT_prog_lang": "6 \u2192 5",
+        "GIT_prog_lang_list": "\"Java; Python; TypeScript; C++; Go; Cuda\" \u2192 \"C++; Go; Java; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "TG574",
+      "file": "TG574_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; Objective-C; JavaScript; C#\" \u2192 \"C#; Java; JavaScript; Objective-C\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)"
+      }
+    },
+    {
+      "platform_id": "TR33",
+      "file": "TR33_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; JavaScript\" \u2192 \"JavaScript; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG102",
+      "file": "VG102_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; JavaScript; C#; Lua; Scala; Bash/Shell; HTML/CSS; Ruby\" \u2192 \"Bash/Shell; C#; HTML/CSS; JavaScript; Lua; Ruby; Scala; TypeScript\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)"
+      }
+    },
+    {
+      "platform_id": "VG120",
+      "file": "VG120_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/facebookarchive/php-graph-sdk\" \u2192 \"https://github.com/facebook\"",
+        "GIT_prog_lang": "1 \u2192 7",
+        "GIT_prog_lang_list": "\"PHP\" \u2192 \"C; C++; JavaScript; OCaml; Python; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG121",
+      "file": "VG121_claude.json",
+      "changes": {
+        "GIT_prog_lang": "10 \u2192 8",
+        "GIT_prog_lang_list": "\"TypeScript; Python; C#; Rust; PowerShell; C++; Java; C; Go; JavaScript\" \u2192 \"C#; C++; HTML/CSS; Java; PowerShell; Python; SQL; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG131",
+      "file": "VG131_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"Python; C++; JavaScript; HTML; Jupyter Notebook\" \u2192 \"C++; HTML/CSS; JavaScript; Python\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "VG138",
+      "file": "VG138_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Objective-C; Swift; Rust; PHP; Go; C++; C#\" \u2192 \"C#; C++; Go; Objective-C; PHP; Rust; Swift\""
+      }
+    },
+    {
+      "platform_id": "VG139",
+      "file": "VG139_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; TypeScript; Java; Python; Kotlin; Swift; Objective-C; C#; HTML\" \u2192 \"C#; HTML/CSS; Java; JavaScript; Kotlin; Objective-C; Python; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG161",
+      "file": "VG161_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"Luau; Lua; Rust; Python; TypeScript\" \u2192 \"Lua; Python; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG163",
+      "file": "VG163_claude.json",
+      "changes": {
+        "GIT_prog_lang": "7 \u2192 6",
+        "GIT_prog_lang_list": "\"Python; C++; C; C#; JavaScript; Java; WebAssembly\" \u2192 \"C; C#; C++; Java; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "VG180",
+      "file": "VG180_claude.json",
+      "changes": {
+        "GIT_prog_lang": "9 \u2192 7",
+        "GIT_prog_lang_list": "\"Python; C++; Go; CSS; JavaScript; TypeScript; C#; HCL; Jupyter Notebook\" \u2192 \"C#; C++; Go; HTML/CSS; JavaScript; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG193",
+      "file": "VG193_claude.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 7",
+        "GIT_prog_lang_list": "\"Java; C++; TypeScript; Python; JavaScript; Go; HTML/CSS; Vue\" \u2192 \"C++; Go; HTML/CSS; Java; JavaScript; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG197",
+      "file": "VG197_claude.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 5",
+        "GIT_prog_lang_list": "\"Python; C#; Solidity; C; HLSL; C++; Roff; JavaScript\" \u2192 \"C; C#; C++; Python; Solidity\""
+      }
+    },
+    {
+      "platform_id": "VG198",
+      "file": "VG198_claude.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/ValveSoftware/ToGL\" \u2192 \"https://github.com/ValveSoftware\"",
+        "GIT_prog_lang": "1 \u2192 5",
+        "GIT_prog_lang_list": "\"C++\" \u2192 \"Bash/Shell; C; C#; C++; JavaScript\""
+      }
+    },
+    {
+      "platform_id": "VG202",
+      "file": "VG202_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"HTML\" \u2192 \"HTML/CSS\""
+      }
+    },
+    {
+      "platform_id": "VG26",
+      "file": "VG26_claude.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"C#; C++; C; Python; HLSL\" \u2192 \"C; C#; C++; Python\""
+      }
+    },
+    {
+      "platform_id": "VG28",
+      "file": "VG28_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; C++; JavaScript\" \u2192 \"C++; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "VG47",
+      "file": "VG47_claude.json",
+      "changes": {
+        "GIT_prog_lang": "4 \u2192 3",
+        "GIT_prog_lang_list": "\"C#; Mathematica; TypeScript; C\" \u2192 \"C; C#; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG79",
+      "file": "VG79_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; Go; Ruby\" \u2192 \"Go; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG8",
+      "file": "VG8_claude.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; C#; Python\" \u2192 \"C#; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "VG91",
+      "file": "VG91_claude.json",
+      "changes": {
+        "GIT_prog_lang": "10 \u2192 9",
+        "GIT_prog_lang_list": "\"Python; Go; Swift; Jupyter Notebook; Shell; Kotlin; JavaScript; Dart; Java; SCSS\" \u2192 \"Bash/Shell; Dart; Go; HTML/CSS; Java; JavaScript; Kotlin; Python; Swift\""
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "platform_id": "PE210",
+  "platform_name": "Western Digital Corp",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 0,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 0,
+    "DOCS": 0,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 1,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/westerndigitalcorporation",
+    "GIT_lang": 0,
+    "GIT_lang_list": "",
+    "GIT_prog_lang": 7,
+    "GIT_prog_lang_list": "Bash/Shell; C; C++; Go; JavaScript; Python; Rust",
+    "MON": 0,
+    "EVENT": 1,
+    "EVENT_webinars": 1,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 1,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "United States",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 1,
+    "CERT_lang": 1,
+    "CERT_lang_list": "English",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "No API documentation found. This is a hardware storage company (Western Digital) focused on HDDs and storage devices, not a software platform with developer APIs.",
+    "SDK_evidence": "No SDKs found. Company provides physical storage hardware products, not software development tools.",
+    "AI_evidence": "No AI resources found. Company focuses on storage hardware infrastructure for AI workloads but does not provide AI models or agent platforms.",
+    "language_evidence": "Content is in English only. Social media links found in metadata include YouTube, LinkedIn, and Twitter."
+  },
+  "pages_analyzed": 18,
+  "coding_notes": "This is Western Digital Corporation, a hardware storage company that manufactures HDDs and storage devices. The 'developer portal' URL actually leads to their main corporate website focused on storage products for consumers and businesses. No actual developer resources, APIs, or SDKs were found. The company provides storage infrastructure but not software development platforms. Events include trade shows and industry conferences. Certification refers to product recertification program, not app certification. Data governance exists through comprehensive privacy policy.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/westerndigitalcorporation\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Go; JavaScript; Python; Rust\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 3,
+    "details": [
+      "COM_lang: C=1(1) G=0(0) \u2192 1",
+      "DATA_lang: C=1(1) G=0(0) \u2192 1",
+      "CERT_lang: C=1(1) G=0(0) \u2192 1"
+    ]
+  }
+}

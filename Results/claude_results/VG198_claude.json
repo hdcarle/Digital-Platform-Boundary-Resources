@@ -1,0 +1,122 @@
+{
+  "platform_id": "VG198",
+  "platform_name": "Valve Corp",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 1,
+    "METH_list": "GET"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 28,
+    "SDK_lang_list": "Simplified Chinese; Traditional Chinese; Japanese; Korean; Thai; Arabic; Bulgarian; Czech; Danish; German; English; Spanish; Greek; French; Italian; Indonesian; Hungarian; Dutch; Norwegian; Polish; Portuguese; Romanian; Russian; Finnish; Swedish; Turkish; Vietnamese; Ukrainian",
+    "SDK_prog_lang": 3,
+    "SDK_prog_lang_list": "C++; C#; JavaScript",
+    "BUG": 1,
+    "BUG_types": "sandbox; test environment",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth; OpenXR"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 28,
+    "COM_lang_list": "Simplified Chinese; Traditional Chinese; Japanese; Korean; Thai; Arabic; Bulgarian; Czech; Danish; German; English; Spanish; Greek; French; Italian; Indonesian; Hungarian; Dutch; Norwegian; Polish; Portuguese; Romanian; Russian; Finnish; Swedish; Turkish; Vietnamese; Ukrainian",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/ValveSoftware",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 5,
+    "GIT_prog_lang_list": "Bash/Shell; C; C#; C++; JavaScript",
+    "MON": 1,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 28,
+    "ROLE_lang_list": "Simplified Chinese; Traditional Chinese; Japanese; Korean; Thai; Arabic; Bulgarian; Czech; Danish; German; English; Spanish; Greek; French; Italian; Indonesian; Hungarian; Dutch; Norwegian; Polish; Portuguese; Romanian; Russian; Finnish; Swedish; Turkish; Vietnamese; Ukrainian",
+    "DATA": 1,
+    "DATA_lang": 28,
+    "DATA_lang_list": "Simplified Chinese; Traditional Chinese; Japanese; Korean; Thai; Arabic; Bulgarian; Czech; Danish; German; English; Spanish; Greek; French; Italian; Indonesian; Hungarian; Dutch; Norwegian; Polish; Portuguese; Romanian; Russian; Finnish; Swedish; Turkish; Vietnamese; Ukrainian",
+    "STORE": 1,
+    "STORE_lang": 28,
+    "STORE_lang_list": "Simplified Chinese; Traditional Chinese; Japanese; Korean; Thai; Arabic; Bulgarian; Czech; Danish; German; English; Spanish; Greek; French; Italian; Indonesian; Hungarian; Dutch; Norwegian; Polish; Portuguese; Romanian; Russian; Finnish; Swedish; Turkish; Vietnamese; Ukrainian",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 29,
+    "OPEN_lang_list": "简体中文; 繁體中文; Japanese; 한국어; ไทย; العربية; Български; Čeština; Dansk; Deutsch; English; Español - España; Español - Latinoamérica; Ελληνικά; Français; Italiano; Bahasa Indonesia; Magyar; Nederlands; Norsk; Polski; Português - Portugal; Português - Brasil; Română; Русский; Suomi; Svenska; Türkçe; Tiếng Việt; Українська"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Extensive language support with 29 languages available across all portal sections"
+  },
+  "evidence": {
+    "API_evidence": "Steamworks API Reference with interfaces like ISteamApps, ISteamUser, etc. Web API Overview with authentication using Web API Keys",
+    "SDK_evidence": "Steamworks SDK documentation, Unity/Unreal Engine integrations, OpenXR Game Engine Integrations, GitHub repository with C++ code",
+    "AI_evidence": "No AI-specific features found in the documentation",
+    "language_evidence": "Language switcher with 29 languages listed throughout the portal"
+  },
+  "pages_analyzed": 17,
+  "coding_notes": "Platform provides comprehensive game development tools through Steamworks. API=1 based on extensive API documentation. METH=1 as only GET methods explicitly documented. SDK=1 with Unity/Unreal support. ROLE=1 due to OAuth authentication and permission systems. DATA=1 based on developer agreements and terms. STORE=1 as Steam Workshop allows third-party content. MON=1 due to revenue sharing with developers. OPEN=1 as registration appears to be free self-service.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_url": "\"https://github.com/ValveSoftware/ToGL\" → \"https://github.com/ValveSoftware\"",
+        "GIT_prog_lang": "1 → 5",
+        "GIT_prog_lang_list": "\"C++\" → \"Bash/Shell; C; C#; C++; JavaScript\""
+      }
+    }
+  }
+}

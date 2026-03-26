@@ -1,0 +1,126 @@
+{
+  "platform_id": "FO8",
+  "platform_name": "Coupang Corp",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "RESTRICTED",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; PUT; POST; PATCH"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 5,
+    "COM_lang_list": "Chinese; English; Korean; Simplified Chinese; Traditional Chinese",
+    "COM_social_media": 0,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/coupang",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 1,
+    "GIT_prog_lang_list": "Java",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 5,
+    "ROLE_lang_list": "Chinese; English; Korean; Simplified Chinese; Traditional Chinese",
+    "DATA": 1,
+    "DATA_lang": 5,
+    "DATA_lang_list": "Chinese; English; Korean; Simplified Chinese; Traditional Chinese",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 1,
+    "CERT_lang": 3,
+    "CERT_lang_list": "Chinese; English; Korean",
+    "OPEN": 1,
+    "OPEN_lang": 0,
+    "OPEN_lang_list": ""
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Portal supports English, Korean, Simplified Chinese, and Traditional Chinese via language switcher"
+  },
+  "evidence": {
+    "API_evidence": "Comprehensive API documentation with multiple categories: Logistics APIs, Category APIs, Product APIs, Shipment/Refund APIs, Return APIs, Exchange APIs, Coupon/Cashback APIs, CS APIs, Settlement APIs, Rocket Growth APIs. HTTP methods documented include GET, PUT, POST, PATCH.",
+    "SDK_evidence": "SDK service was discontinued as of October 31, 2023. Notice states 'OpenAPI Java SDK supports services only until October 31, 2023. Thereafter, no updates to the SDK will be made.' However, code samples are provided for Java, Node.js, PHP, C#, Python, and Classic ASP.",
+    "AI_evidence": "No AI-related resources found in the developer portal content.",
+    "language_evidence": "Language switcher shows English (US), \ud55c\uad6d\uc5b4 (Korean), \u7b80\u4f53\u4e2d\u6587 (Simplified Chinese), \u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese). All major pages contain this language selector."
+  },
+  "pages_analyzed": 19,
+  "coding_notes": "PLAT=RESTRICTED confirmed - this is a seller/partner API requiring business relationship with Coupang. ROLE=1 due to API key authentication and vendor ID requirements. DATA=1 due to comprehensive API Integration Agreement governing data usage. CERT=1 due to product approval process documented in API. OPEN=0 because access requires being a Coupang seller with business relationship, not free self-service registration.",
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 4,
+    "details": [
+      "COM_lang: C=3(3) G=4(4) \u2192 5",
+      "ROLE_lang: C=3(3) G=4(4) \u2192 5",
+      "DATA_lang: C=3(3) G=4(4) \u2192 5",
+      "CERT_lang: C=3(3) G=0(0) \u2192 3"
+    ],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "OPEN: 0\u21921 (ChatGPT higher)"
+    ]
+  }
+}

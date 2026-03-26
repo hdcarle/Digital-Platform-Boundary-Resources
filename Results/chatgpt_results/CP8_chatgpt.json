@@ -1,0 +1,120 @@
+{
+  "platform_id": "CP8",
+  "platform_name": "Apex Technology Co Ltd",
+  "analysis_date": "2026-02-19",
+  "coder": "ChatGPT",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET;POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "English",
+    "SDK_prog_lang": 4,
+    "SDK_prog_lang_list": "Java;Python;TypeScript;Go",
+    "BUG": 1,
+    "BUG_types": "Sandbox;Interactive API console",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "Ask Ascend",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/Apex-CS",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 6,
+    "GIT_prog_lang_list": "C#; HTML/CSS; Java; JavaScript; Python; Scala",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "English",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 0,
+    "OPEN_lang": 0,
+    "OPEN_lang_list": ""
+  },
+  "moderators": {
+    "home_primary_lang": "",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "API documentation and references found on the developer portal.",
+    "SDK_evidence": "SDKs available for Java, Python, TypeScript, and Go.",
+    "AI_evidence": "AI assistant 'Ask Ascend' mentioned in documentation.",
+    "language_evidence": "Content available in English."
+  },
+  "pages_analyzed": 14,
+  "coding_notes": "",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript;Python;Java;C#;HTML;Scala\" → \"C#; HTML/CSS; Java; JavaScript; Python; Scala\""
+      }
+    }
+  }
+}

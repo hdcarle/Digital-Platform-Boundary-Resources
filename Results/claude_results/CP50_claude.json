@@ -1,0 +1,123 @@
+{
+  "platform_id": "CP50",
+  "platform_name": "Huawei Technologies Co Ltd",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 6,
+    "API_YEAR": "2019"
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 10,
+    "SDK_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "SDK_prog_lang": 5,
+    "SDK_prog_lang_list": "Java; JavaScript; C++; Swift; Kotlin",
+    "BUG": 1,
+    "BUG_types": "Cloud Testing; Cloud Debugging; Sandbox; Remote Testing",
+    "BUG_prog_lang_list": "ArkTS; JavaScript; Java",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0; FIDO; OpenGL"
+  },
+  "ai": {
+    "AI_MODEL": 1,
+    "AI_MODEL_types": "ML Kit; HUAWEI HiAI Engine; HUAWEI HiAI Service",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "Intelligent Assistant",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 10,
+    "COM_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 1,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/huawei",
+    "GIT_lang": 0,
+    "GIT_lang_list": "",
+    "GIT_prog_lang": 8,
+    "GIT_prog_lang_list": "Bash/Shell; C; C#; Go; HTML/CSS; Java; PowerShell; Python",
+    "MON": 1,
+    "EVENT": 5,
+    "EVENT_webinars": 1,
+    "EVENT_virtual": 1,
+    "EVENT_in_person": 1,
+    "EVENT_conference": 1,
+    "EVENT_hackathon": 1,
+    "EVENT_other": 0,
+    "EVENT_countries": "Germany; Spain; Turkey; United Kingdom; Singapore; France",
+    "SPAN": 3,
+    "SPAN_internal": 1,
+    "SPAN_communities": 1,
+    "SPAN_external": 1,
+    "SPAN_lang": 10,
+    "SPAN_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "SPAN_countries": "Germany; Spain; Turkey; United Kingdom; Singapore; France; China"
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 10,
+    "ROLE_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "DATA": 1,
+    "DATA_lang": 10,
+    "DATA_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "STORE": 1,
+    "STORE_lang": 10,
+    "STORE_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "CERT": 1,
+    "CERT_lang": 10,
+    "CERT_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean; Turkish",
+    "OPEN": 1,
+    "OPEN_lang": 10,
+    "OPEN_lang_list": "English; 简体中文; Русский; Español (América Latina); Português (Brasil); Français (Europe); Deutsch; Japanese; 한국어; Turkish"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Language switcher shows 10 languages including Chinese, Russian, Spanish, Portuguese, French, German, Japanese, Korean, and Turkish"
+  },
+  "evidence": {
+    "API_evidence": "HMS Core APIs documented with GET and POST methods for services like Push Kit, Analytics Kit, Map Kit, Location Kit. OAuth 2.0 authentication mentioned.",
+    "SDK_evidence": "HarmonyOS SDK, DevEco Studio, ArkTS programming language, multiple programming language support including Java, JavaScript, C++, Swift, Kotlin",
+    "AI_evidence": "ML Kit, HUAWEI HiAI Engine, HUAWEI HiAI Service for AI models. Intelligent Assistant for AI assistance tools.",
+    "language_evidence": "Language switcher in header shows 10 languages: English, 简体中文, Русский, Español (América Latina), Português (Brasil), Français (Europe), Deutsch, Japanese, 한국어, plus Turkish mentioned in content"
+  },
+  "pages_analyzed": 30,
+  "coding_notes": "Platform has comprehensive developer resources including APIs, SDKs, testing tools, app store (AppGallery), monetization programs, events, and community programs. Strong international presence with 10 language support. OAuth 2.0 and FIDO standards implemented. Revenue sharing and joint operations programs indicate MON=1.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT": "0 → 1",
+        "GIT_url": "\"\" → \"https://github.com/huawei\"",
+        "GIT_prog_lang": "0 → 8",
+        "GIT_prog_lang_list": "\"\" → \"Bash/Shell; C; C#; Go; HTML/CSS; Java; PowerShell; Python\""
+      }
+    }
+  }
+}

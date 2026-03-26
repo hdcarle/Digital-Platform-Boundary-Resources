@@ -1,0 +1,134 @@
+{
+  "platform_id": "VG197",
+  "platform_name": "Ubisoft Entertainment SA",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "Creators Program requires application and approval process",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 0,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 0,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "English",
+    "SDK_prog_lang": 8,
+    "SDK_prog_lang_list": "C; C#; C++; HLSL; JavaScript; Python; Roff; Solidity",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/ubisoft",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 5,
+    "GIT_prog_lang_list": "C; C#; C++; Python; Solidity",
+    "MON": 1,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "English",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 1,
+    "CERT_lang": 1,
+    "CERT_lang_list": "English",
+    "OPEN": 0,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Portal primarily in English"
+  },
+  "evidence": {
+    "API_evidence": "No API documentation found - this is a content creators program, not a developer API platform",
+    "SDK_evidence": "GitHub repositories contain various programming languages and tools, indicating SDK/development resources",
+    "AI_evidence": "No AI-specific resources found",
+    "language_evidence": "Content primarily in English, no language switcher found"
+  },
+  "pages_analyzed": 9,
+  "coding_notes": "This is Ubisoft's Creators Program for content creators, not a traditional developer API platform. GitHub presence indicates development activity. Application process requires approval (OPEN=0). Monetization through creator benefits and rewards (MON=1). Code of Conduct and Terms of Use provide data governance (DATA=1). Certification through application review process (CERT=1).",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 5",
+        "GIT_prog_lang_list": "\"Python; C#; Solidity; C; HLSL; C++; Roff; JavaScript\" \u2192 \"C; C#; C++; Python; Solidity\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 6,
+    "details": [
+      "SDK_lang: C=1(1) G=0(0) \u2192 1",
+      "SDK_prog_lang: C=8(8) G=0(0) \u2192 8",
+      "COM_lang: C=1(1) G=0(0) \u2192 1",
+      "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+      "DATA_lang: C=1(1) G=0(0) \u2192 1",
+      "CERT_lang: C=1(1) G=0(0) \u2192 1"
+    ]
+  }
+}

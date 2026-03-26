@@ -134,7 +134,7 @@ Table of Contents
 
 [9.2 Computing the composite platform resources score 80](#computing-the-composite-platform-resources-score)
 
-[9.3 Mediator - Ecosystem accessibility (ecosystem\_accessibility) 80](#mediator---ecosystem-accessibility-ecosystem_accessibility)
+[9.3 Mediator - Platform accessibility (platform\_accessibility) 80](#mediator---platform-accessibility-platform_accessibility)
 
 1. Accessing Euromonitor data 
 =============================
@@ -371,7 +371,7 @@ The coding of whether the variable appears in a specific boundary resource class
 | Governance Z-Score **(Zg)** | R | Governance resources composite: (ROLE + DATA + STORE + CERT) / 4, Z-standardized. |
 | Platform Resources **(PR)** | R | Overall composite: mean(Za, Zd, ZAI, Zs, Zg). Cronbach's alpha = .811. |
 | ***Mediator*** |  |  |
-| Ecosystem Accessibility **(ecosystem_accessibility)** | R | Average of z-scored linguistic variety and programming language variety. Z-scores computed across PLAT firms. Source: Calculated. |
+| Platform Accessibility **(platform_accessibility)** | R | Average of z-scored linguistic variety and programming language variety. Z-scores computed across PLAT firms. Source: Calculated. |
 | ***Moderators*** |  |  |
 | Cultural Distance **(cultural_distance)** | R | Kogut-Singh Index using Hofstede four dimensions. Source: Hofstede country scores. |
 | Linguistic Variety **(LINGUISTIC_VARIETY)** | C | Count of distinct natural languages across 8 resource types. Source: Calculated from AI coding. |
@@ -2128,12 +2128,12 @@ $\frac{Z_{a} + Z_{d} + Z_{\text{AI}} + Z_{s} + Z_{g}}{5}$
 
 where Z~a~ is the normalized Application class score, Z~d~ is the normalized Development class score, Z~AI~ is the normalized Artificial Intelligence (AI) class score, Z~s~ is the normalized Social class score, and Z~g~ is the normalized Governance class score.
 
-9.3 Mediator - Ecosystem accessibility (ecosystem\_accessibility)
+9.3 Mediator - Platform accessibility (platform\_accessibility)
 -----------------------------------------------------------------
 
-Our proposed measure of **ecosystem accessibility** will be calculated the average of the Z scored variables Linguistic Variety (LV) and Progamming Language Variety (PLV).
+Our proposed measure of **platform accessibility** will be calculated the average of the Z scored variables Linguistic Variety (LV) and Progamming Language Variety (PLV).
 
-*EA =* $\frac{Z_{\text{LV\ }} + \ Z_{\text{PLV\ }}}{2}$
+*PA =* $\frac{Z_{\text{LV\ }} + \ Z_{\text{PLV\ }}}{2}$
 
  **z\_lv (linguistic\_variety)**: Z-standardized LINGUISTIC\_VARIETY (count of distinct natural languages across all resource types), using PLAT-firm mean and SD
 

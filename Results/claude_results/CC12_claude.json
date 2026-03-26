@@ -1,0 +1,120 @@
+{
+  "platform_id": "CC12",
+  "platform_name": "Alfa Group Consortium",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 3,
+    "API_YEAR": "2023"
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST; PUT; PATCH; DELETE"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "Russian",
+    "SDK_prog_lang": 1,
+    "SDK_prog_lang_list": "Java",
+    "BUG": 1,
+    "BUG_types": "sandbox; test environment",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0; OpenID Connect"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "API Helper",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "Russian",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 1,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/alfa-laboratory",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 6,
+    "GIT_prog_lang_list": "C#; HTML/CSS; Java; JavaScript; Swift; TypeScript",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "Russian",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "Russian",
+    "STORE": 1,
+    "STORE_lang": 1,
+    "STORE_lang_list": "Russian",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "Russian"
+  },
+  "moderators": {
+    "home_primary_lang": "Russian",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "Comprehensive API documentation with REST endpoints, OAuth 2.0 authentication, multiple HTTP methods (GET, POST, PUT, PATCH, DELETE) documented across banking services",
+    "SDK_evidence": "Java SDK documented with multiple components (SDK для выписки, SDK для подписи, SDK для профиля организации)",
+    "AI_evidence": "API Helper chatbot for developer assistance documented on portal",
+    "language_evidence": "All content in Russian language, no language switcher found"
+  },
+  "pages_analyzed": 10,
+  "coding_notes": "Banking API platform with comprehensive documentation. OAuth scopes system provides role-based access control. Sandbox environment available for testing. Integration catalog serves as app marketplace.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; TypeScript; Java; C#; Swift; CSS\" → \"C#; HTML/CSS; Java; JavaScript; Swift; TypeScript\""
+      }
+    }
+  }
+}

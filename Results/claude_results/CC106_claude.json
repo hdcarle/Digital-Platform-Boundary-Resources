@@ -1,0 +1,10 @@
+{
+  "platform_id": "CC106",
+  "platform_name": "Canadian Imperial Bank of Commerce (CIBC)",
+  "analysis_date": "2026-02-19T13:59:41.422477",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": false,
+  "error": "No content provided for coding"
+}

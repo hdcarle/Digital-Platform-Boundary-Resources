@@ -1,0 +1,1609 @@
+{
+  "stats": {
+    "total": 903,
+    "agree": 8485,
+    "union_applied": 545,
+    "english_1": 339
+  },
+  "platforms_changed": [
+    {
+      "platform": "CA16",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CA21",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CA23",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CA27",
+      "n_changes": 6,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CA43",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CA60",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CA63",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC103",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC104",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC105",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=3(3) G=0(0) \u2192 3",
+        "DATA_lang: C=3(3) G=0(0) \u2192 3"
+      ]
+    },
+    {
+      "platform": "CC125",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC128",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=1(1) \u2192 2",
+        "ROLE_lang: C=2(2) G=1(1) \u2192 2",
+        "DATA_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC129",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC12",
+      "n_changes": 2,
+      "details": [
+        "SDK_lang: C=1(1) G=1(1) \u2192 2",
+        "SDK_prog_lang: C=1(1) G=5(5) \u2192 5"
+      ]
+    },
+    {
+      "platform": "CC131",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC134",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC138",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC141",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC143",
+      "n_changes": 2,
+      "details": [
+        "SDK_prog_lang: C=3(3) G=0(0) \u2192 3",
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC144",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC148",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC154",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC158",
+      "n_changes": 1,
+      "details": [
+        "CERT_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC164",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC168",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC16",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC170",
+      "n_changes": 2,
+      "details": [
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC172",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC175",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC179",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC189",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC18",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=3(3) G=0(0) \u2192 3",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC194",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=1(1) G=3(3) \u2192 3"
+      ]
+    },
+    {
+      "platform": "CC196",
+      "n_changes": 1,
+      "details": [
+        "GIT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC199",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=5(5) G=0(0) \u2192 5",
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC19",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=7(7) G=0(0) \u2192 7",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC201",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC207",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC211",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC213",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC215",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC221",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC223",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC226",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC229",
+      "n_changes": 1,
+      "details": [
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC230",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC232",
+      "n_changes": 2,
+      "details": [
+        "SDK_prog_lang: C=4(3) G=4(4) \u2192 4",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC239",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC246",
+      "n_changes": 1,
+      "details": [
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC250",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC254",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC255",
+      "n_changes": 2,
+      "details": [
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC259",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC261",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC267",
+      "n_changes": 2,
+      "details": [
+        "SDK_prog_lang: C=5(5) G=2(2) \u2192 5",
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC26",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "GIT_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC275",
+      "n_changes": 1,
+      "details": [
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC281",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC282",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC285",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC288",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC290",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC291",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC292",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC2",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC303",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=9(9) G=0(0) \u2192 9"
+      ]
+    },
+    {
+      "platform": "CC312",
+      "n_changes": 2,
+      "details": [
+        "ROLE_lang: C=1(1) G=2(2) \u2192 2",
+        "DATA_lang: C=1(1) G=2(2) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC314",
+      "n_changes": 5,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC316",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC319",
+      "n_changes": 1,
+      "details": [
+        "DATA_lang: C=1(1) G=2(2) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC342",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=2(2) G=1(1) \u2192 2",
+        "ROLE_lang: C=2(2) G=1(1) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC34",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC40",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC44",
+      "n_changes": 2,
+      "details": [
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC46",
+      "n_changes": 1,
+      "details": [
+        "DATA_lang: C=3(3) G=0(0) \u2192 3"
+      ]
+    },
+    {
+      "platform": "CC47",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC48",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC5",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC62",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC69",
+      "n_changes": 1,
+      "details": [
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC70",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC73",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC76",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC77",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC83",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC85",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=2(2) G=1(1) \u2192 2",
+        "ROLE_lang: C=2(2) G=1(1) \u2192 2",
+        "DATA_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CC90",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CC97",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP115",
+      "n_changes": 2,
+      "details": [
+        "SDK_prog_lang: C=5(5) G=5(5) \u2192 7",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CP126",
+      "n_changes": 2,
+      "details": [
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP127",
+      "n_changes": 6,
+      "details": [
+        "SDK_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CP14",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP20",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "SPAN_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP29",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=3(3) G=0(0) \u2192 3",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP35",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=2(2) \u2192 2",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP3",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP50",
+      "n_changes": 8,
+      "details": [
+        "SDK_lang: C=10(10) G=9(9) \u2192 10",
+        "SDK_prog_lang: C=5(5) G=0(0) \u2192 5",
+        "COM_lang: C=10(10) G=9(9) \u2192 10"
+      ]
+    },
+    {
+      "platform": "CP5",
+      "n_changes": 3,
+      "details": [
+        "SDK_prog_lang: C=5(5) G=0(0) \u2192 5",
+        "SPAN_lang: C=10(10) G=0(0) \u2192 10",
+        "CERT_lang: C=10(10) G=0(0) \u2192 10"
+      ]
+    },
+    {
+      "platform": "CP66",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=4(4) G=4(4) \u2192 6"
+      ]
+    },
+    {
+      "platform": "CP67",
+      "n_changes": 4,
+      "details": [
+        "SPAN_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP71",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP72",
+      "n_changes": 7,
+      "details": [
+        "SDK_lang: C=2(2) G=1(1) \u2192 2",
+        "SDK_prog_lang: C=2(2) G=1(1) \u2192 2",
+        "COM_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CP74",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP7",
+      "n_changes": 8,
+      "details": [
+        "SDK_lang: C=9(9) G=8(8) \u2192 9",
+        "SDK_prog_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=9(9) G=8(8) \u2192 9"
+      ]
+    },
+    {
+      "platform": "CP81",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "GIT_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP85",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP89",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP8",
+      "n_changes": 1,
+      "details": [
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP90",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "CP98",
+      "n_changes": 4,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP99",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "CP9",
+      "n_changes": 8,
+      "details": [
+        "SDK_lang: C=4(4) G=4(4) \u2192 5",
+        "SDK_prog_lang: C=5(5) G=0(0) \u2192 5",
+        "COM_lang: C=4(4) G=4(4) \u2192 5"
+      ]
+    },
+    {
+      "platform": "FO12",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO14",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO17",
+      "n_changes": 1,
+      "details": [
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO30",
+      "n_changes": 4,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=8(8) G=0(0) \u2192 8",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO31",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=2(2) G=5(5) \u2192 5"
+      ]
+    },
+    {
+      "platform": "FO41",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO42",
+      "n_changes": 3,
+      "details": [
+        "SDK_prog_lang: C=10(10) G=8(8) \u2192 10",
+        "SPAN_lang: C=1(1) G=0(0) \u2192 1",
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO4",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO71",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO74",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "FO8",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=3(3) G=4(4) \u2192 5",
+        "ROLE_lang: C=3(3) G=4(4) \u2192 5",
+        "DATA_lang: C=3(3) G=4(4) \u2192 5"
+      ]
+    },
+    {
+      "platform": "HO111",
+      "n_changes": 4,
+      "details": [
+        "SDK_lang: C=8(8) G=1(1) \u2192 8",
+        "COM_lang: C=8(8) G=0(0) \u2192 8",
+        "ROLE_lang: C=8(8) G=0(0) \u2192 8"
+      ]
+    },
+    {
+      "platform": "HO165",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO233",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO2",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO307",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO326",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO368",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO45",
+      "n_changes": 5,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO56",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "HO5",
+      "n_changes": 5,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "SPAN_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "IH11",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "IH25",
+      "n_changes": 2,
+      "details": [
+        "SDK_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "IH73",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "IH76",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "IH80",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "PE110",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE131",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE145",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE153",
+      "n_changes": 1,
+      "details": [
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "PE179",
+      "n_changes": 2,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE187",
+      "n_changes": 2,
+      "details": [
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=1(1) \u2192 2"
+      ]
+    },
+    {
+      "platform": "PE197",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=4(4) G=9(9) \u2192 9"
+      ]
+    },
+    {
+      "platform": "PE210",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1",
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE212",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=2(2) G=2(2) \u2192 3"
+      ]
+    },
+    {
+      "platform": "PE216",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=0(0) G=1(1) \u2192 1",
+        "SDK_prog_lang: C=0(0) G=8(10) \u2192 10",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE219",
+      "n_changes": 4,
+      "details": [
+        "SDK_prog_lang: C=1(1) G=3(3) \u2192 3",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "DATA_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "PE24",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE33",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE47",
+      "n_changes": 1,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE54",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE67",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=2(2) G=1(1) \u2192 2",
+        "SDK_prog_lang: C=14(14) G=8(8) \u2192 14",
+        "STORE_lang: C=27(27) G=1(1) \u2192 27"
+      ]
+    },
+    {
+      "platform": "PE71",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE72",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "PE8",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TG574",
+      "n_changes": 1,
+      "details": [
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR100",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR11",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR135",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR14",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR152",
+      "n_changes": 1,
+      "details": [
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR181",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR33",
+      "n_changes": 4,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "GIT_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "TR70",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG102",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=8(8) G=0(0) \u2192 8",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG120",
+      "n_changes": 2,
+      "details": [
+        "SDK_prog_lang: C=5(5) G=4(4) \u2192 6",
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG121",
+      "n_changes": 3,
+      "details": [
+        "SDK_prog_lang: C=4(4) G=7(7) \u2192 8",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1",
+        "STORE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG138",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG139",
+      "n_changes": 3,
+      "details": [
+        "SDK_prog_lang: C=9(9) G=8(8) \u2192 9",
+        "DATA_lang: C=3(3) G=0(0) \u2192 3",
+        "CERT_lang: C=3(3) G=0(0) \u2192 3"
+      ]
+    },
+    {
+      "platform": "VG140",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG142",
+      "n_changes": 4,
+      "details": [
+        "SDK_lang: C=2(2) G=0(0) \u2192 2",
+        "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+        "STORE_lang: C=2(2) G=0(0) \u2192 2"
+      ]
+    },
+    {
+      "platform": "VG155",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "SPAN_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG161",
+      "n_changes": 2,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=5(5) G=0(0) \u2192 5"
+      ]
+    },
+    {
+      "platform": "VG163",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=7(7) G=6(6) \u2192 7"
+      ]
+    },
+    {
+      "platform": "VG173",
+      "n_changes": 4,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=2(2) G=0(0) \u2192 2",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG180",
+      "n_changes": 6,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=9(9) G=0(0) \u2192 9",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG197",
+      "n_changes": 6,
+      "details": [
+        "SDK_lang: C=1(1) G=0(0) \u2192 1",
+        "SDK_prog_lang: C=8(8) G=0(0) \u2192 8",
+        "COM_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG198",
+      "n_changes": 5,
+      "details": [
+        "SDK_lang: C=28(28) G=1(1) \u2192 28",
+        "SDK_prog_lang: C=3(3) G=0(0) \u2192 3",
+        "ROLE_lang: C=28(28) G=1(1) \u2192 28"
+      ]
+    },
+    {
+      "platform": "VG202",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG28",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1",
+        "DATA_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG29",
+      "n_changes": 3,
+      "details": [
+        "COM_lang: C=6(6) G=0(0) \u2192 6",
+        "DATA_lang: C=6(6) G=0(0) \u2192 6",
+        "STORE_lang: C=6(6) G=0(0) \u2192 6"
+      ]
+    },
+    {
+      "platform": "VG47",
+      "n_changes": 1,
+      "details": [
+        "CERT_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG66",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=2(2) G=2(2) \u2192 3"
+      ]
+    },
+    {
+      "platform": "VG76",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG79",
+      "n_changes": 3,
+      "details": [
+        "SDK_lang: C=1(1) G=6(6) \u2192 6",
+        "SDK_prog_lang: C=3(3) G=4(4) \u2192 5",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG80",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=3(3) \u2192 3",
+        "STORE_lang: C=3(3) G=1(1) \u2192 3"
+      ]
+    },
+    {
+      "platform": "VG8",
+      "n_changes": 2,
+      "details": [
+        "COM_lang: C=1(1) G=0(0) \u2192 1",
+        "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+      ]
+    },
+    {
+      "platform": "VG91",
+      "n_changes": 6,
+      "details": [
+        "SDK_lang: C=2(2) G=3(3) \u2192 3",
+        "SDK_prog_lang: C=10(10) G=7(7) \u2192 10",
+        "COM_lang: C=2(2) G=3(3) \u2192 3"
+      ]
+    },
+    {
+      "platform": "VG98",
+      "n_changes": 1,
+      "details": [
+        "SDK_prog_lang: C=17(17) G=10(10) \u2192 18"
+      ]
+    }
+  ]
+}

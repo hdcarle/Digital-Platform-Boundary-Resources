@@ -1,0 +1,135 @@
+{
+  "platform_id": "PE153",
+  "platform_name": "Rakuten Group Inc",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 2,
+    "COM_lang_list": "English; Japanese",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 0,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/rakutentech",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 11,
+    "GIT_prog_lang_list": "Go; Groovy; HTML/CSS; JavaScript; Kotlin; PHP; Python; Ruby; Rust; Swift; TypeScript",
+    "MON": 0,
+    "EVENT": 1,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 1,
+    "EVENT_conference": 1,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "Japan",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 1,
+    "DATA_lang": 2,
+    "DATA_lang_list": "English; Japanese",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 2,
+    "OPEN_lang_list": "English; Japanese"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Portal has language switcher with English and Japanese options"
+  },
+  "evidence": {
+    "API_evidence": "Rakuten Webservice API mentioned on main portal: 'The API services on this site provide information about items listed for sale on Rakuten sites, shopping cart and other functionality for use by individual developers and corporate enterprise teams.'",
+    "SDK_evidence": "No SDK documentation found on developer portal pages",
+    "AI_evidence": "Rakuten AI mentioned but no developer-facing AI APIs or tools documented",
+    "language_evidence": "Language switcher shows English/Japanese options; privacy policy and other documents available in both languages"
+  },
+  "pages_analyzed": 6,
+  "coding_notes": "Portal mentions Rakuten Webservice API but no detailed API documentation, endpoints, or HTTP methods found in scraped content. GitHub repo shows active development with 12 programming languages. Privacy policies exist for recruitment activities indicating data governance. Portal has language switcher for English/Japanese. Events mentioned include Rakuten Technology Conference and Career Events.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "12 \u2192 11",
+        "GIT_prog_lang_list": "\"Go; Swift; Kotlin; Python; JavaScript; Ruby; Groovy; PHP; TypeScript; Rust; HTML/CSS; Jupyter Notebook\" \u2192 \"Go; Groovy; HTML/CSS; JavaScript; Kotlin; PHP; Python; Ruby; Rust; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 1,
+    "details": [
+      "DATA_lang: C=2(2) G=0(0) \u2192 2"
+    ],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "DOCS: 0\u21921 (ChatGPT found)",
+      "METH: 0\u21922 (ChatGPT higher)"
+    ]
+  }
+}

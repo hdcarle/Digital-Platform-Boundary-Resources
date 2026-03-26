@@ -1,0 +1,120 @@
+{
+  "platform_id": "CA63",
+  "platform_name": "Navitel Poland Sp zoo",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 0,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 0,
+    "DOCS": 0,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 0,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 0,
+    "GIT_url": "",
+    "GIT_lang": 0,
+    "GIT_lang_list": "",
+    "GIT_prog_lang": 0,
+    "GIT_prog_lang_list": "",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 0,
+    "OPEN_lang": 0,
+    "OPEN_lang_list": ""
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Multiple language options available in navigation (en, pl, cz, ee, lv, bg, lt, md, vi, hu, ro, sk)"
+  },
+  "evidence": {
+    "API_evidence": "No API documentation found - this appears to be a product showcase page for navigation devices and software, not a developer portal",
+    "SDK_evidence": "No SDK or development resources found",
+    "AI_evidence": "No AI-related resources found",
+    "language_evidence": "Language switcher shows multiple languages available (en, pl, cz, ee, lv, bg, lt, md, vi, hu, ro, sk)"
+  },
+  "pages_analyzed": 1,
+  "coding_notes": "This appears to be a product showcase page for Navitel navigation devices and software rather than a true developer portal. Despite the URL containing 'developers', no API, SDK, or developer resources were found. The page focuses on hardware products (DVRs, GPS navigators, tablets) and consumer software. COM_help_support=1 due to Support section and FAQ mentioned. DATA=1 due to privacy policy and cookie policy references. OPEN=0 because no developer access mechanism is documented.",
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 2,
+    "details": [
+      "COM_lang: C=1(1) G=0(0) \u2192 1",
+      "DATA_lang: C=1(1) G=0(0) \u2192 1"
+    ]
+  }
+}

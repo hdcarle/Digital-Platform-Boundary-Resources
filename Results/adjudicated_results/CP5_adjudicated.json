@@ -1,0 +1,131 @@
+{
+  "platform_id": "CP5",
+  "platform_name": "Alphabet Inc",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 4,
+    "API_YEAR": "2022"
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 10,
+    "SDK_lang_list": "English; German; Spanish; French; Indonesian; Portuguese; Russian; Simplified Chinese; Japanese; Korean",
+    "SDK_prog_lang": 5,
+    "SDK_prog_lang_list": "C++; Go; Java; JavaScript; Python",
+    "BUG": 1,
+    "BUG_types": "Troubleshooting guides; Error debugging documentation; Testing environments",
+    "BUG_prog_lang_list": "Python; JavaScript",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0; OpenID Connect; WebRTC"
+  },
+  "ai": {
+    "AI_MODEL": 1,
+    "AI_MODEL_types": "Gemini models; Large language models; AI code generation",
+    "AI_AGENT": 1,
+    "AI_AGENT_platforms": "Gemini CLI; Gemini Code Assist agent mode",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "Gemini Code Assist; AI code completion; Code generation",
+    "AI_DATA": 1,
+    "AI_DATA_protocols": "Model Context Protocol (MCP)",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 10,
+    "COM_lang_list": "English; German; Spanish; French; Indonesian; Portuguese; Russian; Simplified Chinese; Japanese; Korean",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/google",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 9,
+    "GIT_prog_lang_list": "C; C++; Go; HTML/CSS; Java; JavaScript; Python; Rust; TypeScript",
+    "MON": 1,
+    "EVENT": 1,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 1,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 1,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 1,
+    "SPAN_lang": 10,
+    "SPAN_lang_list": "English; French; German; Indonesian; Japanese; Korean; Portuguese; Russian; Simplified Chinese; Spanish",
+    "SPAN_countries": "Global"
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 10,
+    "ROLE_lang_list": "English; German; Spanish; French; Indonesian; Portuguese; Russian; Simplified Chinese; Japanese; Korean",
+    "DATA": 1,
+    "DATA_lang": 10,
+    "DATA_lang_list": "English; German; Spanish; French; Indonesian; Portuguese; Russian; Simplified Chinese; Japanese; Korean",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 1,
+    "CERT_lang": 10,
+    "CERT_lang_list": "English; French; German; Indonesian; Japanese; Korean; Portuguese; Russian; Simplified Chinese; Spanish",
+    "OPEN": 1,
+    "OPEN_lang": 10,
+    "OPEN_lang_list": "English; Deutsch; Espa\u00f1ol; Fran\u00e7ais; Indonesia; Portugu\u00eas \u2013 Brasil; \u0420\u0443\u0441\u0441\u043a\u0438\u0439; \u4e2d\u6587 \u2013 \u7b80\u4f53; Japanese; \ud55c\uad6d\uc5b4"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Language switcher available with 10 languages"
+  },
+  "evidence": {
+    "API_evidence": "Gemini API documented with REST endpoints, authentication guides, and developer access",
+    "SDK_evidence": "Multiple programming language SDKs mentioned including Python, JavaScript, Java, Go, C++",
+    "AI_evidence": "Extensive AI capabilities including Gemini models, Code Assist, CLI tools, and MCP protocol support",
+    "language_evidence": "Language switcher present with 10 languages across all developer resources"
+  },
+  "pages_analyzed": 58,
+  "coding_notes": "Google Developers portal with comprehensive AI/ML focus, extensive Gemini integration, multiple language support, and strong developer ecosystem including GDE program",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C++; Go; HTML/CSS; Java; JavaScript; Python; Rust; TypeScript\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 3,
+    "details": [
+      "SDK_prog_lang: C=5(5) G=0(0) \u2192 5",
+      "SPAN_lang: C=10(10) G=0(0) \u2192 10",
+      "CERT_lang: C=10(10) G=0(0) \u2192 10"
+    ]
+  }
+}

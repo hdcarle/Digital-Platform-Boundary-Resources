@@ -1,0 +1,131 @@
+{
+  "platform_id": "CC54",
+  "platform_name": "Banco do Brasil SA",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 3,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 1,
+    "BUG_types": "sandbox",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0; FAPI"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "Portuguese",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/bancodobrasil",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 5,
+    "GIT_prog_lang_list": "Go; HTML/CSS; JavaScript; Python; TypeScript",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "Portuguese",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "Portuguese",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "Portuguese"
+  },
+  "moderators": {
+    "home_primary_lang": "Portuguese",
+    "language_notes": "Portal is in Portuguese"
+  },
+  "evidence": {
+    "API_evidence": "Multiple APIs documented including API BB Pay Arrecada\u00e7\u00e3o, API Pix, API Cobran\u00e7a, API Extratos, etc. Documentation links provided for each API.",
+    "SDK_evidence": "No SDKs found in documentation, only API access mentioned",
+    "AI_evidence": "No AI-related resources found",
+    "language_evidence": "All content is in Portuguese, no language switcher found"
+  },
+  "pages_analyzed": 6,
+  "coding_notes": "AGE=3 based on API versions found (v1, v2, v3). METH=2 inferred from payment and transaction APIs requiring POST operations. ROLE=1 due to OAuth authentication with multiple authorization levels mentioned in API Pix documentation. DATA=1 due to privacy policy and data protection notices linked from portal. BUG=1 due to sandbox environment mentioned. STAN=1 for OAuth 2.0 and FAPI standards. Forum link exists but certificate error prevents access.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; TypeScript; CSS; JavaScript; HTML/CSS\" \u2192 \"Go; HTML/CSS; JavaScript; Python; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 0,
+    "details": [],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "COM_social_media: 0\u21921 (ChatGPT found)"
+    ]
+  }
+}

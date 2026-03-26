@@ -1,0 +1,131 @@
+{
+  "platform_id": "PE72",
+  "platform_name": "GoPro Inc",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 1,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST; PUT"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0; Basic access authentication; SSL/TLS; Network Control Model (NCM); ISO Base Media file format (ISO 14496-12)"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 0,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 0,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/gopro/OpenGoPro/tree/main/demos",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 4,
+    "GIT_prog_lang_list": "Bash/Shell; HTML/CSS; Kotlin; Python",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "English",
+    "DATA": 0,
+    "DATA_lang": 0,
+    "DATA_lang_list": "",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "Comprehensive HTTP API documentation with REST endpoints for camera control, media management, settings configuration, and streaming. Multiple HTTP methods documented including GET, POST, PUT.",
+    "SDK_evidence": "No SDKs or client libraries found in the documentation. Only HTTP API endpoints are provided.",
+    "AI_evidence": "No AI/ML models, AI agents, or AI-related functionality documented.",
+    "language_evidence": "Documentation is in English only. No language switcher or multi-language support found."
+  },
+  "pages_analyzed": 12,
+  "coding_notes": "This is GoPro's Open GoPro HTTP API documentation. The platform provides comprehensive REST API access for camera control but no traditional SDKs. Authentication involves Basic auth and OAuth-like flows. The API supports full CRUD operations with GET, POST, and PUT methods. GitHub repository referenced but content not analyzed for programming languages.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_url": "\"https://github.com/gopro/OpenGoPro\" \u2192 \"https://github.com/gopro/OpenGoPro/tree/main/demos\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; HTML/CSS; Kotlin; Python\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 2,
+    "details": [
+      "COM_lang: C=1(1) G=0(0) \u2192 1",
+      "ROLE_lang: C=1(1) G=0(0) \u2192 1"
+    ]
+  }
+}

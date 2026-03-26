@@ -1,0 +1,120 @@
+{
+  "platform_id": "CC312",
+  "platform_name": "Tuya SA",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 2,
+    "SDK_lang_list": "English; Chinese",
+    "SDK_prog_lang": 10,
+    "SDK_prog_lang_list": "C; TypeScript; Python; Java; Objective-C; Kotlin; JavaScript; Ruby; Swift; HTML",
+    "BUG": 1,
+    "BUG_types": "Wind IDE; Module Debugging Assistant; Demo Board",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 2,
+    "COM_lang_list": "English; Chinese",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 1,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/tuya",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 10,
+    "GIT_prog_lang_list": "C; HTML/CSS; Java; JavaScript; Kotlin; Objective-C; Python; Ruby; Swift; TypeScript",
+    "MON": 0,
+    "EVENT": 1,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 1,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "English",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 2,
+    "OPEN_lang_list": "English; Chinese"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Language switcher shows English and Chinese (简体中文) options"
+  },
+  "evidence": {
+    "API_evidence": "API Services mentioned in search suggestions, Cloud Service API documentation section, IoT Core APIs referenced",
+    "SDK_evidence": "Smart App SDK, TuyaOS SDK, GitHub repositories with multiple programming languages including C, TypeScript, Python, Java, Objective-C, Kotlin, JavaScript, Ruby, Swift, HTML",
+    "AI_evidence": "No AI-specific APIs, agents, or tools found in documentation",
+    "language_evidence": "Language switcher with English/Chinese options, content available in both languages"
+  },
+  "pages_analyzed": 50,
+  "coding_notes": "Platform has comprehensive developer resources including SDKs, documentation, debugging tools, and GitHub presence. API presence confirmed through documentation references but specific HTTP methods not documented in scraped content. Developer registration appears to be free self-service based on registration links and platform structure.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang_list": "\"C; TypeScript; Python; Java; Objective-C; Kotlin; JavaScript; Ruby; Swift; HTML\" → \"C; HTML/CSS; Java; JavaScript; Kotlin; Objective-C; Python; Ruby; Swift; TypeScript\""
+      }
+    }
+  }
+}

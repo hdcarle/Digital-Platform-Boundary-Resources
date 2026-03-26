@@ -1,6 +1,6 @@
 # Digital-Platform-Boundary-Resources
 
-**PhD Dissertation — Designing Digital Platforms: Boundary Decisions that Impact the Development of Global Ecosystems**
+**PhD Dissertation — Internationalization of Digital Platform Firms: An Exploration of Resource Orchestration, Platform Accessibility, and Cultural Distance**
 
 Heather D. Carle | University of North Carolina at Greensboro | 2026
 
@@ -18,8 +18,6 @@ Cultural distance, natural language, and computer programming language are exami
 
 This repository contains the source data files used for panel data as well as the summary coded data. In addition, all scripts used for data scraping, AI agent coding, and R files used for analysis are provided, enabling other researchers to reproduce the research project with the same or new firms.
 
-**Estimated repository size: 9.1 MB**
-
 ### Documentation (`REFERENCE/`)
 
 Methodology documentation, coding instructions, and workflow guides:
@@ -32,7 +30,7 @@ Methodology documentation, coding instructions, and workflow guides:
 
 ### Python Scripts (`Scripts/`)
 
-Automated data collection pipeline — 18 scripts covering web scraping, GitHub data enrichment, AI coding, inter-rater reliability, and result merging:
+Automated data collection pipeline — 17 scripts covering web scraping, GitHub data enrichment, AI coding, inter-rater reliability, and result merging:
 
 | Script | Stage | Purpose |
 |--------|-------|---------|
@@ -42,26 +40,50 @@ Automated data collection pipeline — 18 scripts covering web scraping, GitHub 
 | `irr_calculator.py` | IRR | Gwet's AC1, Cohen's Kappa, Krippendorff's Alpha, ICC |
 | `merge_results.py` | Merge | Consensus-rule merge into MASTER_CODEBOOK |
 
-See `COMPLETE_BEGINNER_GUIDE.md` in that directory for step-by-step instructions.
+See `COMPLETE_BEGINNER_GUIDE.md` (root) for step-by-step instructions.
 
-### R Scripts (`R SCripts/`)
+### R Scripts (`R scripts/`)
 
-Statistical analysis pipeline — 14 sequential scripts from data import through SEM and cluster analysis:
+Statistical analysis pipeline — 17 sequential scripts from data import through SEM and cluster analysis:
 
 | Script | Purpose |
 |--------|---------|
 | `01_import_and_dv.R` | Import master codebook, compute DV and moderator |
+| `02_ind_grow.R` | Industry growth variable computation |
+| `03_tables_3_and_4.R` | Dissertation Tables 3 and 4 |
+| `04_wdi_controls.R` | World Development Indicator control variables |
+| `05_merge_adjudicated_data.R` | Merge adjudicated coding data |
 | `06_composite_scores.R` | Boundary resource composite scores (5 classes) |
 | `07_pca_resource_structure.R` | Principal Component Analysis |
+| `08_descriptive_statistics.R` | Descriptive statistics and tables |
+| `09_validity_checks.R` | Validity and reliability checks |
+| `10_cultural_distance_kogut_singh.R` | Cultural distance (Kogut-Singh index) |
 | `11_sem_moderated_mediation.R` | SEM: moderated mediation (H1–H4) |
+| `12_pca_aligned_sem.R` | PCA-aligned SEM robustness check |
 | `14_cluster_performance.R` | Cluster analysis of resource profiles |
+| `15_language_market_fit.R` | Language-market fit analysis |
+| `16_E_PLF_CD_diagnostic.R` | GLOBE cluster × cultural distance analysis |
+| `calculate_irr.R` | Inter-rater reliability calculations |
+| `dissertation_language_analysis.R` | Programming and natural language analysis |
+
+### Results (`Results/`)
+
+AI coding output data:
+
+- **`claude_results/`** — Claude AI coding output (~242 JSON files)
+- **`chatgpt_results/`** — ChatGPT AI coding output (~242 JSON files)
+- **`adjudicated_results/`** — Final consensus-resolved codings (~903 JSON files)
+- **`irr_test/`** — 16-platform IRR subset results (JSON only)
+
+### Output CSV (`Output CSV/`)
+
+R analysis output files including correlation matrices, PCA loadings, cluster assignments, and descriptive tables.
 
 ### Data Files
+
 - **`REFERENCE/MASTER_CODEBOOK.xlsx`** — Master codebook: 6,617 firm-country dyad rows × 126 columns
 - **`REFERENCE/ALL_PLATFORMS_URL_TRACKER.csv`** — 901 platforms across 10 industries with developer portal URLs
-- **`Output CSV/`** — R output CSVs (correlation matrices, PCA loadings, cluster assignments, etc.)
-
-
+- **`dissertation data/`** — ISO reference data and industry market share CSVs
 
 ---
 
@@ -71,7 +93,7 @@ Statistical analysis pipeline — 14 sequential scripts from data import through
 2. **GitHub enrichment**: Run `inject_github_urls.py` → `validate_github_urls.py` → `github_lang_scraper.py`
 3. **AI coding**: Run `claude_coder.py` and `chatgpt_coder.py` (requires API keys)
 4. **IRR & merge**: Run `irr_calculator.py` then `merge_results.py`
-5. **Statistical analysis**: Run R scripts 01–14 sequentially in `dissertation analysis/`
+5. **Statistical analysis**: Run R scripts 01–16_E sequentially in `R scripts/`
 
 See `REFERENCE/MULTI_CODER_WORKFLOW_v2.0_FINAL.md` for the complete pipeline documentation.
 
@@ -87,7 +109,7 @@ See `REFERENCE/MULTI_CODER_WORKFLOW_v2.0_FINAL.md` for the complete pipeline doc
 
 ## Citation
 
-Carle, H. D. (2026). *Designing Digital Platforms: Boundary Decisions that Impact the Development of Global Ecosystems* [Doctoral dissertation, University of North Carolina at Greensboro].
+Carle, H. D. (2026). *Internationalization of Digital Platform Firms: An Exploration of Resource Orchestration, Platform Accessibility, and Cultural Distance* [Doctoral dissertation, University of North Carolina at Greensboro].
 
 ## License
 

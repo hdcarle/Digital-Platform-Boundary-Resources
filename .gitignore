@@ -1,0 +1,40 @@
+# API keys and tokens
+*token*
+*api_key*
+*.env
+.env.*
+
+# Scraped content (too large; reproducible via scripts)
+scraped_content/
+
+# Third-party data (licensing restrictions)
+dissertation data/platform market share data/
+dissertation data/euromonitor/
+dissertation data/wdi/
+dissertation data/hofstede/
+dissertation data/globe/
+dissertation data/cepii/
+dissertation data/ef_epi/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Temporary files
+*.tmp
+*~

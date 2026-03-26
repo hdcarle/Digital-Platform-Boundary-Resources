@@ -1,0 +1,131 @@
+{
+  "platform_id": "VG121",
+  "platform_name": "Microsoft Corp",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "RESTRICTED",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 0,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "English",
+    "SDK_prog_lang": 8,
+    "SDK_prog_lang_list": "C#; C++; HTML; Java; JavaScript; PowerShell; Python; TypeScript",
+    "BUG": 1,
+    "BUG_types": "troubleshooting documentation",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 1,
+    "AI_MODEL_types": "Azure OpenAI; Azure Machine Learning; Azure AI Search; Azure Speech; Azure Document Intelligence; Azure Computer Vision; Azure Translator; Azure AI Bot Service",
+    "AI_AGENT": 1,
+    "AI_AGENT_platforms": "Microsoft Copilot; GitHub Copilot",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "GitHub Copilot; Microsoft Copilot for Azure",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 1,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/microsoft",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 8,
+    "GIT_prog_lang_list": "C#; C++; HTML/CSS; Java; PowerShell; Python; SQL; TypeScript",
+    "MON": 0,
+    "EVENT": 4,
+    "EVENT_webinars": 1,
+    "EVENT_virtual": 1,
+    "EVENT_in_person": 1,
+    "EVENT_conference": 1,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 1,
+    "STORE_lang": 1,
+    "STORE_lang_list": "English",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "No game-specific APIs documented. This is a game development portal focused on tools and services rather than providing APIs for third-party developers to access game data or functionality.",
+    "SDK_evidence": "Microsoft Foundry SDK available in Python, C#, JavaScript, and Java. Code samples and documentation provided through Microsoft Learn.",
+    "AI_evidence": "Extensive AI services including Azure OpenAI, Machine Learning, AI Search, Speech, Document Intelligence, Computer Vision, Translator, and Bot Service. GitHub Copilot and Microsoft Copilot for Azure provide AI assistance.",
+    "language_evidence": "Portal content is in English. No language switcher found."
+  },
+  "pages_analyzed": 50,
+  "coding_notes": "This is Microsoft's game development portal, not a gaming platform API. It provides development tools, services, and resources for game developers rather than APIs for accessing game data. The platform offers extensive AI services and development tools but no traditional game APIs.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "10 \u2192 8",
+        "GIT_prog_lang_list": "\"TypeScript; Python; C#; Rust; PowerShell; C++; Java; C; Go; JavaScript\" \u2192 \"C#; C++; HTML/CSS; Java; PowerShell; Python; SQL; TypeScript\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 3,
+    "details": [
+      "SDK_prog_lang: C=4(4) G=7(7) \u2192 8",
+      "DATA_lang: C=1(1) G=0(0) \u2192 1",
+      "STORE_lang: C=1(1) G=0(0) \u2192 1"
+    ]
+  }
+}

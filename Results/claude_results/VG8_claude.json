@@ -1,0 +1,120 @@
+{
+  "platform_id": "VG8",
+  "platform_name": "ArenaNet LLC",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 1,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 1,
+    "METH_list": "GET"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 0,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 0,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/arenanet",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 3,
+    "GIT_prog_lang_list": "C#; JavaScript; Python",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "English",
+    "DATA": 0,
+    "DATA_lang": 0,
+    "DATA_lang_list": "",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "API supports multiple locales: en, es, de, fr, zh"
+  },
+  "evidence": {
+    "API_evidence": "Guild Wars 2 Public API v2 with extensive endpoint documentation and authentication system",
+    "SDK_evidence": "GitHub repositories contain JavaScript, C#, and Python code but no official SDKs documented in portal",
+    "AI_evidence": "No AI-related resources found",
+    "language_evidence": "API supports locale parameter with 5 languages: en, es, de, fr, zh"
+  },
+  "pages_analyzed": 1,
+  "coding_notes": "Portal is minimal API documentation page. Authentication system with API keys and scoped permissions indicates ROLE=1. No terms of service or data policies found for DATA=0. Free access to API documentation indicates OPEN=1.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; C#; Python\" → \"C#; JavaScript; Python\""
+      }
+    }
+  }
+}

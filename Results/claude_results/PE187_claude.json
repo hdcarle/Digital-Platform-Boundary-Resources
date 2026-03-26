@@ -1,0 +1,121 @@
+{
+  "platform_id": "PE187",
+  "platform_name": "SZ DJI Technology Co Ltd",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "Login/Register buttons visible on developer portal",
+  "platform_controls": {
+    "AGE": 6,
+    "API_YEAR": "2020"
+  },
+  "application": {
+    "API": 1,
+    "METH": 1,
+    "METH_list": "GET"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 2,
+    "SDK_lang_list": "English; Chinese",
+    "SDK_prog_lang": 2,
+    "SDK_prog_lang_list": "Java; Swift",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 2,
+    "COM_lang_list": "English; Chinese",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/dji-sdk",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 9,
+    "GIT_prog_lang_list": "C; C#; C++; HTML/CSS; Java; JavaScript; Objective-C; Python; Ruby",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 2,
+    "ROLE_lang_list": "English; Chinese",
+    "DATA": 1,
+    "DATA_lang": 2,
+    "DATA_lang_list": "English; Chinese",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 2,
+    "OPEN_lang_list": "English; Chinese"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Language switcher shows English and Chinese options"
+  },
+  "evidence": {
+    "API_evidence": "FlightHub Mapping API documented with framework and business strategy sections",
+    "SDK_evidence": "Multiple SDKs available: Mobile SDK, UX SDK, Windows SDK, Payload SDK, Edge SDK, Onboard SDK with version numbers and supported products",
+    "AI_evidence": "No AI-specific resources found",
+    "language_evidence": "Language switcher in footer shows English and Chinese options"
+  },
+  "pages_analyzed": 18,
+  "coding_notes": "Platform has comprehensive developer resources including multiple SDKs, APIs, documentation, forum, blog, and GitHub presence. Registration required as indicated by Login/Register buttons. Privacy Policy and Terms of Use provide data governance framework.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "0 → 9",
+        "GIT_prog_lang_list": "\"\" → \"C; C#; C++; HTML/CSS; Java; JavaScript; Objective-C; Python; Ruby\""
+      }
+    }
+  }
+}

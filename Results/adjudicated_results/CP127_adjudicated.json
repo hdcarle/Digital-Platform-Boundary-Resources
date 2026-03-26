@@ -1,0 +1,134 @@
+{
+  "platform_id": "CP127",
+  "platform_name": "Xiaomi Corp",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 1,
+    "METH_list": "GET"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 2,
+    "SDK_lang_list": "Chinese; English",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 1,
+    "BUG_types": "test environment; cloud testing",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 2,
+    "COM_lang_list": "Chinese; English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/MiCode",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 3,
+    "GIT_prog_lang_list": "C; Java; Python",
+    "MON": 1,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 2,
+    "ROLE_lang_list": "Chinese; English",
+    "DATA": 1,
+    "DATA_lang": 2,
+    "DATA_lang_list": "Chinese; English",
+    "STORE": 1,
+    "STORE_lang": 2,
+    "STORE_lang_list": "Chinese; English",
+    "CERT": 1,
+    "CERT_lang": 2,
+    "CERT_lang_list": "Chinese; English",
+    "OPEN": 1,
+    "OPEN_lang": 2,
+    "OPEN_lang_list": "English; Chinese"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Language switcher shows English and Chinese (\u4e2d\u6587) options"
+  },
+  "evidence": {
+    "API_evidence": "GetApps Interface User Guide, Referral API Introduction, Api to get order data, Generic GetApps interface request header mentioned in documentation",
+    "SDK_evidence": "Xiaomi GetApps IAP-SDK mentioned throughout documentation with integration guides and testing instructions",
+    "AI_evidence": "No AI-specific resources found",
+    "language_evidence": "Language switcher in header shows English/\u4e2d\u6587 options, documentation available in both languages"
+  },
+  "pages_analyzed": 11,
+  "coding_notes": "Platform provides GetApps app store with comprehensive developer resources including APIs for order data and referrals, IAP SDK, testing environment, app review/certification process, and monetization through in-app payments and advertising. GitHub repository contains multiple programming languages. Social media presence via LinkedIn.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 3",
+        "GIT_prog_lang_list": "\"C; Java; Python; Makefile; Smali\" \u2192 \"C; Java; Python\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 6,
+    "details": [
+      "SDK_lang: C=2(2) G=0(0) \u2192 2",
+      "COM_lang: C=2(2) G=0(0) \u2192 2",
+      "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+      "DATA_lang: C=2(2) G=0(0) \u2192 2",
+      "STORE_lang: C=2(2) G=0(0) \u2192 2",
+      "CERT_lang: C=2(2) G=0(0) \u2192 2"
+    ]
+  }
+}

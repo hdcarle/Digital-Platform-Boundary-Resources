@@ -1,0 +1,132 @@
+{
+  "platform_id": "VG131",
+  "platform_name": "NCsoft Corp",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 1,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 1,
+    "METH_list": "GET"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 2,
+    "COM_lang_list": "English; Korean",
+    "COM_social_media": 0,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/ncsoft",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 4,
+    "GIT_prog_lang_list": "C++; HTML/CSS; JavaScript; Python",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 2,
+    "ROLE_lang_list": "English; Korean",
+    "DATA": 1,
+    "DATA_lang": 2,
+    "DATA_lang_list": "English; Korean",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 2,
+    "OPEN_lang_list": "English; Korean"
+  },
+  "moderators": {
+    "home_primary_lang": "Korean",
+    "language_notes": "Portal available in Korean and English with language switcher"
+  },
+  "evidence": {
+    "API_evidence": "Lineage 2M API documented with GET endpoints for market items search, item price statistics, item info, and server info. API server at https://dev-api.plaync.com/l2m/v1.0",
+    "SDK_evidence": "No SDK documentation found. GitHub repositories contain code but no official SDK packages or client libraries documented",
+    "AI_evidence": "No AI-related resources found",
+    "language_evidence": "Language switcher shows English/Korean options. Terms and privacy policy available in multiple languages including English, Korean, Russian, Japanese, Chinese, German, French, Spanish, Portuguese"
+  },
+  "pages_analyzed": 5,
+  "coding_notes": "ROLE=1 because API requires authentication key and registration. DATA=1 because comprehensive Terms of Use and Privacy Policy specify data usage restrictions for developers. OPEN=1 because registration appears to be free self-service (login to PLAYNC and register app to get API key). GIT_prog_lang includes Jupyter Notebook which is not in valid list, so counted as 4 valid languages: Python, C++, JavaScript, HTML.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"Python; C++; JavaScript; HTML; Jupyter Notebook\" \u2192 \"C++; HTML/CSS; JavaScript; Python\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 0,
+    "details": [],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "COM_FAQ: 0\u21921 (ChatGPT found)"
+    ]
+  }
+}

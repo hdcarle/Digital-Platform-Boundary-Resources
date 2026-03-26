@@ -1,0 +1,134 @@
+{
+  "platform_id": "CP14",
+  "platform_name": "AsusTek Computer Inc",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "RESTRICTED",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 0,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 0,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 1,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/asus-development",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 4,
+    "GIT_prog_lang_list": "Bash/Shell; C; C++; Java",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "No API documentation found. This is an IoT hardware platform focused on industrial motherboards, embedded computers, and edge AI systems. No developer-facing APIs documented.",
+    "SDK_evidence": "No SDKs found. Platform provides hardware products and cloud console (AICC) but no software development kits for third-party developers.",
+    "AI_evidence": "Platform offers AI-powered solutions and edge AI systems but no AI models, agents, or development tools accessible to third-party developers.",
+    "language_evidence": "English language throughout portal. LinkedIn and YouTube links found in external links section and footer."
+  },
+  "pages_analyzed": 13,
+  "coding_notes": "ASUS IoT is a hardware-focused platform providing industrial computing solutions. DEVP=1 due to comprehensive developer portal website structure. GIT=1 with GitHub repository containing Android kernel and device tree code. DATA=1 due to comprehensive Privacy Policy. OPEN=1 as platform provides free access to resources and information. No APIs, SDKs, or developer tools found - this is primarily a hardware vendor portal.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"C; C++; Java; Shell; Makefile\" \u2192 \"Bash/Shell; C; C++; Java\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 2,
+    "details": [
+      "COM_lang: C=1(1) G=0(0) \u2192 1",
+      "DATA_lang: C=1(1) G=0(0) \u2192 1"
+    ],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "COM_Discord: 0\u21921 (ChatGPT found)"
+    ]
+  }
+}

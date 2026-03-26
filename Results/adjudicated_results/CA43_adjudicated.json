@@ -1,0 +1,124 @@
+{
+  "platform_id": "CA43",
+  "platform_name": "Hyundai Corp",
+  "analysis_date": "2026-02-20",
+  "coder": "Claude",
+  "PLAT": "RESTRICTED",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "Platform requires approval for access as indicated by restricted status",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 1,
+    "BUG_types": "\uc0d8\ud50c\ud14c\uc2a4\ud2b8",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "Korean",
+    "COM_social_media": 0,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 0,
+    "GIT_url": "",
+    "GIT_lang": 0,
+    "GIT_lang_list": "",
+    "GIT_prog_lang": 0,
+    "GIT_prog_lang_list": "",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "Korean",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "Korean",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 1,
+    "CERT_lang": 1,
+    "CERT_lang_list": "Korean",
+    "OPEN": 0,
+    "OPEN_lang": 0,
+    "OPEN_lang_list": ""
+  },
+  "moderators": {
+    "home_primary_lang": "Korean",
+    "language_notes": "Portal is primarily in Korean language"
+  },
+  "evidence": {
+    "API_evidence": "\uacc4\uc815 API and \ub370\uc774\ud130 API sections with endpoints for user authentication, token management, vehicle data, and vehicle status queries",
+    "SDK_evidence": "No SDK downloads or client libraries found",
+    "AI_evidence": "No AI-related resources found",
+    "language_evidence": "Portal content is in Korean language throughout"
+  },
+  "pages_analyzed": 14,
+  "coding_notes": "Platform is restricted access requiring approval. API documentation exists with GET endpoints for vehicle data. Sample test functionality provides debugging capability. Privacy policy and terms indicate data governance. Certification process mentioned for commercialization approval.",
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 2,
+    "details": [
+      "COM_lang: C=1(1) G=0(0) \u2192 1",
+      "CERT_lang: C=1(1) G=0(0) \u2192 1"
+    ],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "METH: 1\u21922 (ChatGPT higher)"
+    ]
+  }
+}

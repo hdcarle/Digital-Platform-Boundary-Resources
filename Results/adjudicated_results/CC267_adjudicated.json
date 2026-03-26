@@ -1,0 +1,135 @@
+{
+  "platform_id": "CC267",
+  "platform_name": "Sberbank PAO",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "Russian",
+    "SDK_prog_lang": 5,
+    "SDK_prog_lang_list": "C#; Java; JavaScript; PHP; Python",
+    "BUG": 1,
+    "BUG_types": "sandbox; test environment; playground",
+    "BUG_prog_lang_list": "Python; JavaScript",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0; ISO 20022"
+  },
+  "ai": {
+    "AI_MODEL": 1,
+    "AI_MODEL_types": "LLM; embeddings; vision; speech synthesis; speech recognition",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "AI-\u043f\u043e\u0438\u0441\u043a",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "Russian",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 1,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/sberbank-ai",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 1,
+    "GIT_prog_lang_list": "Python",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "Russian",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "Russian",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 1,
+    "CERT_lang": 1,
+    "CERT_lang_list": "Russian",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "Russian"
+  },
+  "moderators": {
+    "home_primary_lang": "Russian",
+    "language_notes": "Platform is primarily in Russian language"
+  },
+  "evidence": {
+    "API_evidence": "Multiple API references found including GigaChat API, SaluteJazz API, Sber API, SaluteSpeech API with REST and gRPC endpoints documented",
+    "SDK_evidence": "Multiple SDKs documented including SberPay SDK, Ecom SDK, GigaChain Python library, SaluteVision Mobile SDK for iOS/Android, and SDK support for Java, JavaScript, Python, C#, PHP",
+    "AI_evidence": "Extensive AI capabilities including GigaChat API for LLM, SaluteSpeech for speech synthesis/recognition, AI-\u043f\u043e\u0438\u0441\u043a (AI search) functionality, and various ML models and libraries",
+    "language_evidence": "Platform content is primarily in Russian, with documentation, UI, and support materials in Russian language"
+  },
+  "pages_analyzed": 35,
+  "coding_notes": "Platform is Sberbank's comprehensive developer portal with extensive API offerings, AI services, and developer tools. Strong documentation and SDK support. OAuth-based authentication with role-based access control. Comprehensive privacy policy and legal documentation. Certification process for integrators. Free access model with paid tiers for higher usage.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "3 \u2192 1",
+        "GIT_prog_lang_list": "\"Python; Dockerfile; Jupyter Notebook\" \u2192 \"Python\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 2,
+    "details": [
+      "SDK_prog_lang: C=5(5) G=2(2) \u2192 5",
+      "CERT_lang: C=1(1) G=0(0) \u2192 1"
+    ],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "COM_social_media: 0\u21921 (ChatGPT found)",
+      "COM_Discord: 0\u21921 (ChatGPT found)"
+    ]
+  }
+}

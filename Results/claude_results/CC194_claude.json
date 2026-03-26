@@ -1,0 +1,120 @@
+{
+  "platform_id": "CC194",
+  "platform_name": "Investec Bank Ltd",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "English",
+    "SDK_prog_lang": 1,
+    "SDK_prog_lang_list": "Ruby",
+    "BUG": 1,
+    "BUG_types": "sandbox; test environment",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 1,
+    "AI_ASSIST_tools": "AI-Friendly Developer Sandbox; AI prompts for ChatGPT; Claude; Copilot",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/investec",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 1,
+    "GIT_prog_lang_list": "TypeScript",
+    "MON": 0,
+    "EVENT": 1,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 1,
+    "EVENT_in_person": 1,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "South Africa",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 1,
+    "ROLE_lang_list": "English",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "Investec Open API documented with REST endpoints for accounts, transactions, balances, and transfers. Ruby wrapper shows GET and POST methods. OAuth 2.0 authentication required.",
+    "SDK_evidence": "Ruby wrapper (investec_open_api gem) available on GitHub with installation instructions and usage examples. Community-created SDK for interacting with Investec Open API.",
+    "AI_evidence": "AI-Friendly Developer Sandbox with 14 AI prompts for ChatGPT, Claude, and Copilot. Includes mock server and OAuth playground for AI-assisted development.",
+    "language_evidence": "All content in English. No language switcher found on developer portal."
+  },
+  "pages_analyzed": 50,
+  "coding_notes": "ROLE=1 because OAuth 2.0 authentication with client credentials provides scoped access control. DATA=1 because Terms of Use and Privacy Policy govern API data usage. OPEN=1 because free registration available with sandbox environment. BUG=1 because sandbox environment and chaos testing tools provided. AI_ASSIST=1 for comprehensive AI development tools and prompts.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_url": "\"https://github.com/Investec-Developer-Community\" → \"https://github.com/investec\""
+      }
+    }
+  }
+}

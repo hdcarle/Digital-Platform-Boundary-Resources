@@ -168,7 +168,7 @@ dissertation_batch_api/
 │
 REFERENCE/
 ├── PROGRAMMING_LANGUAGES_INDEX.md  # 50 valid languages + mapping rules
-├── AI_CODING_PROMPT_v3.0.md  # Coding instructions for AI coders
+├── AI_CODING_PROMPT_v3.0.md        # Coding instructions for AI coders (corrected from v2.0)
 └── FULL_DATASET_TASK_CONTEXT.md    # Master task tracking document
 ```
 

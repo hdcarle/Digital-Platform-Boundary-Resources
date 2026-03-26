@@ -1,0 +1,132 @@
+{
+  "platform_id": "CA16",
+  "platform_name": "CE Info Systems Ltd",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "English",
+    "SDK_prog_lang": 6,
+    "SDK_prog_lang_list": "Swift; HTML; Kotlin; Dart; Java; TypeScript",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 1,
+    "COM_training": 0,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/mappls-api",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 6,
+    "GIT_prog_lang_list": "Dart; HTML/CSS; Java; Kotlin; Swift; TypeScript",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 0,
+    "DATA_lang": 0,
+    "DATA_lang_list": "",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "Multiple API categories documented: Map APIs, Search & Geocoding APIs, Routes & Navigation APIs, Analytics APIs, Tracking APIs, etc. Content shows '120+ APIs' and extensive API documentation structure.",
+    "SDK_evidence": "GitHub repositories show SDKs for multiple platforms: mappls-android-sdk (Kotlin), mappls-flutter-sdk (Dart), mappls-ios-sdk (Swift), mappls-react-native-sdk (TypeScript), mappls-intouch-android-sdk (Java), mappls-app-widgets (HTML).",
+    "AI_evidence": "No AI model APIs, AI agents, or AI assistance tools found in the content.",
+    "language_evidence": "Content is in English throughout. No language switcher or multi-language content detected."
+  },
+  "pages_analyzed": 1,
+  "coding_notes": "Platform offers extensive mapping and location APIs with SDKs for multiple programming languages. GitHub repository analysis provided programming language counts. No specific HTTP methods documented in scraped content, hence METH=0. Free access available via 'Start for free' buttons throughout the site.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang_list": "\"Swift; HTML; Kotlin; Dart; Java; TypeScript\" \u2192 \"Dart; HTML/CSS; Java; Kotlin; Swift; TypeScript\""
+      }
+    }
+  },
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 1,
+    "details": [
+      "COM_lang: C=1(1) G=0(0) \u2192 1"
+    ],
+    "non_lang_method": "claude_primary_chatgpt_validation",
+    "non_lang_changes": [
+      "METH: 0\u21922 (ChatGPT higher)"
+    ]
+  }
+}

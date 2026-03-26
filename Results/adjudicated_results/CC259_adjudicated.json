@@ -1,0 +1,121 @@
+{
+  "platform_id": "CC259",
+  "platform_name": "Riyad Bank",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "Open Banking Developer Portal (WSL) requires registration to access full documentation",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 1,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 0,
+    "SDK_lang": 0,
+    "SDK_lang_list": "",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 0,
+    "BUG_types": "",
+    "BUG_prog_lang_list": "",
+    "STAN": 0,
+    "STAN_list": ""
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 2,
+    "COM_lang_list": "Arabic; English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 0,
+    "COM_help_support": 1,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 1,
+    "GIT": 0,
+    "GIT_url": "",
+    "GIT_lang": 0,
+    "GIT_lang_list": "",
+    "GIT_prog_lang": 0,
+    "GIT_prog_lang_list": "",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 2,
+    "ROLE_lang_list": "Arabic; English",
+    "DATA": 1,
+    "DATA_lang": 2,
+    "DATA_lang_list": "Arabic; English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 0,
+    "OPEN_lang": 0,
+    "OPEN_lang_list": ""
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": "Arabic language selector available"
+  },
+  "evidence": {
+    "API_evidence": "Open Banking Developer Portal (WSL) mentioned with API integration platform for external customers and partners. Account Information Service (AIS) APIs documented for third-party providers.",
+    "SDK_evidence": "No SDK documentation found in the scraped content",
+    "AI_evidence": "No AI-related resources found",
+    "language_evidence": "Language selector shows \u0627\u0644\u0639\u0631\u0628\u064a\u0629 (Arabic) and English options throughout the portal"
+  },
+  "pages_analyzed": 27,
+  "coding_notes": "OPEN=0 because access to the Open Banking Developer Portal (WSL) requires registration and approval process for third-party providers. ROLE=1 due to explicit consent management and different access levels for third-party providers. DATA=1 due to Privacy Notice and data governance policies for Open Banking services. METH=0 because no specific HTTP methods documented in available content - full API documentation likely behind registration wall.",
+  "adjudication": {
+    "method": "automated_union",
+    "rules": "English=1, union_of_lists",
+    "changes": 3,
+    "details": [
+      "COM_lang: C=2(2) G=0(0) \u2192 2",
+      "ROLE_lang: C=2(2) G=0(0) \u2192 2",
+      "DATA_lang: C=2(2) G=0(0) \u2192 2"
+    ]
+  }
+}

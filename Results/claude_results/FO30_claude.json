@@ -1,0 +1,121 @@
+{
+  "platform_id": "FO30",
+  "platform_name": "GoTo Group",
+  "analysis_date": "2026-02-19",
+  "coder": "Claude",
+  "PLAT": "REGISTRATION",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "Main developer portal URL returns 404, but extensive blog content exists with technical articles",
+  "platform_controls": {
+    "AGE": 0,
+    "API_YEAR": ""
+  },
+  "application": {
+    "API": 0,
+    "METH": 0,
+    "METH_list": ""
+  },
+  "development": {
+    "DEVP": 0,
+    "DOCS": 0,
+    "SDK": 1,
+    "SDK_lang": 1,
+    "SDK_lang_list": "English",
+    "SDK_prog_lang": 8,
+    "SDK_prog_lang_list": "Go; JavaScript; Swift; Kotlin; Python; Dart; Clojure; C++",
+    "BUG": 1,
+    "BUG_types": "Testing tools; Performance profiling; Monitoring",
+    "BUG_prog_lang_list": "Go; JavaScript; Swift; Kotlin; Python; Dart; Clojure",
+    "STAN": 1,
+    "STAN_list": "ISO 27001; ISO 27701"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 1,
+    "COM_lang_list": "English",
+    "COM_social_media": 1,
+    "COM_forum": 0,
+    "COM_blog": 1,
+    "COM_help_support": 0,
+    "COM_live_chat": 0,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 0,
+    "COM_FAQ": 0,
+    "GIT": 1,
+    "GIT_url": "https://github.com/gojek",
+    "GIT_lang": 1,
+    "GIT_lang_list": "English",
+    "GIT_prog_lang": 7,
+    "GIT_prog_lang_list": "Clojure; Dart; Go; JavaScript; Kotlin; Python; Swift",
+    "MON": 0,
+    "EVENT": 0,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 0,
+    "EVENT_in_person": 0,
+    "EVENT_conference": 0,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "",
+    "SPAN": 0,
+    "SPAN_internal": 0,
+    "SPAN_communities": 0,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 0,
+    "ROLE_lang": 0,
+    "ROLE_lang_list": "",
+    "DATA": 1,
+    "DATA_lang": 1,
+    "DATA_lang_list": "English",
+    "STORE": 0,
+    "STORE_lang": 0,
+    "STORE_lang_list": "",
+    "CERT": 0,
+    "CERT_lang": 0,
+    "CERT_lang_list": "",
+    "OPEN": 1,
+    "OPEN_lang": 1,
+    "OPEN_lang_list": "English"
+  },
+  "moderators": {
+    "home_primary_lang": "English",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "No API documentation found - main developer portal URL returns 404",
+    "SDK_evidence": "GitHub repositories contain multiple SDKs and client libraries in Go, JavaScript, Swift, Kotlin, Python, Dart, Clojure, and C++",
+    "AI_evidence": "No AI-specific resources found",
+    "language_evidence": "All content in English, no language switcher found"
+  },
+  "pages_analyzed": 10,
+  "coding_notes": "Main developer portal URL (https://www.gojek.io/developers/) returns 404 error, but extensive GitHub presence with open source projects and technical blog content exists. Platform has strong engineering culture evidenced by detailed technical blog posts. ISO certifications mentioned in blog content.",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT_prog_lang": "8 → 7",
+        "GIT_prog_lang_list": "\"Go; JavaScript; Swift; Kotlin; Python; Dart; Clojure; C++\" → \"Clojure; Dart; Go; JavaScript; Kotlin; Python; Swift\""
+      }
+    }
+  }
+}

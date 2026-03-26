@@ -1,0 +1,123 @@
+{
+  "platform_id": "CP50",
+  "platform_name": "Huawei Technologies Co Ltd",
+  "analysis_date": "2026-02-19",
+  "coder": "ChatGPT",
+  "PLAT": "PUBLIC",
+  "auto_coded": false,
+  "success": true,
+  "error": null,
+  "PLAT_Notes": "",
+  "platform_controls": {
+    "AGE": 4,
+    "API_YEAR": "2025"
+  },
+  "application": {
+    "API": 1,
+    "METH": 2,
+    "METH_list": "GET; POST"
+  },
+  "development": {
+    "DEVP": 1,
+    "DOCS": 1,
+    "SDK": 1,
+    "SDK_lang": 9,
+    "SDK_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean",
+    "SDK_prog_lang": 0,
+    "SDK_prog_lang_list": "",
+    "BUG": 1,
+    "BUG_types": "Cloud Testing; Cloud Debugging",
+    "BUG_prog_lang_list": "",
+    "STAN": 1,
+    "STAN_list": "OAuth 2.0"
+  },
+  "ai": {
+    "AI_MODEL": 0,
+    "AI_MODEL_types": "",
+    "AI_AGENT": 0,
+    "AI_AGENT_platforms": "",
+    "AI_ASSIST": 0,
+    "AI_ASSIST_tools": "",
+    "AI_DATA": 0,
+    "AI_DATA_protocols": "",
+    "AI_MKT": 0,
+    "AI_MKT_type": ""
+  },
+  "social": {
+    "COM_lang": 9,
+    "COM_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean",
+    "COM_social_media": 1,
+    "COM_forum": 1,
+    "COM_blog": 1,
+    "COM_help_support": 1,
+    "COM_live_chat": 1,
+    "COM_Slack": 0,
+    "COM_Discord": 0,
+    "COM_stackoverflow": 0,
+    "COM_training": 1,
+    "COM_FAQ": 1,
+    "GIT": 1,
+    "GIT_url": "https://github.com/huawei",
+    "GIT_lang": 0,
+    "GIT_lang_list": "",
+    "GIT_prog_lang": 8,
+    "GIT_prog_lang_list": "Bash/Shell; C; C#; Go; HTML/CSS; Java; PowerShell; Python",
+    "MON": 1,
+    "EVENT": 3,
+    "EVENT_webinars": 0,
+    "EVENT_virtual": 1,
+    "EVENT_in_person": 1,
+    "EVENT_conference": 1,
+    "EVENT_hackathon": 0,
+    "EVENT_other": 0,
+    "EVENT_countries": "Germany; Sweden; Turkey; Spain; France; UK",
+    "SPAN": 1,
+    "SPAN_internal": 0,
+    "SPAN_communities": 1,
+    "SPAN_external": 0,
+    "SPAN_lang": 0,
+    "SPAN_lang_list": "",
+    "SPAN_countries": ""
+  },
+  "governance": {
+    "ROLE": 1,
+    "ROLE_lang": 9,
+    "ROLE_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean",
+    "DATA": 1,
+    "DATA_lang": 9,
+    "DATA_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean",
+    "STORE": 1,
+    "STORE_lang": 9,
+    "STORE_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean",
+    "CERT": 1,
+    "CERT_lang": 9,
+    "CERT_lang_list": "English; Simplified Chinese; Russian; Spanish; Portuguese; French; German; Japanese; Korean",
+    "OPEN": 1,
+    "OPEN_lang": 9,
+    "OPEN_lang_list": "English; 简体中文; Русский; Español (América Latina); Português (Brasil); Français (Europe); Deutsch; Japanese; 한국어"
+  },
+  "moderators": {
+    "home_primary_lang": "",
+    "language_notes": ""
+  },
+  "evidence": {
+    "API_evidence": "API documentation and endpoints for HMS Core and HarmonyOS are available.",
+    "SDK_evidence": "SDKs for HarmonyOS and HMS Core are available for download.",
+    "AI_evidence": "",
+    "language_evidence": "Language options available on the portal include English, 简体中文, Русский, Español (América Latina), Português (Brasil), Français (Europe), Deutsch, Japanese, 한국어."
+  },
+  "pages_analyzed": 30,
+  "coding_notes": "",
+  "augmentation": {
+    "github_augment": {
+      "date": "2026-02-20",
+      "script": "github_augment_results.py",
+      "changes": {
+        "GIT": "0 → 1",
+        "GIT_url": "\"\" → \"https://github.com/huawei\"",
+        "GIT_prog_lang": "0 → 8",
+        "GIT_prog_lang_list": "\"\" → \"Bash/Shell; C; C#; Go; HTML/CSS; Java; PowerShell; Python\""
+      }
+    }
+  }
+}

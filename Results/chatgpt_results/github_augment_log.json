@@ -1,0 +1,737 @@
+{
+  "date": "2026-02-20 08:27",
+  "mode": "live",
+  "scraped_dir": "scraped_content/",
+  "results_dir": "chatgpt_results/",
+  "total_updated": 87,
+  "changes": [
+    {
+      "platform_id": "CA16",
+      "file": "CA16_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Swift; HTML; Kotlin; Dart; Java; TypeScript\" \u2192 \"Dart; HTML/CSS; Java; Kotlin; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC109",
+      "file": "CC109_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "6 \u2192 5",
+        "GIT_prog_lang_list": "\"Python; Go; JavaScript; TypeScript; R; Jupyter Notebook\" \u2192 \"Go; JavaScript; Python; R; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC12",
+      "file": "CC12_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 6",
+        "GIT_prog_lang_list": "\"JavaScript; TypeScript; Java; C#; Swift\" \u2192 \"C#; HTML/CSS; Java; JavaScript; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC131",
+      "file": "CC131_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 1",
+        "GIT_prog_lang_list": "\"\" \u2192 \"HTML/CSS\""
+      }
+    },
+    {
+      "platform_id": "CC134",
+      "file": "CC134_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; Python; CSS\" \u2192 \"HTML/CSS; Java; Python\""
+      }
+    },
+    {
+      "platform_id": "CC138",
+      "file": "CC138_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; C#; JavaScript; Python\" \u2192 \"C#; Java; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "CC141",
+      "file": "CC141_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"HTML/CSS; Python; JavaScript\" \u2192 \"HTML/CSS; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "CC143",
+      "file": "CC143_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; C#; TypeScript\" \u2192 \"C#; Java; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC179",
+      "file": "CC179_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python;Java;Go;HTML;Swift;C#;Kotlin\" \u2192 \"C#; Go; HTML/CSS; Java; Kotlin; Python; Swift\""
+      }
+    },
+    {
+      "platform_id": "CC189",
+      "file": "CC189_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; Python; TypeScript; Scala; Java; HTML/CSS; JavaScript; C++; Shell; Kotlin\" \u2192 \"Bash/Shell; C++; Go; HTML/CSS; Java; JavaScript; Kotlin; Python; Scala; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC18",
+      "file": "CC18_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript;Java;Go;Python;TypeScript\" \u2192 \"Go; Java; JavaScript; Python; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC194",
+      "file": "CC194_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/Investec-Developer-Community\" \u2192 \"https://github.com/investec\"",
+        "GIT_prog_lang": "3 \u2192 1",
+        "GIT_prog_lang_list": "\"Ruby; JavaScript; TypeScript\" \u2192 \"TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC199",
+      "file": "CC199_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"Python; TypeScript; Jupyter Notebook; Kotlin; Java\" \u2192 \"Java; Kotlin; Python; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC19",
+      "file": "CC19_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; C; JavaScript; TypeScript; Ruby; Java; Shell\" \u2192 \"Bash/Shell; C; Go; Java; JavaScript; Ruby; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC226",
+      "file": "CC226_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 6",
+        "GIT_prog_lang_list": "\"Python; HTML; C#; JavaScript; PHP\" \u2192 \"Bash/Shell; C#; HTML/CSS; JavaScript; PHP; Python\""
+      }
+    },
+    {
+      "platform_id": "CC254",
+      "file": "CC254_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go;Java;Kotlin;Ruby;JavaScript\" \u2192 \"Go; Java; JavaScript; Kotlin; Ruby\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC267",
+      "file": "CC267_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "3 \u2192 1",
+        "GIT_prog_lang_list": "\"Python; Dockerfile; Jupyter Notebook\" \u2192 \"Python\""
+      }
+    },
+    {
+      "platform_id": "CC285",
+      "file": "CC285_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"HTML\" \u2192 \"HTML/CSS\""
+      }
+    },
+    {
+      "platform_id": "CC303",
+      "file": "CC303_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 9",
+        "GIT_prog_lang_list": "\"Scala; TypeScript; JavaScript; C#; Java; HTML; Go; Python\" \u2192 \"Bash/Shell; C#; Go; HTML/CSS; Java; JavaScript; Python; Scala; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC312",
+      "file": "CC312_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"C; TypeScript; Python; Java; Objective-C; Kotlin; JavaScript; Ruby; Swift; HTML\" \u2192 \"C; HTML/CSS; Java; JavaScript; Kotlin; Objective-C; Python; Ruby; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC32",
+      "file": "CC32_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; TypeScript; Go; C++; HTML; JavaScript; Scala; Haskell\" \u2192 \"C++; Go; HTML/CSS; Haskell; JavaScript; Python; Scala; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CC335",
+      "file": "CC335_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"HTML; Go; TypeScript; JavaScript\" \u2192 \"Go; HTML/CSS; JavaScript; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CC54",
+      "file": "CC54_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go;TypeScript;CSS;Jupyter Notebook;JavaScript\" \u2192 \"Go; HTML/CSS; JavaScript; Python; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CP115",
+      "file": "CP115_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 6",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Java; Perl; Python\""
+      }
+    },
+    {
+      "platform_id": "CP14",
+      "file": "CP14_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"C; Makefile; C++; Shell; Java\" \u2192 \"Bash/Shell; C; C++; Java\""
+      }
+    },
+    {
+      "platform_id": "CP29",
+      "file": "CP29_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://developer.dell.com/open-source\" \u2192 \"https://github.com/dell\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; Go; HTML/CSS; Java; JavaScript; PowerShell; Python\""
+      }
+    },
+    {
+      "platform_id": "CP50",
+      "file": "CP50_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/huawei\"",
+        "GIT_prog_lang": "0 \u2192 8",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C#; Go; HTML/CSS; Java; PowerShell; Python\""
+      }
+    },
+    {
+      "platform_id": "CP5",
+      "file": "CP5_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://github.com\" \u2192 \"https://github.com/google\"",
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C++; Go; HTML/CSS; Java; JavaScript; Python; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP66",
+      "file": "CP66_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 9",
+        "GIT_prog_lang_list": "\"Go;TypeScript;C++;Shell;Python;Java;PowerShell;C#\" \u2192 \"Bash/Shell; C; C#; C++; Go; Java; PowerShell; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP71",
+      "file": "CP71_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/lenovo\"",
+        "GIT_prog_lang": "0 \u2192 8",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Java; JavaScript; PowerShell; Python; Ruby\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CP7",
+      "file": "CP7_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C++; Java; Kotlin; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP81",
+      "file": "CP81_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/NEC\"",
+        "GIT_prog_lang": "0 \u2192 2",
+        "GIT_prog_lang_list": "\"\" \u2192 \"JavaScript; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP85",
+      "file": "CP85_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/readthedocs/sphinx_rtd_theme\" \u2192 \"https://github.com/nokia\"",
+        "GIT_prog_lang": "4 \u2192 5",
+        "GIT_prog_lang_list": "\"HTML/CSS;JavaScript;Python;Shell\" \u2192 \"Bash/Shell; C; Go; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "CP8",
+      "file": "CP8_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript;Python;Java;C#;HTML;Scala\" \u2192 \"C#; HTML/CSS; Java; JavaScript; Python; Scala\""
+      }
+    },
+    {
+      "platform_id": "CP98",
+      "file": "CP98_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/razerofficial\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C#; C++; Java; JavaScript; Python\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "CP9",
+      "file": "CP9_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/apple\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C#; C++; Java; Kotlin; Python; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO11",
+      "file": "FO11_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/deliveroo\"",
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Go; HTML/CSS; Ruby; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO12",
+      "file": "FO12_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 3",
+        "GIT_prog_lang_list": "\"Go;Python;Kotlin;HCL;Mustache\" \u2192 \"Go; Kotlin; Python\""
+      }
+    },
+    {
+      "platform_id": "FO14",
+      "file": "FO14_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; JavaScript; Go; TypeScript; C; Objective-C; Kotlin; Dart\" \u2192 \"C; Dart; Go; Java; JavaScript; Kotlin; Objective-C; TypeScript\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO17",
+      "file": "FO17_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; Java; JavaScript; Objective-C; Python\""
+      }
+    },
+    {
+      "platform_id": "FO30",
+      "file": "FO30_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; JavaScript; Swift; Kotlin; Python; Dart; Clojure\" \u2192 \"Clojure; Dart; Go; JavaScript; Kotlin; Python; Swift\""
+      }
+    },
+    {
+      "platform_id": "FO31",
+      "file": "FO31_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 10",
+        "GIT_prog_lang_list": "\"JavaScript; Kotlin; Go; Python; TypeScript\" \u2192 \"C++; Go; HTML/CSS; Java; JavaScript; Kotlin; PHP; Python; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO41",
+      "file": "FO41_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 7",
+        "GIT_prog_lang_list": "\"Swift; C#; JavaScript; SCSS; Scala; CSS; TypeScript; PowerShell\" \u2192 \"C#; HTML/CSS; JavaScript; PowerShell; Scala; Swift; TypeScript\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO42",
+      "file": "FO42_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; Java; Kotlin; Python; Ruby; JavaScript; PHP; Go; C++; Objective-C\" \u2192 \"C++; Go; Java; JavaScript; Kotlin; Objective-C; PHP; Python; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "FO4",
+      "file": "FO4_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/boltapp\"",
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C#; C++; Go; JavaScript; PHP; Python; Ruby; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO71",
+      "file": "FO71_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 7",
+        "GIT_prog_lang_list": "\"Swift; C#; JavaScript; SCSS; Scala; CSS; TypeScript; PowerShell\" \u2192 \"C#; HTML/CSS; JavaScript; PowerShell; Scala; Swift; TypeScript\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO74",
+      "file": "FO74_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/uber\"",
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; Go; HTML/CSS; Java; JavaScript; Objective-C; Python; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "FO79",
+      "file": "FO79_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/zomato\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Go; Java; Kotlin; Ruby\""
+      }
+    },
+    {
+      "platform_id": "HO111",
+      "file": "HO111_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java;TypeScript;Kotlin;JavaScript;Python;Shell;Go\" \u2192 \"Bash/Shell; Go; Java; JavaScript; Kotlin; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "HO307",
+      "file": "HO307_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; Java; HTML; Python; Shell\" \u2192 \"Bash/Shell; HTML/CSS; Java; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "HO368",
+      "file": "HO368_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java;TypeScript;Perl\" \u2192 \"Java; Perl; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "HO56",
+      "file": "HO56_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/bookingcom\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Go; JavaScript; Python; Swift\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "HO5",
+      "file": "HO5_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 9",
+        "GIT_prog_lang_list": "\"Java; TypeScript; Kotlin; Swift; Python; Ruby; JavaScript; Scala\" \u2192 \"HTML/CSS; Java; JavaScript; Kotlin; Python; Ruby; Scala; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "PE110",
+      "file": "PE110_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/Logitech\"",
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C#; C++; JavaScript; Python\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "PE153",
+      "file": "PE153_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "12 \u2192 11",
+        "GIT_prog_lang_list": "\"Go; Swift; Kotlin; Python; JavaScript; Ruby; Groovy; PHP; Jupyter Notebook; TypeScript; Rust; HTML/CSS\" \u2192 \"Go; Groovy; HTML/CSS; JavaScript; Kotlin; PHP; Python; Ruby; Rust; Swift; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "PE179",
+      "file": "PE179_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; Rust; JavaScript; C\" \u2192 \"C; JavaScript; Python; Rust\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "PE187",
+      "file": "PE187_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 9",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C; C#; C++; HTML/CSS; Java; JavaScript; Objective-C; Python; Ruby\""
+      }
+    },
+    {
+      "platform_id": "PE197",
+      "file": "PE197_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "9 \u2192 10",
+        "GIT_prog_lang_list": "\"Swift;TypeScript;Python;Kotlin;Go;C++;Java;Groovy;HTML\" \u2192 \"C++; Go; Groovy; HTML/CSS; Java; Kotlin; Python; Ruby; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "PE210",
+      "file": "PE210_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/westerndigitalcorporation\"",
+        "GIT_prog_lang": "0 \u2192 7",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C++; Go; JavaScript; Python; Rust\""
+      }
+    },
+    {
+      "platform_id": "PE216",
+      "file": "PE216_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 10",
+        "GIT_prog_lang_list": "\"Python; Go; Dart; Swift; C++; TypeScript; C; Ruby; C#; Kotlin\" \u2192 \"C; C#; C++; Dart; Go; Kotlin; Python; Ruby; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "PE219",
+      "file": "PE219_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "3 \u2192 4",
+        "GIT_prog_lang_list": "\"JavaScript; Shell; C\" \u2192 \"Bash/Shell; C; HTML/CSS; JavaScript\""
+      }
+    },
+    {
+      "platform_id": "PE33",
+      "file": "PE33_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Go; Python; C\" \u2192 \"C; Go; Python\""
+      }
+    },
+    {
+      "platform_id": "PE67",
+      "file": "PE67_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://developer.garmin.com/open-source/\" \u2192 \"https://github.com/garmin\"",
+        "GIT_prog_lang": "8 \u2192 11",
+        "GIT_prog_lang_list": "\"C; C#; C++; Java; JavaScript; Kotlin; Python; Swift\" \u2192 \"Bash/Shell; C; C#; C++; Java; JavaScript; Kotlin; Objective-C; Python; Ruby; Swift\""
+      }
+    },
+    {
+      "platform_id": "PE71",
+      "file": "PE71_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/jabra\"",
+        "GIT_prog_lang": "0 \u2192 1",
+        "GIT_prog_lang_list": "\"\" \u2192 \"HTML/CSS\""
+      }
+    },
+    {
+      "platform_id": "PE72",
+      "file": "PE72_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/gopro/OpenGoPro/issues\" \u2192 \"https://github.com/gopro/OpenGoPro/tree/main/demos\"",
+        "GIT_prog_lang": "0 \u2192 4",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; HTML/CSS; Kotlin; Python\""
+      }
+    },
+    {
+      "platform_id": "PE8",
+      "file": "PE8_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "6 \u2192 5",
+        "GIT_prog_lang_list": "\"Java; Python; TypeScript; C++; Go; Cuda\" \u2192 \"C++; Go; Java; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "TG574",
+      "file": "TG574_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; Objective-C; JavaScript; C#\" \u2192 \"C#; Java; JavaScript; Objective-C\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)"
+      }
+    },
+    {
+      "platform_id": "TR33",
+      "file": "TR33_chatgpt.json",
+      "changes": {
+        "GIT": "0 \u2192 1",
+        "GIT_url": "\"\" \u2192 \"https://github.com/americanairlines\"",
+        "GIT_prog_lang": "0 \u2192 2",
+        "GIT_prog_lang_list": "\"\" \u2192 \"JavaScript; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG102",
+      "file": "VG102_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "7 \u2192 8",
+        "GIT_prog_lang_list": "\"TypeScript; JavaScript; C#; Lua; Scala; Shell; HTML\" \u2192 \"Bash/Shell; C#; HTML/CSS; JavaScript; Lua; Ruby; Scala; TypeScript\"",
+        "API": "0 \u2192 1 (GitHub repos contain API-related names)"
+      }
+    },
+    {
+      "platform_id": "VG120",
+      "file": "VG120_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/facebookarchive/php-graph-sdk\" \u2192 \"https://github.com/facebook\"",
+        "GIT_prog_lang": "1 \u2192 7",
+        "GIT_prog_lang_list": "\"PHP\" \u2192 \"C; C++; JavaScript; OCaml; Python; Rust; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG121",
+      "file": "VG121_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://developer.microsoft.com/en-us/games/articles/2025/07/windows-gaming-handheld-code-samples/\" \u2192 \"https://github.com/microsoft\"",
+        "GIT_prog_lang": "0 \u2192 8",
+        "GIT_prog_lang_list": "\"\" \u2192 \"C#; C++; HTML/CSS; Java; PowerShell; Python; SQL; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG131",
+      "file": "VG131_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; C++; JavaScript; HTML\" \u2192 \"C++; HTML/CSS; JavaScript; Python\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "VG138",
+      "file": "VG138_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Objective-C; Swift; Rust; PHP; Go; C++; C#\" \u2192 \"C#; C++; Go; Objective-C; PHP; Rust; Swift\""
+      }
+    },
+    {
+      "platform_id": "VG139",
+      "file": "VG139_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "8 \u2192 9",
+        "GIT_prog_lang_list": "\"JavaScript; TypeScript; Java; Python; Kotlin; Swift; Objective-C; C#\" \u2192 \"C#; HTML/CSS; Java; JavaScript; Kotlin; Objective-C; Python; Swift; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG161",
+      "file": "VG161_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"Lua;Python;Rust;TypeScript\" \u2192 \"Lua; Python; Rust; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "VG163",
+      "file": "VG163_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://developer.samsung.com/open-source\" \u2192 \"https://github.com/samsung\"",
+        "GIT_prog_lang_list": "\"Python; C++; C; C#; JavaScript; Java\" \u2192 \"C; C#; C++; Java; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "VG180",
+      "file": "VG180_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python; C++; Go; CSS; JavaScript; TypeScript; C#\" \u2192 \"C#; C++; Go; HTML/CSS; JavaScript; Python; TypeScript\"",
+        "SDK": "0 \u2192 1 (GitHub repos contain SDK/samples)"
+      }
+    },
+    {
+      "platform_id": "VG193",
+      "file": "VG193_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Java; C++; TypeScript; Python; JavaScript; Go\" \u2192 \"C++; Go; HTML/CSS; Java; JavaScript; Python; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG197",
+      "file": "VG197_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "7 \u2192 5",
+        "GIT_prog_lang_list": "\"Python; C#; Solidity; C; HLSL; Jupyter Notebook; C++\" \u2192 \"C; C#; C++; Python; Solidity\""
+      }
+    },
+    {
+      "platform_id": "VG198",
+      "file": "VG198_chatgpt.json",
+      "changes": {
+        "GIT_url": "\"https://github.com/ValveSoftware/ToGL\" \u2192 \"https://github.com/ValveSoftware\"",
+        "GIT_prog_lang": "0 \u2192 5",
+        "GIT_prog_lang_list": "\"\" \u2192 \"Bash/Shell; C; C#; C++; JavaScript\""
+      }
+    },
+    {
+      "platform_id": "VG202",
+      "file": "VG202_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "0 \u2192 1",
+        "GIT_prog_lang_list": "\"\" \u2192 \"HTML/CSS\""
+      }
+    },
+    {
+      "platform_id": "VG26",
+      "file": "VG26_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "5 \u2192 4",
+        "GIT_prog_lang_list": "\"C#; C++; C; Python; HLSL\" \u2192 \"C; C#; C++; Python\""
+      }
+    },
+    {
+      "platform_id": "VG28",
+      "file": "VG28_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"Python;C++;JavaScript\" \u2192 \"C++; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "VG47",
+      "file": "VG47_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "4 \u2192 3",
+        "GIT_prog_lang_list": "\"C#; Mathematica; TypeScript; C\" \u2192 \"C; C#; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG79",
+      "file": "VG79_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"TypeScript; Go; Ruby\" \u2192 \"Go; Ruby; TypeScript\""
+      }
+    },
+    {
+      "platform_id": "VG8",
+      "file": "VG8_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang_list": "\"JavaScript; C#; Python\" \u2192 \"C#; JavaScript; Python\""
+      }
+    },
+    {
+      "platform_id": "VG91",
+      "file": "VG91_chatgpt.json",
+      "changes": {
+        "GIT_prog_lang": "7 \u2192 9",
+        "GIT_prog_lang_list": "\"Python; Go; Swift; Shell; Kotlin; JavaScript; Dart\" \u2192 \"Bash/Shell; Dart; Go; HTML/CSS; Java; JavaScript; Kotlin; Python; Swift\""
+      }
+    }
+  ]
+}
