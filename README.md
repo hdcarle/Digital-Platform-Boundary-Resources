@@ -26,7 +26,7 @@ Methodology documentation, coding instructions, and workflow guides:
 - `AI_CODING_PROMPT_v3.0.md` — Complete coding instructions provided to both Claude and ChatGPT AI coders (76 variables across 5 boundary resource classes)
 - `Data_Collection_Codebook_v2.0.md` — Human-oriented codebook with detailed variable definitions
 - `PROGRAMMING_LANGUAGES_INDEX.md` — Official list of 50 valid programming languages with mapping rules
-- `SCRAPING_AND_LANG_CODING_CONTEXT.md` — Context document for web scraping and language coding
+
 
 ### Python Scripts (`Scripts/`)
 
@@ -40,7 +40,6 @@ Automated data collection pipeline — 17 scripts covering web scraping, GitHub 
 | `irr_calculator.py` | IRR | Gwet's AC1, Cohen's Kappa, Krippendorff's Alpha, ICC |
 | `merge_results.py` | Merge | Consensus-rule merge into MASTER_CODEBOOK |
 
-See `COMPLETE_BEGINNER_GUIDE.md` (root) for step-by-step instructions.
 
 ### R Scripts (`R scripts/`)
 
