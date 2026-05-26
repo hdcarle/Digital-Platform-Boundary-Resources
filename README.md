@@ -108,7 +108,7 @@ See `REFERENCE/MULTI_CODER_WORKFLOW_v2.0_FINAL.md` for the complete pipeline doc
 
 ## Citation
 
-Carle, H. D. (2026). *Internationalization of Digital Platform Firms: An Exploration of Resource Orchestration, Platform Accessibility, and Cultural Distance* [Doctoral dissertation, University of North Carolina at Greensboro].
+Carle, H. D. (2026). *Internationalization of Digital Platform Firms: An Exploration of Resource Orchestration, Platform Accessibility, and Cultural Distance* (Publication No. 32575232) [Doctoral dissertation, University of North Carolina at Greensboro]. PQDT Open. https://www.proquest.com/docview/3344339956
 
 ## License
 
